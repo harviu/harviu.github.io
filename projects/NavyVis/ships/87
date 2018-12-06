@@ -1,0 +1,368 @@
+<html>
+
+<head>
+<title>Battleship USS Maryland (BB-46) | World War II Database</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Battleship USS Maryland (BB-46) | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Battleship USS Maryland (BB-46) | World War II Database">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="REVISIT-AFTER" CONTENT="15 days">
+<META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
+<META NAME="AUTHOR" CONTENT="C. Peter Chen">
+<META NAME="CONTACT_ADDR" CONTENT="editor@ww2db.com">
+<META NAME="DISTRIBUTION" CONTENT="Global">
+<META NAME="RESOURCE-TYPE" CONTENT="document">
+<META HTTP-EQUIV="CONTENT-LANGUAGE" CONTENT="english">
+<meta name="MSSmartTagsPreventParsing" content="true">
+
+	
+	<link rel="stylesheet" type="text/css" href="/css/structure.css">
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+<link rel="stylesheet" type="text/css" href="/css/tags.css">
+
+<link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
+
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=B133' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=133' />
+
+<meta property="fb:app_id" content="103484127961" />
+<meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
+
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_maryland1.jpg" />
+	<meta property="og:site_name" content="WW2DB" />
+	<meta property="og:title" content="Battleship USS Maryland (BB-46)" />
+	<meta property="og:description" content="Battleship USS Maryland (BB-46)" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=B133" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_maryland1.jpg" />
+
+	<meta name='twitter:card' content='summary'>
+	<meta name='twitter:site' content='@ww2db'>
+	<meta name='twitter:title' content='Battleship USS Maryland (BB-46)'>
+	<meta name='twitter:description' content='Battleship USS Maryland (BB-46)'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_maryland1.jpg'>
+				
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<style>
+table.dataTable thead .sorting_asc {
+	background: url("/images/icon_sort_asc.png") no-repeat center right;
+}
+table.dataTable thead .sorting_desc {
+	background: url("/images/icon_sort_desc.png") no-repeat center right;
+}
+table.dataTable tbody td, table.dataTable thead td {
+	padding: 0px 3px 3px 0px;
+}
+.dataTables_filter {
+	padding-bottom: 5px;
+}
+</style>
+	
+</head>
+<body>
+	<div id="banner">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr><td align="left"><h1 class="title">World War II Database</h1></td>
+		<td align="right">
+						<a href="/hp.php"><img src="/images/icon_hp.png" title="F4U Corsair" /></a>
+			<a href="http://www.facebook.com/worldwar2" rel="nofollow" target="_facebook" onclick="javascript: ga('send','pageview','/outgoing/www.facebook.com/worldwar2');"><img src="/images/icon_facebook2.png" border="0" /></a>&nbsp;
+			<a href="http://twitter.com/ww2db" rel="nofollow" target="_twitter" onclick="javascript: ga('send','pageview','/outgoing/twitter.com/ww2db');"><img src="/images/icon_twitter20.jpg" border="0" /></a>&nbsp;
+						<a href="https://www.reddit.com/r/ww2database" rel="nofollow" target="_reddit" onclick="javascript: ga('send','pageview','/outgoing/www.reddit.com/r/ww2database');"><img src="/images/icon_reddit20.png" border="0" /></a>&nbsp;
+			<a href="https://www.pinterest.com/ww2db/" rel="nofollow" target="_pinterest" onclick="javascript: ga('send','pageview','/outgoing/www.pinterest.com/ww2db/');"><img src="/images/icon_pinterest.png" border="0" /></a>&nbsp;
+			<a href="https://www.patreon.com/ww2db/" rel="nofollow" target="_patreon" onclick="javascript: ga('send','pageview','/outgoing/www.patreon.com/ww2db/');"><img src="/images/icon_patreon_20.png" border="0" /></a>&nbsp;
+			<a href="/feed.php"><img src="/images/icon_feed.jpg" border="0"></a>
+		</td></tr>
+		</table>
+		<div class="bannerflash">
+		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+	</div>
+	<div id='nav' align='right'>
+		<ul id='navlist'>
+			<li><a href='/'>Home</a></li><li><a href='/intro.php'>Intro</a></li><li><a href='/person.php'>People</a></li><li><a href='/event/'>Events</a></li><li><a href='/equip.php'>Equipment</a></li><li><a href='/place/'>Places</a></li><li><a href='/map/'>Maps</a></li><li><a href='/book/'>Books</a></li><li><a href='/photo.php'>Photos</a></li><li><a href='/video/'>Videos</a></li><li><a href='/other.php'>Other</a></li><li><a href='/ref.php'>Reference</a></li><li><a href='/faq/'>FAQ</a></li><li><a href='/credits.php'>About</a></li>		</ul>
+	</div>
+
+<div id="content">
+	<div itemscope itemtype="http://schema.org/Article" class="maincol">
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=B133' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=133' />
+" />
+		<meta itemprop="description" content="Battleship USS Maryland (BB-46)" />
+		<div id="breadcrumb"><ul class="horizontalList">
+				<li class="horizontalList"> <a href="index.php">Home</a></li>
+				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=B">Battleships and Battlecruisers</a></li><li class="horizontalList"> &#187; Maryland</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Maryland file photo [3821]' title='Maryland file photo [3821]' src='/images/ship_maryland1.jpg' /><script>
+		function resizeText(className, percent) {
+			var elements = document.getElementsByClassName(className);
+			for (var i = 0; i < elements.length; ++i) {
+				if (percent == null) {
+					elements[i].style.fontSize = '100%';
+				}
+				else {
+					if (elements[i].style.fontSize == '') elements[i].style.fontSize = '100%';
+					elements[i].style.fontSize = parseFloat(elements[i].style.fontSize) + percent + '%';
+				}
+			}
+		}
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Maryland</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Colorado-class Battleship</td></tr><tr><td class='table_noborder'>Hull Number</td><td class='table_noborder'>BB-46</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">1 Jul 1921</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">1 Jul 1959</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">32600 tons standard</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>USS Maryland, a 32,600-ton Colorado class battleship, was built at Newport News, Virginia, and commissioned in July 1921. During the 1920s and 1930s, she participated in regular fleet training and combat exercises. Maryland also made some notable long-distance cruises, including one to Rio De Janeiro in the Summer of 1922 to participate in Brazil's Centennial Exposition, the U.S. Fleet's trans-Pacific voyage in 1925, and President-Elect Herbert Hoover's 1928 good-will tour of Latin America.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Maryland's base was changed from Long Beach, California, to Pearl Harbor, Hawaii, in 1940. She was moored at Pearl Harbor when the Japanese struck on 7 December 1941, but received relatively minor damage. Following repairs and overhaul, Maryland operated with Task Force One off the U.S. West Coast in 1942, deploying to the South Pacific later in the year. She took part in operations to capture the Gilbert and Marshall Islands in late 1943 and early 1944, employing her sixteen-inch guns in the pre-invasion bombardments of Tarawa and Kwajalein.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>In June 1944, Maryland again participated in pre-invasion gunnery, this time against Saipan. During this operation, she was torpedoed by a Japanese aircraft, necessitating a trip to Pearl Harbor for repairs. The battleship returned to action for the Palaus operation in September 1944. During the Leyte invasion in October, she bombarded enemy positions ashore and fired on Japanese warships during the Battle of Surigao Strait. While operating off Leyte in late November, Maryland was damaged by a "Kamikaze" suicide plane.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Maryland was repaired in time to participate in the Okinawa operation during March and April 1945, was again hit by enemy air attack on 7 April, but remained in action for another week. She then went to the West Coast for overhaul. This work was completed in early August, but the Pacific War ended before she could return to the combat zone. After spending the last months of 1945 transporting servicemen home from the mid-Pacific, Maryland went to Bremerton, Washington, for inactivation. She was decommissioned in April 1947 and remained in "mothballs" until July 1959, when she was sold for scrapping.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Naval Historical Center</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Battleship USS Maryland (BB-46) Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([47.703841000, -122.451372000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Panama Canal Zone</h2><div class='infowindowSubTitle'>24 Apr 1931</div><a href='/image.php?image_id=26443'><img src='/images/imagemagick/tmb_57d0509642231.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 8.995806000, 280.409133, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Culebra, Puerto Rico</h2><div class='infowindowSubTitle'>18 Mar 1926</div><a href='/image.php?image_id=23632'><img src='/images/imagemagick/tmb_ship_california14.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 18.306364000, 294.707137, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>07 Dec 1941</div><a href='/image.php?image_id=1646'><img src='/images/imagemagick/tmb_ship_oklahoma11.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.349270000, 202.05603, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>07 Dec 1941</div><a href='/image.php?image_id=474'><img src='/images/imagemagick/tmb_battle_pearl10.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.351143000, 202.039861, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>08 Dec 1941</div><a href='/image.php?image_id=20439'><img src='/images/imagemagick/tmb_52c2782b4e5c8.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.351748000, 202.037323, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>11 Jul 1944</div><a href='/image.php?image_id=27903'><img src='/images/imagemagick/tmb_5b6e350ca650b.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.352361000, 202.04069, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>09 Dec 1941</div><a href='/image.php?image_id=26864'><img src='/images/imagemagick/tmb_587574a1d28af.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.355157000, 202.044233, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>07 Dec 1941</div><a href='/image.php?image_id=26860'><img src='/images/imagemagick/tmb_58756f5a19496.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.356940000, 202.045657, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>07 Dec 1941</div><a href='/image.php?image_id=26852'><img src='/images/imagemagick/tmb_5875668dcb288.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.358217000, 202.041021, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>07 Dec 1941</div><a href='/image.php?image_id=491'><img src='/images/imagemagick/tmb_battle_pearl3.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.359471000, 202.048921, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>07 Dec 1941</div><a href='/image.php?image_id=26446'><img src='/images/imagemagick/tmb_57d052ea29baa.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.361363000, 202.045624, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>07 Dec 1941</div><a href='/image.php?image_id=26863'><img src='/images/imagemagick/tmb_587573e107c03.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.361987000, 202.046764, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>02 May 1940</div><a href='/image.php?image_id=20151'><img src='/images/imagemagick/tmb_5282a59161402.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.363889000, 202.039722, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>10 Dec 1941</div><a href='/image.php?image_id=24752'><img src='/images/imagemagick/tmb_55e51b19d0782.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.364321000, 202.049141, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>07 Dec 1941</div><a href='/image.php?image_id=20403'><img src='/images/imagemagick/tmb_52c25b0a1c0cf.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.364775000, 202.049888, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>07 Dec 1941</div><a href='/image.php?image_id=479'><img src='/images/imagemagick/tmb_battle_pearl15.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=6532'><img src='/images/imagemagick/tmb_battle_pearl59.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.364894000, 202.040244, 2],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>03 May 1940</div><a href='/image.php?image_id=26762'><img src='/images/imagemagick/tmb_584b81bae6b44.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.368140000, 202.046759, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Iwo Jima, Japan</h2><div class='infowindowSubTitle'>Mar 1945</div><a href='/image.php?image_id=2843'><img src='/images/imagemagick/tmb_battle_iwojima103.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=2844'><img src='/images/imagemagick/tmb_battle_iwojima104.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 24.746831000, 141.320177, 2],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Bremerton, Washington, United States</h2><div class='infowindowSubTitle'>23 Apr 1948</div><a href='/image.php?image_id=13511'><img src='/images/imagemagick/tmb_ship_essex23.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>1948</div><a href='/image.php?image_id=17980'><img src='/images/imagemagick/tmb_ship_alabama14.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 47.558500000, 237.3558, 2],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Bremerton, Washington, United States</h2><div class='infowindowSubTitle'>09 Feb 1942</div><a href='/image.php?image_id=3822'><img src='/images/imagemagick/tmb_ship_maryland2.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>05 Aug 1945</div><a href='/image.php?image_id=27908'><img src='/images/imagemagick/tmb_5b6e38a2121f6.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 47.564616000, 237.396012, 2],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Bremerton, Washington, United States</h2><div class='infowindowSubTitle'>26 Apr 1944</div><a href='/image.php?image_id=27901'><img src='/images/imagemagick/tmb_5b6e33ae07353.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 47.703841000, 237.548628, 1]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>USS Maryland Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/01/1921' alt='See all events on 1 Jul 1921' title='See all events on 1 Jul 1921' class='noStyle'>1 Jul 1921</a>&nbsp;</td><td>Maryland was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/12/30/1941' alt='See all events on 30 Dec 1941' title='See all events on 30 Dec 1941' class='noStyle'>30 Dec 1941</a>&nbsp;</td><td>USS Maryland arrived at the Puget Sound Navy Yard, Bremerton, Washington, United States for repairs.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/05/31/1942' alt='See all events on 31 May 1942' title='See all events on 31 May 1942' class='noStyle'>31 May 1942</a>&nbsp;</td><td>USS Maryland patrolled 650 miles west of San Francisco, California, United States.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/04/07/1945' alt='See all events on 7 Apr 1945' title='See all events on 7 Apr 1945' class='noStyle'>7 Apr 1945</a>&nbsp;</td><td>USS Hancock, USS Maryland, and 4 destroyers were damaged by Japanese special attack aircraft.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/01/1959' alt='See all events on 1 Jul 1959' title='See all events on 1 Jul 1959' class='noStyle'>1 Jul 1959</a>&nbsp;</td><td>Maryland was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=133'><img src="/images/imagemagick/tmb_ship_california14.jpg" border='0' alt='The US Navy's first flattop aircraft carrier, USS Langley (Langley-class), at anchor with 7 battleships in Culebra Harbor, Culebra, Puerto Rico, 18 Mar 1926. See Comment below.'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=133'><img src="/images/imagemagick/tmb_57d0509642231.jpg" border='0' alt='United States battleship USS Maryland and destroyers USS Hovey and USS Long in the Miraflores Locks while transiting the Panama Canal, 24 Apr 1931'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=133'><img src="/images/imagemagick/tmb_5b6e324877ed1.jpg" border='0' alt='Battleship USS Maryland underway in 1935.'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=133'><img src="/images/imagemagick/tmb_5282a59161402.jpg" border='0' alt='Pearl Harbor Naval Shipyard and Ford Island Naval Air Station, Oahu, Hawaii, May 2, 1940.'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=133'>See all 29 photographs of Battleship USS Maryland (BB-46)</a><br /><br /><br /><br />
+				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
+				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
+		<table border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td colspan='9'>Share this article with your friends:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=B133' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=B133' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B133&title=Battleship USS Maryland (BB-46)' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B133&title=Battleship USS Maryland (BB-46)' target='_reddit'>Reddit</a></td>
+		</tr>
+		<tr>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Battleship+USS+Maryland+(BB-46)+https://ww2db.com:443/ship_spec.php?ship_id=B133' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Battleship+USS+Maryland+(BB-46)+https://ww2db.com:443/ship_spec.php?ship_id=B133' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B133&title=Battleship USS Maryland (BB-46)' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B133&title=Battleship USS Maryland (BB-46)' target='_digg'>Digg</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=B133' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=B133' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=B133&title=Battleship USS Maryland (BB-46)' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=B133&title=Battleship USS Maryland (BB-46)' target='_delicious'>Delicious</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B133&title=Battleship USS Maryland (BB-46)' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B133&title=Battleship USS Maryland (BB-46)' target='_stumbleupon'>StumbleUpon</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan='9'><br /><br />Stay updated with WW2DB:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a href='/feed.php'><img src='/images/icon_feed12.gif' border='0'></a></td><td>&nbsp;</td><td><a href='/feed.php'>RSS Feeds</a></td>
+		</tr>
+		</table>
+	</td><td valign='top' width='300'>		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB End of Content Medium Rectangle -->
+		<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5955033698"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</td></tr></table></center><br /><br /><br />
+
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Cass Beasley</span> says:<br /><small>21 Mar 2017 05:40:26 AM</small><br /><br />My grandfather Leslie Gerald Langford was a crewman during ww2 I'm looking for more information about him.</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'>mr tal</span> says:<br /><small>25 Sep 2017 02:48:01 PM</small><br /><br />the article does not specify "month 1942" until timeline May in summary although another website claimed maryland operated february like the tenessee i believe "operated May" like timeline here so please add the month "May" to the article like timeline and verify that "february" is error. much thanks</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#commentItem2").show();
+				$("#commentItem1").show();
+				$("#commentItem0").show();
+			function showAllComments() {
+		$(".commentItem").show();
+		$("#showAllCommand").remove();
+	}
+	</script>
+	<form method="post" action="/comments_action.php">
+	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+	<p><b>Posting Your Comments on this Topic</b></p>
+	<center>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr><td>Your Name</td><td><input type="text" name="entry_by" value="Anonymous" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>Your Email</td><td><input type="text" name="entry_by_email" value="" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>&nbsp;</td><td><small>Your email will not be published</small></td></tr>
+	<tr><td>Comment Type</td><td>
+		<select name="comment_type" style="width: 230px;">
+			<option value="general">General comment/question</option>
+			<option value="site">Additional information about this page</option>
+			<option value="topic">Looking for more information on this topic</option>
+			<option value="relative">Looking for information about my relative</option>
+		</select>
+		</td></tr>
+	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
+	<tr><td valign="top">Security Code</td>
+		<td valign="top">
+			<div style="background-image:url('/images/captcha/captcha11.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<input type="text" name="captcha" style="margin-bottom: 2px;">
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td valign="top"><input type="hidden" name="foreigntype" value="S">
+		<input type="hidden" name="foreigntype_id" value="133">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=B133">
+		<input type="hidden" name="c" value="88"> 		<input type="submit" value="Submit"></td>
+	</tr>
+	</table>
+	</center>
+	<small><p>Note: We hope that visitor conversations at WW2DB will be constructive and thought-provoking.  Please refrain from using strong language.  HTML tags are not allowed.  Your IP address will be tracked even if you remain anonymous.  WW2DB site administrators reserve the right to moderate, censor, and/or remove any comment.  All comment submissions will become the property of WW2DB.</p></small>
+	</div>
+	</form>
+	</div>
+	<div class="xcol">
+		
+<div class="sidetop">Search WW2DB & Partner Sites</div>
+<ul>
+<form id="searchbox_004186240537787039759:ptfrvampo3a" action="https://ww2db.com/searchgoogle.php">
+<input type="hidden" name="cx" value="004186240537787039759:ptfrvampo3a" />
+<input type="hidden" name="channel" value="2781050959">
+<input name="q" type="text" size="12" />
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cof" value="FORID:11" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
+</ul>
+<div class="sidetop">More on USS Maryland</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=726>Rochefort, Joseph</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=17>Attack on Pearl Harbor</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br><br /><i>Document(s):</i><br />&raquo;&nbsp;<a href=doc.php?q=183>US Navy Report of Japanese Raid on Pearl Harbor, Enclosure E, USS Maryland</a><br /><br /><div class='sidehidden_m'><div class='sidetop'>Battleship USS Maryland (BB-46) Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=133'><img src="/images/imagemagick/tmb_ship_california14.jpg" border='0' alt='The US Navy's first flattop aircraft carrier, USS Langley (Langley-class), at anchor with 7 battleships in Culebra Harbor, Culebra, Puerto Rico, 18 Mar 1926. See Comment below.'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=133'>See all 29 photographs of Battleship USS Maryland (BB-46)</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Links 160x90 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+	<div class="sidehidden_m">
+	<div class="sidetop">Current Site Statistics</div>
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+</div>
+
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Among the men who fought on Iwo Jima, uncommon valor was a common virtue."<br><br>Fleet Admiral Chester W. Nimitz, 16 Mar 1945</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Vertical Banner 160x600 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+		</div>
+</div>
+<div id="footer">
+	
+	<div style="float: left; padding: 0 5 0 5px; width: 400px; text-align: left;">
+		<div class="sidetop">About the Site</div>
+		<p>The World War II Database is founded and managed by 
+		C. Peter Chen of Lava Development, LLC.  The goal of this
+		site is two fold.  First, it is aiming to offer interesting
+		and useful information about WW2.  Second, it is to showcase
+		Lava's technical capabilities.</p>
+		<ul>
+		<li> &#187; <a href="/credits.php">More About WW2DB</a></li>
+		<li> &#187; <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');">More About Lava</a></li>
+		<li> &#187; <a href="/feed.php">Syndication</a></li>
+		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
+		<li> &#187; <a href="/">World War II Database Home</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=B133'>Mobile View</a></li>
+		</ul>		
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
+		<div class="sidetop">Most Popular</div>
+		<ul>
+				<li> &#187; <a href="/event/today/">Today in WW2 History</a></li>
+		<li> &#187; <a href="/photo.php?list=sp&sp=c">WW2 in Color</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=12">Battle of Iwo Jima</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=3">Battle of Stalingrad</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=2">Normandy Campaign</a></li>
+		<li> &#187; <a href="/vehicle_spec.php?q=314">Tiger I Tank</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=136">The Holocaust</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=49">Hiroshima and Nagasaki</a></li>
+		<li> &#187; <a href="/aircraft_spec.php?aircraft_model_id=27">Corsair Fighter</a></li>
+		</ul>
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 200px; text-align: left;">
+				<div class="sidetop">Links</div>
+		<ul><li> &#187; <a href='http://www.combinedfleet.com' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/www.combinedfleet.com');">Combined Fleet</a></li><li> &#187; <a href='http://david.ijn.googlepages.com/home' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/david.ijn.googlepages.com/home');">IJN Signals and Doctrine</a></li><li> &#187; <a href='http://propnturret.com/tully' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/propnturret.com/tully');">Tully's Port Forum</a></li><li> &#187; <a href='http://ww2db.com/ww2file/' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/ww2db.com/ww2file/');">WW2 File Blog</a></li></ul>	</div>
+	
+		<div style="border-top: 1px dotted #474747; clear: both;">
+		<center><p>Copyright © 2004-2018 <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');" style="text-decoration: none; font-weight: normal; color: #000000;">Lava Development, LLC.</a>, all rights reserved</p></center>
+		<br /><br />		
+	</div>
+</div>
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Footer Banner -->
+		<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="1441973756"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+		</center>
+<br /><br />
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95725-1', 'ww2db.com');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>

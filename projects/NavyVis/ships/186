@@ -1,0 +1,283 @@
+<html>
+
+<head>
+<title>Light Cruiser Sendai | World War II Database</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Light Cruiser Sendai | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser Sendai | World War II Database">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="REVISIT-AFTER" CONTENT="15 days">
+<META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
+<META NAME="AUTHOR" CONTENT="C. Peter Chen">
+<META NAME="CONTACT_ADDR" CONTENT="editor@ww2db.com">
+<META NAME="DISTRIBUTION" CONTENT="Global">
+<META NAME="RESOURCE-TYPE" CONTENT="document">
+<META HTTP-EQUIV="CONTENT-LANGUAGE" CONTENT="english">
+<meta name="MSSmartTagsPreventParsing" content="true">
+
+	
+	<link rel="stylesheet" type="text/css" href="/css/structure.css">
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+<link rel="stylesheet" type="text/css" href="/css/tags.css">
+
+<link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
+
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C60' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=60' />
+
+<meta property="fb:app_id" content="103484127961" />
+<meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
+
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_sendai2.jpg" />
+	<meta property="og:site_name" content="WW2DB" />
+	<meta property="og:title" content="Light Cruiser Sendai" />
+	<meta property="og:description" content="Light Cruiser Sendai" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C60" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_sendai2.jpg" />
+
+	<meta name='twitter:card' content='summary'>
+	<meta name='twitter:site' content='@ww2db'>
+	<meta name='twitter:title' content='Light Cruiser Sendai'>
+	<meta name='twitter:description' content='Light Cruiser Sendai'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_sendai2.jpg'>
+				
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<style>
+table.dataTable thead .sorting_asc {
+	background: url("/images/icon_sort_asc.png") no-repeat center right;
+}
+table.dataTable thead .sorting_desc {
+	background: url("/images/icon_sort_desc.png") no-repeat center right;
+}
+table.dataTable tbody td, table.dataTable thead td {
+	padding: 0px 3px 3px 0px;
+}
+.dataTables_filter {
+	padding-bottom: 5px;
+}
+</style>
+	
+</head>
+<body>
+	<div id="banner">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr><td align="left"><h1 class="title">World War II Database</h1></td>
+		<td align="right">
+						<a href="/hp.php"><img src="/images/icon_hp.png" title="F4U Corsair" /></a>
+			<a href="http://www.facebook.com/worldwar2" rel="nofollow" target="_facebook" onclick="javascript: ga('send','pageview','/outgoing/www.facebook.com/worldwar2');"><img src="/images/icon_facebook2.png" border="0" /></a>&nbsp;
+			<a href="http://twitter.com/ww2db" rel="nofollow" target="_twitter" onclick="javascript: ga('send','pageview','/outgoing/twitter.com/ww2db');"><img src="/images/icon_twitter20.jpg" border="0" /></a>&nbsp;
+						<a href="https://www.reddit.com/r/ww2database" rel="nofollow" target="_reddit" onclick="javascript: ga('send','pageview','/outgoing/www.reddit.com/r/ww2database');"><img src="/images/icon_reddit20.png" border="0" /></a>&nbsp;
+			<a href="https://www.pinterest.com/ww2db/" rel="nofollow" target="_pinterest" onclick="javascript: ga('send','pageview','/outgoing/www.pinterest.com/ww2db/');"><img src="/images/icon_pinterest.png" border="0" /></a>&nbsp;
+			<a href="https://www.patreon.com/ww2db/" rel="nofollow" target="_patreon" onclick="javascript: ga('send','pageview','/outgoing/www.patreon.com/ww2db/');"><img src="/images/icon_patreon_20.png" border="0" /></a>&nbsp;
+			<a href="/feed.php"><img src="/images/icon_feed.jpg" border="0"></a>
+		</td></tr>
+		</table>
+		<div class="bannerflash">
+		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+	</div>
+	<div id='nav' align='right'>
+		<ul id='navlist'>
+			<li><a href='/'>Home</a></li><li><a href='/intro.php'>Intro</a></li><li><a href='/person.php'>People</a></li><li><a href='/event/'>Events</a></li><li><a href='/equip.php'>Equipment</a></li><li><a href='/place/'>Places</a></li><li><a href='/map/'>Maps</a></li><li><a href='/book/'>Books</a></li><li><a href='/photo.php'>Photos</a></li><li><a href='/video/'>Videos</a></li><li><a href='/other.php'>Other</a></li><li><a href='/ref.php'>Reference</a></li><li><a href='/faq/'>FAQ</a></li><li><a href='/credits.php'>About</a></li>		</ul>
+	</div>
+
+<div id="content">
+	<div itemscope itemtype="http://schema.org/Article" class="maincol">
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C60' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=60' />
+" />
+		<meta itemprop="description" content="Light Cruiser Sendai" />
+		<div id="breadcrumb"><ul class="horizontalList">
+				<li class="horizontalList"> <a href="index.php">Home</a></li>
+				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Sendai</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Sendai file photo [8137]' title='Sendai file photo [8137]' src='/images/ship_sendai2.jpg' /><script>
+		function resizeText(className, percent) {
+			var elements = document.getElementsByClassName(className);
+			for (var i = 0; i < elements.length; ++i) {
+				if (percent == null) {
+					elements[i].style.fontSize = '100%';
+				}
+				else {
+					if (elements[i].style.fontSize == '') elements[i].style.fontSize = '100%';
+					elements[i].style.fontSize = parseFloat(elements[i].style.fontSize) + percent + '%';
+				}
+			}
+		}
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Sendai</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=476'>Sendai-class Light Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Mitsubishi_Heavy_Industries/'>Mitsubishi Heavy Industries</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">16 Feb 1922</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">30 Oct 1923</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">29 Apr 1924</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">3 Nov 1943</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">5195 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">418 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">47 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">16 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">10 Kampon boilers, Parsons geared turbines, 4 shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">90000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">35 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">5,000nm at 14 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">452</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">6x150mm guns, 2x80mm AA guns, 2x3x25mm AA guns, 4x2x610mm torpedo tubes, 48 mines</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">64mm belt, 29mm deck</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">1 floatplane</td></tr><tr><td class="table_noborder">Catapult</td><td class="table_noborder">1</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Light cruiser Sendai was the lead ship of her class.  Shortly upon completion in 1924, she was assigned to Yangtze River patrol in China.  In 1937, she participated in the Second Battle of Shanghai, then sailed south to support further landings in southern China.  On 20 Nov 1941, she became the flagship of Destroyer Squadron 3 under Rear Admiral Shintaro Hashimoto.  When the Pacific War began, she escorted troop ships for the invasion of Malaya; the convoy was attacked by British and Dutch aircraft twice, but Sendai emerged unscathed after each attack.  She made four more troop convoy escort runs to Malaya in Dec 1941 and in Jan 1942.  On the fourth run, she was spotted by American submarine Seadragon on 10 Jan 1942, which fired two torpedoes at her, both missing.  On the fifth run, on 26 Jan, the convoy was attacked by destroyers HMS Thanet and HMAS Vampire north of Singapore, resulting in the Battle of Endau; the Allied torpedoes missed, and the Japanese force sank Thanet with gunfire.  Between Feb and Mar, she operated in the region, supporting the landings at Sumatra and the Andaman Islands, and patrolled the waters near Singapore.  On 29 May 1942, upon completing repairs at Sasebo, Japan, she saied with the Main Body of the Combined Fleet for Midway Atoll in the Central pacific; she returned to Kure, Japan on 14 Jun without seeing any combat.  On 15 Jul, Sendai was assigned to cover operations in Burma, but at the end of the month she was hurriedly reassigned to the South Pacific to counter American advances in the Solomon Islands.  On 8 Sep, she shelled American targets at Tulagi Island, and on 12 Sep she bombarded henderson Field on Guadalcanal.  In Nov 1942, she participated in the naval battles of Guadalcanal.  On 25 Feb 1943, she was reassigned to the 8th Fleet, based at Rabaul, New Britain.  In May, she returned to Sasebo for repairs and modifications; her No. 5 140-millimeter gun was removed for two triple-mount 25-millimeter anti-aircraft guns and a Type 21 radar.  On 5 Jul, she made port call at Truk, Caroline Islands.  On 18 Jul, off Kolombangara, her force was attacked by Guadalcanal-based United States Marine Corps TBM Avenger torpedo bombers, and two days later attacked by B-25 Mitchell bombers, but she did not receive damage.  On 2 Nov 1943, at the Battle of Empress Augusta Bay, her force was intercepted by the Americans; during the battle, Sendai was the target of accurate American radar-aided fire from four Allied cruisers, heavily damaging her in the opening moments of the battle.  She sank on the following day, killing 185 men, including Captain Kiichiro Shoji who went down with the ship.  236 men were rescued by destroyers and submarine RO-104.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small><p><b>Sendai Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/04/29/1924' alt='See all events on 29 Apr 1924' title='See all events on 29 Apr 1924' class='noStyle'>29 Apr 1924</a>&nbsp;</td><td>Sendai was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=1494"><img src="/images/imagemagick/tmb_ship_jintsu2.jpg" border='0' alt='Sendai-class light cruiser retouched photo, circa 1924-25'></a></td><td><a href="/image.php?image_id=8136"><img src="/images/imagemagick/tmb_ship_sendai1.jpg" border='0' alt='Light cruiser Sendai, date unknown'></a></td></tr></table><br /><br /><br /><br />
+				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
+				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
+		<table border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td colspan='9'>Share this article with your friends:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C60' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C60' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C60&title=Light Cruiser Sendai' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C60&title=Light Cruiser Sendai' target='_reddit'>Reddit</a></td>
+		</tr>
+		<tr>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Sendai+https://ww2db.com:443/ship_spec.php?ship_id=C60' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Sendai+https://ww2db.com:443/ship_spec.php?ship_id=C60' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C60&title=Light Cruiser Sendai' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C60&title=Light Cruiser Sendai' target='_digg'>Digg</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C60' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C60' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C60&title=Light Cruiser Sendai' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C60&title=Light Cruiser Sendai' target='_delicious'>Delicious</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C60&title=Light Cruiser Sendai' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C60&title=Light Cruiser Sendai' target='_stumbleupon'>StumbleUpon</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan='9'><br /><br />Stay updated with WW2DB:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a href='/feed.php'><img src='/images/icon_feed12.gif' border='0'></a></td><td>&nbsp;</td><td><a href='/feed.php'>RSS Feeds</a></td>
+		</tr>
+		</table>
+	</td><td valign='top' width='300'>		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB End of Content Medium Rectangle -->
+		<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5955033698"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</td></tr></table></center><br /><br /><br />
+
+	<form method="post" action="/comments_action.php">
+	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+	<p><b>Posting Your Comments on this Topic</b></p>
+	<center>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr><td>Your Name</td><td><input type="text" name="entry_by" value="Anonymous" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>Your Email</td><td><input type="text" name="entry_by_email" value="" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>&nbsp;</td><td><small>Your email will not be published</small></td></tr>
+	<tr><td>Comment Type</td><td>
+		<select name="comment_type" style="width: 230px;">
+			<option value="general">General comment/question</option>
+			<option value="site">Additional information about this page</option>
+			<option value="topic">Looking for more information on this topic</option>
+			<option value="relative">Looking for information about my relative</option>
+		</select>
+		</td></tr>
+	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
+	<tr><td valign="top">Security Code</td>
+		<td valign="top">
+			<div style="background-image:url('/images/captcha/captcha5.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<input type="text" name="captcha" style="margin-bottom: 2px;">
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td valign="top"><input type="hidden" name="foreigntype" value="S">
+		<input type="hidden" name="foreigntype_id" value="60">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C60">
+		<input type="hidden" name="c" value="82"> 		<input type="submit" value="Submit"></td>
+	</tr>
+	</table>
+	</center>
+	<small><p>Note: We hope that visitor conversations at WW2DB will be constructive and thought-provoking.  Please refrain from using strong language.  HTML tags are not allowed.  Your IP address will be tracked even if you remain anonymous.  WW2DB site administrators reserve the right to moderate, censor, and/or remove any comment.  All comment submissions will become the property of WW2DB.</p></small>
+	</div>
+	</form>
+	</div>
+	<div class="xcol">
+		
+<div class="sidetop">Search WW2DB & Partner Sites</div>
+<ul>
+<form id="searchbox_004186240537787039759:ptfrvampo3a" action="https://ww2db.com/searchgoogle.php">
+<input type="hidden" name="cx" value="004186240537787039759:ptfrvampo3a" />
+<input type="hidden" name="channel" value="2781050959">
+<input name="q" type="text" size="12" />
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cof" value="FORID:11" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
+</ul>
+<div class="sidetop">More on Sendai</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=441>Ariga, Kosaku</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=85>Second Battle of Shanghai</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=47>Invasion of Malaya and Singapore</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=213>Dutch East Indies Campaign, Sumatra</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=190>Fall of the Andaman and Nicobar Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=6>Battle of Midway and the Aleutian Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=9>Guadalcanal Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=8>Solomon Islands Campaign</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/sendai_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/sendai_t.htm');">Sendai Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser Sendai Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=60'><img src="/images/imagemagick/tmb_ship_jintsu2.jpg" border='0' alt='Sendai-class light cruiser retouched photo, circa 1924-25'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=60'>See all 2 photographs of Light Cruiser Sendai</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Links 160x90 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+	<div class="sidehidden_m">
+	<div class="sidetop">Current Site Statistics</div>
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+</div>
+
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"You ask, what is our aim? I can answer in one word. It is victory.  Victory at all costs. Victory in spite of all terrors. Victory, however long and hard the road may be, for without victory there is no survival."<br><br>Winston Churchill</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Vertical Banner 160x600 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+		</div>
+</div>
+<div id="footer">
+	
+	<div style="float: left; padding: 0 5 0 5px; width: 400px; text-align: left;">
+		<div class="sidetop">About the Site</div>
+		<p>The World War II Database is founded and managed by 
+		C. Peter Chen of Lava Development, LLC.  The goal of this
+		site is two fold.  First, it is aiming to offer interesting
+		and useful information about WW2.  Second, it is to showcase
+		Lava's technical capabilities.</p>
+		<ul>
+		<li> &#187; <a href="/credits.php">More About WW2DB</a></li>
+		<li> &#187; <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');">More About Lava</a></li>
+		<li> &#187; <a href="/feed.php">Syndication</a></li>
+		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
+		<li> &#187; <a href="/">World War II Database Home</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C60'>Mobile View</a></li>
+		</ul>		
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
+		<div class="sidetop">Most Popular</div>
+		<ul>
+				<li> &#187; <a href="/event/today/">Today in WW2 History</a></li>
+		<li> &#187; <a href="/photo.php?list=sp&sp=c">WW2 in Color</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=12">Battle of Iwo Jima</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=3">Battle of Stalingrad</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=2">Normandy Campaign</a></li>
+		<li> &#187; <a href="/vehicle_spec.php?q=314">Tiger I Tank</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=136">The Holocaust</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=49">Hiroshima and Nagasaki</a></li>
+		<li> &#187; <a href="/aircraft_spec.php?aircraft_model_id=27">Corsair Fighter</a></li>
+		</ul>
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 200px; text-align: left;">
+				<div class="sidetop">Links</div>
+		<ul><li> &#187; <a href='http://www.combinedfleet.com' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/www.combinedfleet.com');">Combined Fleet</a></li><li> &#187; <a href='http://david.ijn.googlepages.com/home' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/david.ijn.googlepages.com/home');">IJN Signals and Doctrine</a></li><li> &#187; <a href='http://propnturret.com/tully' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/propnturret.com/tully');">Tully's Port Forum</a></li><li> &#187; <a href='http://ww2db.com/ww2file/' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/ww2db.com/ww2file/');">WW2 File Blog</a></li></ul>	</div>
+	
+		<div style="border-top: 1px dotted #474747; clear: both;">
+		<center><p>Copyright © 2004-2018 <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');" style="text-decoration: none; font-weight: normal; color: #000000;">Lava Development, LLC.</a>, all rights reserved</p></center>
+		<br /><br />		
+	</div>
+</div>
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Footer Banner -->
+		<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="1441973756"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+		</center>
+<br /><br />
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95725-1', 'ww2db.com');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>

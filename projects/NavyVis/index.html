@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<style>
+path {
+  stroke: white;
+  stroke-width: 0.25px;
+  fill: grey;
+}
+.BattleMap {
+	margin-top: 40px;
+	margin-left: 40px;
+	}
+.Map {
+	float: left;
+    }
+.ShipInfo {
+  display: inline-block;
+	margin-left: 40px;
+	}
+#timeSlider,#Axis{
+  margin-left: 40px;
+}
+.ShipOptions {
+  position: relative;
+  top: 40px;
+  left: 40px;
+}
+.BattleSelect, .CarrierSelect, .CruiserSelect{
+  float: left;
+  width: 300px;
+}
+.selectBox_BS, .selectBox_CAR, .selectBox_CRU {
+  position: relative;
+  top: 4px;
+}
+.selectBox_BS select {
+  width: 100%;
+  font-weight: bold;
+}
+.selectBox_CAR select {
+  width: 100%;
+  font-weight: bold;
+}
+.selectBox_CRU select {
+  width: 100%;
+  font-weight: bold;
+}
+.overSelect_BS, .overSelect_CAR, .overSelect_CRU {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+#checkboxes_BS, #checkboxes_CAR, #checkboxes_CRU {
+  display: none;
+  border: 1px #dadada solid;
+}
+#checkboxes_BS label {
+  display: block;
+}
+#checkboxes_BS label:hover {
+  background-color: #1e90ff;
+}
+#checkboxes_CAR label {
+  display: block;
+}
+#checkboxes_CAR label:hover {
+  background-color: #1e90ff;
+}
+#checkboxes_CRU label {
+  display: block;
+}
+#checkboxes_CRU label:hover {
+  background-color: #1e90ff;
+}
+table {
+				text-align: center;
+			}
+td, th {
+        padding: 1px 4px;
+        border: 1px black solid;
+        font-size: 0.9em;
+			}
+th {
+			  background-color: #54278f;
+			  color: white;
+		}
+tr:hover {background-color: #f5f5f5;}
+tr:nth-child(even) {background-color: #cbc9e2;}
+
+#autoButton{
+  position:absolute;
+  top:545px;
+  left:40px;
+}
+
+</style>
+</head>
+<body>
+<div class="BattleMap"width="1500" height="600">
+    <div class="Map" width="800" height="500"></div>
+    <div class="ShipInfo" width="700" height="500"></div>
+    <div>
+      <button id='autoButton'>Auto</button>
+      <input type="range" id = "timeSlider" oninput="setTime(this.value)">
+      <div id = "Axis"></div>
+      <p style="font-size: 0.8em;position:absolute;top:565px;left:1397px">Dates(YYYY-MM)</p>
+    </div>
+</div>
+<div class="ShipOptions" width="1500" height="100">
+    <div class="BattleSelect">
+        <button id="checkAllBtn_BS" class="button_BS" onclick="selectAllBattleships()">Select All</button>
+        <button id="uncheckAllBtn_BS" class="button_BS" onclick="unselectAllBattleships()">Unselect All</button>
+        <div class="selectBox_BS" onclick="showCheckboxes_BS()">
+            <select>
+                <option>Select any Battleships</option>
+            </select>
+        <div class="overSelect_BS"></div>
+        </div>
+        <div id="checkboxes_BS">
+        </div>
+    </div>
+    <div class="CarrierSelect" style="margin-left: 40px;">
+        <button id="checkAllBtn_CAR" class="button_CAR" onclick="selectAllCarriers()">Select All</button>
+        <button id="uncheckAllBtn_CAR" class="button_CAR" onclick="unselectAllCarriers()">Unselect All</button>
+        <div class="selectBox_CAR" onclick="showCheckboxes_CAR()">
+            <select>
+                <option>Select any Carriers</option>
+            </select>
+        <div class="overSelect_CAR"></div>
+        </div>
+        <div id="checkboxes_CAR">
+        </div>
+    </div>
+    <div class="CruiserSelect" style="margin-left: 40px;">
+        <button id="checkAllBtn_CRU" class="button_CRU" onclick="selectAllCruisers()">Select All</button>
+        <button id="uncheckAllBtn_CRU" class="button_CRU" onclick="unselectAllCruisers()">Unselect All</button>
+        <div class="selectBox_CRU" onclick="showCheckboxes_CRU()">
+            <select>
+                <option>Select any Cruisers</option>
+            </select>
+        <div class="overSelect_CRU"></div>
+        </div>
+        <div id="checkboxes_CRU">
+        </div>
+    </div>
+</div>
+	  
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/topojson.v0.min.js"></script>
+<script>
+/*---------------------------------d3 code for ship selection and ship info visualization---------------------*/
+width = 800;
+height = 500;
+
+var checkbox_list=[];
+var json_data=[];
+
+for(var i=0; i<199; i++)
+   checkbox_list.push(i);
+
+var expanded = false;
+var initial = false;
+
+/*---------------------------------Event handler for checkboxes of Battle Ships---------------------*/
+function showCheckboxes_BS() {
+  var checkboxes = document.getElementById("checkboxes_BS");
+  if (!expanded) {
+    checkboxes.style.display = "block";
+    expanded = true;
+  } else {
+    checkboxes.style.display = "none";
+    expanded = false;
+  }
+  if(initial==false)
+     checkbox_list.splice(0,checkbox_list.length);
+  initial=true;
+}
+
+/*---------------------------------Event handler for checkboxes of Carriers---------------------*/
+function showCheckboxes_CAR() {
+  var checkboxes = document.getElementById("checkboxes_CAR");
+  if (!expanded) {
+    checkboxes.style.display = "block";
+    expanded = true;
+  } else {
+    checkboxes.style.display = "none";
+    expanded = false;
+  }
+  if(initial==false)
+     checkbox_list.splice(0,checkbox_list.length);
+  initial=true;
+}
+
+/*---------------------------------Event handler for checkboxes of Cruisers---------------------*/
+function showCheckboxes_CRU() {
+  var checkboxes = document.getElementById("checkboxes_CRU");
+  if (!expanded) {
+    checkboxes.style.display = "block";
+    expanded = true;
+  } else {
+    checkboxes.style.display = "none";
+    expanded = false;
+  }
+  if(initial==false)
+     checkbox_list.splice(0,checkbox_list.length);
+  initial=true;
+}
+
+/*--------------------------------Drawing the Map of Pacific Theatre with Zoom in an Zoom out features-----------------*/
+var projection = d3.geoMercator()
+    .center([30, 14])
+    .scale(200)
+    .rotate([-180,0]);
+
+var path = d3.geoPath()
+    .projection(projection);
+	
+var zoom = d3.zoom()
+    .scaleExtent([1, 40])
+    .translateExtent([[0,0], [width, height]])
+    .extent([[0, 0], [width, height]])
+    .on("zoom", zoomed);
+
+var svg = d3.select(".Map").append("svg")
+            .attr("width", width)
+            .attr("height", height)
+			      .call(zoom);
+
+
+var g = svg.append("g");
+           
+d3.json("world-110m2.json", function(error, topology) {
+     g.selectAll("path")
+      .data(topojson.object(topology, topology.objects.countries).geometries)
+      .enter()
+      .append("path")
+      .attr("d", path);
+});
+
+
+function zoomed() {
+  g.attr("transform", d3.event.transform);
+}
+
+/*---------------------------------Event handlers for select all and unselect all buttons related to Battleships---------------------*/
+function selectAllBattleships(){
+  for(var i=72; i<111; i++){
+     if(checkbox_list.indexOf(i)==-1)
+       checkbox_list.push(i)
+  }
+    divElement = document.getElementById('checkboxes_BS');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = true;
+    }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
+     }
+
+function unselectAllBattleships(){
+  for(var i=72; i<111; i++){
+    var idx = checkbox_list.indexOf(i);
+     if(idx!=-1)
+       checkbox_list.splice(idx,1);
+  }
+    divElement = document.getElementById('checkboxes_BS');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = false;
+    }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
+}
+
+/*---------------------------------Event handlers for select all and unselect all buttons related to Carriers---------------------*/
+function selectAllCarriers(){
+  for(var i=0; i<72; i++){
+     if(checkbox_list.indexOf(i)==-1)
+       checkbox_list.push(i)
+  }
+    divElement = document.getElementById('checkboxes_CAR');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = true;
+    }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
+}
+
+function unselectAllCarriers(){
+  for(var i=0; i<72; i++){
+    var idx = checkbox_list.indexOf(i);
+     if(idx!=-1)
+       checkbox_list.splice(idx,1);
+  }
+    divElement = document.getElementById('checkboxes_CAR');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = false;
+    }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
+}
+
+/*---------------------------------Event handlers for select all and unselect all buttons related to Cruisers---------------------*/
+function selectAllCruisers(){
+  for(var i=111; i<199; i++){
+     if(checkbox_list.indexOf(i)==-1)
+       checkbox_list.push(i)
+  }
+    divElement = document.getElementById('checkboxes_CRU');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = true;
+    }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
+}
+
+function unselectAllCruisers(){
+  for(var i=111; i<199; i++){
+    var idx = checkbox_list.indexOf(i);
+     if(idx!=-1)
+       checkbox_list.splice(idx,1);
+  }
+    divElement = document.getElementById('checkboxes_CRU');
+    inputElements = divElement.getElementsByTagName('input');
+    for (i = 0; i < inputElements.length; i++) {
+        if (inputElements[i].type != 'checkbox')
+            continue;
+        inputElements[i].checked = false;
+    }
+    tabulate_view(json_data);
+    d3.selectAll(".svgFile").remove();
+    drawIcon();
+}
+
+/*---------------------------------Load the JSON file containing the ship information---------------------*/
+d3.json("ships.json",shipsData);
+
+function shipsData(error, data){
+
+/*---------------Create Three different arrays for storing information related to three ship classes-----------*/
+ battleships = []
+ data.forEach(function(d,i){if(d["Ship Class"].search("Battleship") != -1 || d["Ship Class"].search("Large Cruiser") != -1)
+                           battleships.push({ key: i, value: d.name});});
+ carriers = []
+ data.forEach(function(d,i){if(d["Ship Class"].search("Carrier") != -1)
+                           carriers.push({ key: i, value: d.name})});
+ cruisers = []
+ data.forEach(function(d,i){if(d["Ship Class"].search("Cruiser") != -1 && d["Ship Class"].search("Large Cruiser") == -1)
+                           cruisers.push({ key: i, value: d.name})});
+
+/*---------------Create data driven checkboxes related to Battle Ships-----------*/
+ var selector_bs = d3.select("#checkboxes_BS")
+                     .selectAll("label")
+                     .data(battleships)
+                     .enter().append("label")
+                     .attr("for", function (d) { return d.key;})
+		                 .text(function(d) {return d.value+" "; })
+                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;})
+                     .on("change", function(d){
+                                            if(d3.select(this).property('checked')==true)
+                                               checkbox_list.push(d.key);
+                                            else{
+                                              var idx = checkbox_list.indexOf(d.key);
+                                              if(idx!==-1) checkbox_list.splice(idx,1);
+                                            }
+                                            tabulate_view(data);
+                                            d3.selectAll(".svgFile").remove();
+                                            drawIcon();
+                                              });
+
+/*---------------Create data driven checkboxes related to Carriers-----------*/
+ var selector_car = d3.select("#checkboxes_CAR")
+                     .selectAll("label")
+                     .data(carriers)
+                     .enter().append("label")
+                     .attr("for", function (d) { return d.key;})
+		                 .text(function(d) {return d.value+" "; })
+                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;})
+                     .on("change", function(d){
+                                            if(d3.select(this).property('checked')==true)
+                                               checkbox_list.push(d.key);
+                                            else{
+                                              var idx = checkbox_list.indexOf(d.key);
+                                              if(idx!==-1) checkbox_list.splice(idx,1);
+                                            }
+                                            tabulate_view(data);
+                                            d3.selectAll(".svgFile").remove();
+                                            drawIcon();
+                                              });
+
+/*---------------Create data driven checkboxes related to Cruisers-----------*/
+ var selector_cru = d3.select("#checkboxes_CRU")
+                     .selectAll("label")
+                     .data(cruisers)
+                     .enter().append("label")
+                     .attr("for", function (d) { return d.key;})
+		                 .text(function(d) {return d.value+" "; })
+                     .append("input").attr("type","checkbox").attr("id", function (d) { return d.key;})
+                     .on("change", function(d){
+                                            if(d3.select(this).property('checked')==true)
+                                               checkbox_list.push(d.key);
+                                            else{
+                                              var idx = checkbox_list.indexOf(d.key);
+                                              if(idx!==-1) checkbox_list.splice(idx,1);
+                                            }
+                                            tabulate_view(data);
+                                            d3.selectAll(".svgFile").remove();
+                                            drawIcon();
+                                              });
+
+/*---------------Display the user selected ship information in tabular format-----------*/
+  json_data = data.slice();
+  tabulate_view(json_data);
+}
+
+/*---------------Display the Ship Information Table if at least one checkbox selected-----------*/
+function tabulate_view(data){
+   if (checkbox_list.length > 0)
+      tabulate(["Name", "Country", "Class", "Length", "Speed"], data);
+   else 
+      d3.select('.ShipInfo').selectAll("*").remove();
+   }
+
+/*---------------Display the user selected last 25 ship information in a tabular format-----------*/
+   function tabulate(columnNames, data) {
+           var ship_info = [];
+           var records_to_display = 25;
+           data.forEach(function(d,i){
+                       for(var j=0; j<checkbox_list.length; j++){
+                         if(checkbox_list[j]==i){
+                          ship_info.push({ key: i, Name: d.name, Country: d.Country, Class: d["Ship Class"], Length: d.Length, Speed: d.Speed});
+                         }
+                       }
+                    });
+          var table_info = ship_info.slice(ship_info.length-records_to_display);
+          d3.select('.ShipInfo').selectAll("*").remove();
+					var table = d3.select('.ShipInfo').append('table')
+                        .style("border-collapse", "collapse");
+					var thead = table.append('thead');
+					var	tbody = table.append('tbody');
+
+					thead.append('tr')
+					  .selectAll('th')
+					  .data(columnNames)
+					  .enter()
+					  .append('th')
+					  .text(function (d) { 
+					  	return d; 
+					  });
+
+					var rows = tbody.selectAll('tr')
+					  .data(table_info)
+					  .enter()
+					  .append('tr');
+
+					var cells = rows.selectAll('td')
+					  .data(function (row) {
+					    return columnNames.map(function (columnName) {
+					      return {
+					      	key: columnName, 
+					      	value: row[columnName]
+					      };
+					    });
+					  })
+					  .enter()
+					  .append('td')
+					  .text(function (d) { 
+					  	return d.value; 
+					  });
+
+				  return table;
+				}
+
+</script>
+<script src ="drawShips.js"></script>
+</body>
+</html>

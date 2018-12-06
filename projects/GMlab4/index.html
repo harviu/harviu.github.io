@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+<title>Lab4</title>
+
+<body>
+  <div id="canvasDiv">
+    <canvas id="canvas" width="1000" height="500"></canvas>
+  </div>
+  <div id="reconstruct">
+    <button type="button" id="nnCrust">NN-Crust</button>
+    <button type="button" id="crust">Crust</button>
+  </div>
+  <button type="button" id="delete">Delete</button>
+  <p>Curve</p>
+  <div id="curve">
+    <button id="bezier" disabled = "true">Bezier</button>
+    <button id="bSpline" disabled = "true">B-Spline</button>
+  </div>
+  Step: <input type="text" id="step" value="0.1">
+  <p>Polygon</p>
+  <div id="polygon">
+    <button id="revolution" disabled = "true">Revolution</button>
+    <button id="extrusion" disabled = "true">Extrution</button>
+    <button id="sweep" disabled = "true">Sweep</button>
+  </div>
+  Slices: <input type="text" id="slices" value="5">
+  Slice Step: <input type="text" id="sliceStep" value="10">
+  Distance: <input type="text" id="distance" value="150">
+  A: <input type="text" id="a" value="-0.01">
+  <p>Surface</p>
+  <div id="surface">
+    <button id="bezierSurface" disabled = "true">Bezier</button>
+    <button id="bSplineSurface" disabled = "true">B-Spline</button>
+  </div>
+  Density: <input type="text" id="density" value="10">
+
+</body>
+<script src="delaunator.js"></script>
+<script src="three.js"></script>
+<script src="canvas.js"></script>
+</html>

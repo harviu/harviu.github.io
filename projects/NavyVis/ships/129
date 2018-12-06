@@ -1,0 +1,352 @@
+<html>
+
+<head>
+<title>Light Cruiser USS Concord | World War II Database</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Light Cruiser USS Concord | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser USS Concord | World War II Database">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="REVISIT-AFTER" CONTENT="15 days">
+<META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
+<META NAME="AUTHOR" CONTENT="C. Peter Chen">
+<META NAME="CONTACT_ADDR" CONTENT="editor@ww2db.com">
+<META NAME="DISTRIBUTION" CONTENT="Global">
+<META NAME="RESOURCE-TYPE" CONTENT="document">
+<META HTTP-EQUIV="CONTENT-LANGUAGE" CONTENT="english">
+<meta name="MSSmartTagsPreventParsing" content="true">
+
+	
+	<link rel="stylesheet" type="text/css" href="/css/structure.css">
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+<link rel="stylesheet" type="text/css" href="/css/tags.css">
+
+<link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
+
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C205' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=205' />
+
+<meta property="fb:app_id" content="103484127961" />
+<meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
+
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_concord1.jpg" />
+	<meta property="og:site_name" content="WW2DB" />
+	<meta property="og:title" content="Light Cruiser USS Concord" />
+	<meta property="og:description" content="Light Cruiser USS Concord" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C205" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_concord1.jpg" />
+
+	<meta name='twitter:card' content='summary'>
+	<meta name='twitter:site' content='@ww2db'>
+	<meta name='twitter:title' content='Light Cruiser USS Concord'>
+	<meta name='twitter:description' content='Light Cruiser USS Concord'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_concord1.jpg'>
+				
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<style>
+table.dataTable thead .sorting_asc {
+	background: url("/images/icon_sort_asc.png") no-repeat center right;
+}
+table.dataTable thead .sorting_desc {
+	background: url("/images/icon_sort_desc.png") no-repeat center right;
+}
+table.dataTable tbody td, table.dataTable thead td {
+	padding: 0px 3px 3px 0px;
+}
+.dataTables_filter {
+	padding-bottom: 5px;
+}
+</style>
+	
+</head>
+<body>
+	<div id="banner">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr><td align="left"><h1 class="title">World War II Database</h1></td>
+		<td align="right">
+						<a href="/hp.php"><img src="/images/icon_hp.png" title="F4U Corsair" /></a>
+			<a href="http://www.facebook.com/worldwar2" rel="nofollow" target="_facebook" onclick="javascript: ga('send','pageview','/outgoing/www.facebook.com/worldwar2');"><img src="/images/icon_facebook2.png" border="0" /></a>&nbsp;
+			<a href="http://twitter.com/ww2db" rel="nofollow" target="_twitter" onclick="javascript: ga('send','pageview','/outgoing/twitter.com/ww2db');"><img src="/images/icon_twitter20.jpg" border="0" /></a>&nbsp;
+						<a href="https://www.reddit.com/r/ww2database" rel="nofollow" target="_reddit" onclick="javascript: ga('send','pageview','/outgoing/www.reddit.com/r/ww2database');"><img src="/images/icon_reddit20.png" border="0" /></a>&nbsp;
+			<a href="https://www.pinterest.com/ww2db/" rel="nofollow" target="_pinterest" onclick="javascript: ga('send','pageview','/outgoing/www.pinterest.com/ww2db/');"><img src="/images/icon_pinterest.png" border="0" /></a>&nbsp;
+			<a href="https://www.patreon.com/ww2db/" rel="nofollow" target="_patreon" onclick="javascript: ga('send','pageview','/outgoing/www.patreon.com/ww2db/');"><img src="/images/icon_patreon_20.png" border="0" /></a>&nbsp;
+			<a href="/feed.php"><img src="/images/icon_feed.jpg" border="0"></a>
+		</td></tr>
+		</table>
+		<div class="bannerflash">
+		<div style="background-image:url('/images/banner915_5.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+	</div>
+	<div id='nav' align='right'>
+		<ul id='navlist'>
+			<li><a href='/'>Home</a></li><li><a href='/intro.php'>Intro</a></li><li><a href='/person.php'>People</a></li><li><a href='/event/'>Events</a></li><li><a href='/equip.php'>Equipment</a></li><li><a href='/place/'>Places</a></li><li><a href='/map/'>Maps</a></li><li><a href='/book/'>Books</a></li><li><a href='/photo.php'>Photos</a></li><li><a href='/video/'>Videos</a></li><li><a href='/other.php'>Other</a></li><li><a href='/ref.php'>Reference</a></li><li><a href='/faq/'>FAQ</a></li><li><a href='/credits.php'>About</a></li>		</ul>
+	</div>
+
+<div id="content">
+	<div itemscope itemtype="http://schema.org/Article" class="maincol">
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C205' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=205' />
+" />
+		<meta itemprop="description" content="Light Cruiser USS Concord" />
+		<div id="breadcrumb"><ul class="horizontalList">
+				<li class="horizontalList"> <a href="index.php">Home</a></li>
+				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Concord</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Concord file photo [1219]' title='Concord file photo [1219]' src='/images/ship_concord1.jpg' /><script>
+		function resizeText(className, percent) {
+			var elements = document.getElementsByClassName(className);
+			for (var i = 0; i < elements.length; ++i) {
+				if (percent == null) {
+					elements[i].style.fontSize = '100%';
+				}
+				else {
+					if (elements[i].style.fontSize == '') elements[i].style.fontSize = '100%';
+					elements[i].style.fontSize = parseFloat(elements[i].style.fontSize) + percent + '%';
+				}
+			}
+		}
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Concord</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Omaha-class Light Cruiser</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">William Cramp and Sons, Philadelphia, PA</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">15 Dec 1921</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">3 Nov 1923</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">12 Dec 1945</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">7050 tons standard</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">555 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">55 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">20 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">Geared turbines with 4 screws</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">35 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">458</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">12x6in, 2x3in anti-aircraft, 10x21in torpedo tubes</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">3</td></tr><tr><td class="table_noborder">Sold for Scrap</td><td class="table_noborder">Jan 1947</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=183'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'></span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Concord's shakedown cruise took her through the Mediterranean, through the Suez Canal, around the African continent, and then she returned to North American; the trip lasted between 23 Nov 1923 and 9 Apr 1924.  During the remainder of the years before WW2, she acted as the flagship of destroyer squadrons, participated in exercises on both American coasts, and cruised the Pacific.  She was based in Pearl Harbor when the Pacific War loomed close.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>When the Japanese attacked Pearl Harbor in Dec 1941, Concord was at San Diego undergoing an overhaul.  The overhaul completed in Feb 1942, and sailed to Bora Bora in the Society Islands with the rest of her fleet mates of the Southeast Pacific Force.  During a trip to survey islands of the Southeast Pacific in late 1943, she suffered a gasoline explosion which killed 22 men; she sailed for Panama for repairs.  The repairs were completed in Mar 1944, at which time she joined the Northern Pacific Force, with which fleet she bombarded Japanese bases in the Kurile Islands and interfered with Japanese shipping in that region.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the war, Concord covered occupation landings at Ominato, Japan, before returning to Philadelphia via the Panama Canal.  She was decommissioned before the end of the year.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Light Cruiser USS Concord Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([38.090000000, -122.263333000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Vallejo, California, United States</h2><div class='infowindowSubTitle'>09 Feb 1942</div><a href='/image.php?image_id=1225'><img src='/images/imagemagick/tmb_ship_concord5.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 38.090000000, -122.263333000, 1]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>USS Concord Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/03/1923' alt='See all events on 3 Nov 1923' title='See all events on 3 Nov 1923' class='noStyle'>3 Nov 1923</a>&nbsp;</td><td>Concord was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/12/12/1945' alt='See all events on 12 Dec 1945' title='See all events on 12 Dec 1945' class='noStyle'>12 Dec 1945</a>&nbsp;</td><td>Concord was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord2.jpg" border='0' alt='Concord off Algiers, Algeria, circa late 1923'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord3.jpg" border='0' alt='Concord off North African desert, circa late 1923 or early 1924'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord11.jpg" border='0' alt='Concord firing a torpedo from port side, circa mid-1920s'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord4.jpg" border='0' alt='Concord in harbor, circa 1935'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'>See all 10 photographs of Light Cruiser USS Concord</a><br /><br /><br /><br />
+				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
+				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
+		<table border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td colspan='9'>Share this article with your friends:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_reddit'>Reddit</a></td>
+		</tr>
+		<tr>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+USS+Concord+https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+USS+Concord+https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_digg'>Digg</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C205' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_delicious'>Delicious</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C205&title=Light Cruiser USS Concord' target='_stumbleupon'>StumbleUpon</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan='9'><br /><br />Stay updated with WW2DB:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a href='/feed.php'><img src='/images/icon_feed12.gif' border='0'></a></td><td>&nbsp;</td><td><a href='/feed.php'>RSS Feeds</a></td>
+		</tr>
+		</table>
+	</td><td valign='top' width='300'>		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB End of Content Medium Rectangle -->
+		<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5955033698"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</td></tr></table></center><br /><br /><br />
+
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>John S. Parr</span> says:<br /><small>2 Aug 2011 07:46:23 AM</small><br /><br />Came across this article when checking out Ominato. Was Radioman 3/C on the Concord when we went to Ominato as Occupation Force.Very few of our Crew Members left now ut stil remember sailing into Harbor
+              2 August 2011          
+ling into Harbor Aug 28. 1945.</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'>Richard D Allen 2</span> says:<br /><small>24 Sep 2011 11:59:52 AM</small><br /><br />My dad Richard D Allen Seaman first class served on the Concord during WW2 I beleve he fired the AA guns and was later below deck on the 6in</div><div id='commentItem3' class='commentItem' style='background-color: #f0f0f0'>3. <span style='font-style: italic;'>Ed Miller</span> says:<br /><small>2 Oct 2011 08:11:33 PM</small><br /><br />Looking for anyone who new my father Loyd Miller who served on the Concord during WWII.</div><div id='commentItem4' class='commentItem' style='background-color: '>4. <span style='font-style: italic;'>Don Barkel</span> says:<br /><small>5 Nov 2011 08:55:33 PM</small><br /><br />My good friend Ed Mosher served on the Concord. He is now 93 and in failing health but would enjoy a greeting from anyone who remembers him from those days.</div><div id='commentItem5' class='commentItem' style='background-color: #f0f0f0'>5. <span style='font-style: italic;'>Lynn sherman</span> says:<br /><small>19 Jun 2012 05:09:31 PM</small><br /><br />Looking for anyone who served with my dad, Robert Sherman during WWII.</div><div id='commentItem6' class='commentItem' style='background-color: '>6. <span style='font-style: italic;'>Jason Perry</span> says:<br /><small>27 Jul 2012 12:32:43 PM</small><br /><br />Looking for anyone who served with my Grandfather Joseph B. Perry during WWII. Also looking for deployments and campaigns the ship would have served in. Thank you all and God bless our Veterans.</div><div id='commentItem7' class='commentItem' style='background-color: #f0f0f0'>7. <span style='font-style: italic;'>Jay Dufour</span> says:<br /><small>19 Aug 2012 05:14:01 PM</small><br /><br />I am hoping to hear from any WW II USS Concord who may remember my dad Lt. John Dufour.
+
+Thank you</div><div id='commentItem8' class='commentItem' style='background-color: '>8. <span style='font-style: italic;'>Kathy Radcliff Cutright</span> says:<br /><small>31 Oct 2013 07:17:08 PM</small><br /><br />Looking for anyone who may remember my dad Hugh Radcliff on the USS Concord in WW11  Thank you Veterans!!</div><div id='commentItem9' class='commentItem' style='background-color: #f0f0f0'>9. <span style='font-style: italic;'>Ryan Sayre</span> says:<br /><small>30 Sep 2016 05:06:47 PM</small><br /><br />Looking for more info, my grand father served, Ernest Roberts.  Wish to thank these brave sailors for saving the world!</div><div id='commentItem10' class='commentItem' style='background-color: '>10. <span style='font-style: italic;'>Mark Barrow</span> says:<br /><small>28 Jul 2017 01:50:17 PM</small><br /><br />Looking to see if anyone remembers my dad, Albert "Gene" Barrow. Also does anyone know if there are any tshirts or hats with the ships name available. </div><div id='commentItem11' class='commentItem' style='background-color: #f0f0f0'>11. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>26 Jan 2018 08:08:51 AM</small><br /><br />my father herbert winters served on the concord from feb. 1942 upto its decommisoning in 1945. he was a shipfitter. before he passed he gave me his navy album. will share info. randy winters</div><div id='commentItem12' class='commentItem' style='background-color: '>12. <span style='font-style: italic;'>Terri</span> says:<br /><small>19 Aug 2018 11:37:02 AM</small><br /><br />My dad served on the concord 1942-1943.robert marlin Shriver. Looking for any photos of the crew so I can see my dad or information</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#showAllCommand").show();
+			$("#commentItem12").show();
+				$("#commentItem11").show();
+				$("#commentItem10").show();
+			function showAllComments() {
+		$(".commentItem").show();
+		$("#showAllCommand").remove();
+	}
+	</script>
+	<form method="post" action="/comments_action.php">
+	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+	<p><b>Posting Your Comments on this Topic</b></p>
+	<center>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr><td>Your Name</td><td><input type="text" name="entry_by" value="Anonymous" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>Your Email</td><td><input type="text" name="entry_by_email" value="" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>&nbsp;</td><td><small>Your email will not be published</small></td></tr>
+	<tr><td>Comment Type</td><td>
+		<select name="comment_type" style="width: 230px;">
+			<option value="general">General comment/question</option>
+			<option value="site">Additional information about this page</option>
+			<option value="topic">Looking for more information on this topic</option>
+			<option value="relative">Looking for information about my relative</option>
+		</select>
+		</td></tr>
+	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
+	<tr><td valign="top">Security Code</td>
+		<td valign="top">
+			<div style="background-image:url('/images/captcha/captcha19.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<input type="text" name="captcha" style="margin-bottom: 2px;">
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td valign="top"><input type="hidden" name="foreigntype" value="S">
+		<input type="hidden" name="foreigntype_id" value="205">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C205">
+		<input type="hidden" name="c" value="96"> 		<input type="submit" value="Submit"></td>
+	</tr>
+	</table>
+	</center>
+	<small><p>Note: We hope that visitor conversations at WW2DB will be constructive and thought-provoking.  Please refrain from using strong language.  HTML tags are not allowed.  Your IP address will be tracked even if you remain anonymous.  WW2DB site administrators reserve the right to moderate, censor, and/or remove any comment.  All comment submissions will become the property of WW2DB.</p></small>
+	</div>
+	</form>
+	</div>
+	<div class="xcol">
+		
+<div class="sidetop">Search WW2DB & Partner Sites</div>
+<ul>
+<form id="searchbox_004186240537787039759:ptfrvampo3a" action="https://ww2db.com/searchgoogle.php">
+<input type="hidden" name="cx" value="004186240537787039759:ptfrvampo3a" />
+<input type="hidden" name="channel" value="2781050959">
+<input name="q" type="text" size="12" />
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cof" value="FORID:11" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
+</ul>
+<div class='sidehidden_m'><div class="sidetop">News</div><ul><li> &#187; <a href="/news.php?news_id=206">Finland to probe role of Waffen-SS volunteers</a> (31 May 2018)</li><li> &#187; <a href="/news.php?news_id=205">Your patronage is needed for WW2DB</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=204">Your help is needed to transcribe WW2 documents</a> (17 May 2018)</li><li> &#187; <a href="/news.php?news_id=203">Japanese National Archives released names of Unit 731 members</a> (17 Apr 2018)</li><li> &#187; <a href="/news.php?news_id=202">Wreck of USS Helena found</a> (12 Apr 2018)</li><li> &#187; <a href="/news.php">See all news</a></li></ul><br /></div><div class='sidehidden_m'><div class='sidetop'>Light Cruiser USS Concord Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'><img src="/images/imagemagick/tmb_ship_concord2.jpg" border='0' alt='Concord off Algiers, Algeria, circa late 1923'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=205'>See all 10 photographs of Light Cruiser USS Concord</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Links 160x90 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+	<div class="sidehidden_m">
+	<div class="sidetop">Current Site Statistics</div>
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+</div>
+
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"Never in the field of human conflict was so much owed by so many to so few."<br><br>Winston Churchill, on the RAF</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Vertical Banner 160x600 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+		</div>
+</div>
+<div id="footer">
+	
+	<div style="float: left; padding: 0 5 0 5px; width: 400px; text-align: left;">
+		<div class="sidetop">About the Site</div>
+		<p>The World War II Database is founded and managed by 
+		C. Peter Chen of Lava Development, LLC.  The goal of this
+		site is two fold.  First, it is aiming to offer interesting
+		and useful information about WW2.  Second, it is to showcase
+		Lava's technical capabilities.</p>
+		<ul>
+		<li> &#187; <a href="/credits.php">More About WW2DB</a></li>
+		<li> &#187; <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');">More About Lava</a></li>
+		<li> &#187; <a href="/feed.php">Syndication</a></li>
+		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
+		<li> &#187; <a href="/">World War II Database Home</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C205'>Mobile View</a></li>
+		</ul>		
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
+		<div class="sidetop">Most Popular</div>
+		<ul>
+				<li> &#187; <a href="/event/today/">Today in WW2 History</a></li>
+		<li> &#187; <a href="/photo.php?list=sp&sp=c">WW2 in Color</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=12">Battle of Iwo Jima</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=3">Battle of Stalingrad</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=2">Normandy Campaign</a></li>
+		<li> &#187; <a href="/vehicle_spec.php?q=314">Tiger I Tank</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=136">The Holocaust</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=49">Hiroshima and Nagasaki</a></li>
+		<li> &#187; <a href="/aircraft_spec.php?aircraft_model_id=27">Corsair Fighter</a></li>
+		</ul>
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 200px; text-align: left;">
+				<div class="sidetop">Links</div>
+		<ul><li> &#187; <a href='http://www.combinedfleet.com' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/www.combinedfleet.com');">Combined Fleet</a></li><li> &#187; <a href='http://david.ijn.googlepages.com/home' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/david.ijn.googlepages.com/home');">IJN Signals and Doctrine</a></li><li> &#187; <a href='http://propnturret.com/tully' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/propnturret.com/tully');">Tully's Port Forum</a></li><li> &#187; <a href='http://ww2db.com/ww2file/' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/ww2db.com/ww2file/');">WW2 File Blog</a></li></ul>	</div>
+	
+		<div style="border-top: 1px dotted #474747; clear: both;">
+		<center><p>Copyright © 2004-2018 <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');" style="text-decoration: none; font-weight: normal; color: #000000;">Lava Development, LLC.</a>, all rights reserved</p></center>
+		<br /><br />		
+	</div>
+</div>
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Footer Banner -->
+		<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="1441973756"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+		</center>
+<br /><br />
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95725-1', 'ww2db.com');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>

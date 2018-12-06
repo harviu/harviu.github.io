@@ -1,0 +1,371 @@
+<html>
+
+<head>
+<title>Battleship USS South Dakota (BB-57) | World War II Database</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Battleship USS South Dakota (BB-57) | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Battleship USS South Dakota (BB-57) | World War II Database">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="REVISIT-AFTER" CONTENT="15 days">
+<META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
+<META NAME="AUTHOR" CONTENT="C. Peter Chen">
+<META NAME="CONTACT_ADDR" CONTENT="editor@ww2db.com">
+<META NAME="DISTRIBUTION" CONTENT="Global">
+<META NAME="RESOURCE-TYPE" CONTENT="document">
+<META HTTP-EQUIV="CONTENT-LANGUAGE" CONTENT="english">
+<meta name="MSSmartTagsPreventParsing" content="true">
+
+	
+	<link rel="stylesheet" type="text/css" href="/css/structure.css">
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+<link rel="stylesheet" type="text/css" href="/css/tags.css">
+
+<link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
+
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=B163' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=163' />
+
+<meta property="fb:app_id" content="103484127961" />
+<meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
+
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_southdakota1.jpg" />
+	<meta property="og:site_name" content="WW2DB" />
+	<meta property="og:title" content="Battleship USS South Dakota (BB-57)" />
+	<meta property="og:description" content="Battleship USS South Dakota (BB-57)" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=B163" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_southdakota1.jpg" />
+
+	<meta name='twitter:card' content='summary'>
+	<meta name='twitter:site' content='@ww2db'>
+	<meta name='twitter:title' content='Battleship USS South Dakota (BB-57)'>
+	<meta name='twitter:description' content='Battleship USS South Dakota (BB-57)'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_southdakota1.jpg'>
+				
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<style>
+table.dataTable thead .sorting_asc {
+	background: url("/images/icon_sort_asc.png") no-repeat center right;
+}
+table.dataTable thead .sorting_desc {
+	background: url("/images/icon_sort_desc.png") no-repeat center right;
+}
+table.dataTable tbody td, table.dataTable thead td {
+	padding: 0px 3px 3px 0px;
+}
+.dataTables_filter {
+	padding-bottom: 5px;
+}
+</style>
+	
+</head>
+<body>
+	<div id="banner">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr><td align="left"><h1 class="title">World War II Database</h1></td>
+		<td align="right">
+						<a href="/hp.php"><img src="/images/icon_hp.png" title="F4U Corsair" /></a>
+			<a href="http://www.facebook.com/worldwar2" rel="nofollow" target="_facebook" onclick="javascript: ga('send','pageview','/outgoing/www.facebook.com/worldwar2');"><img src="/images/icon_facebook2.png" border="0" /></a>&nbsp;
+			<a href="http://twitter.com/ww2db" rel="nofollow" target="_twitter" onclick="javascript: ga('send','pageview','/outgoing/twitter.com/ww2db');"><img src="/images/icon_twitter20.jpg" border="0" /></a>&nbsp;
+						<a href="https://www.reddit.com/r/ww2database" rel="nofollow" target="_reddit" onclick="javascript: ga('send','pageview','/outgoing/www.reddit.com/r/ww2database');"><img src="/images/icon_reddit20.png" border="0" /></a>&nbsp;
+			<a href="https://www.pinterest.com/ww2db/" rel="nofollow" target="_pinterest" onclick="javascript: ga('send','pageview','/outgoing/www.pinterest.com/ww2db/');"><img src="/images/icon_pinterest.png" border="0" /></a>&nbsp;
+			<a href="https://www.patreon.com/ww2db/" rel="nofollow" target="_patreon" onclick="javascript: ga('send','pageview','/outgoing/www.patreon.com/ww2db/');"><img src="/images/icon_patreon_20.png" border="0" /></a>&nbsp;
+			<a href="/feed.php"><img src="/images/icon_feed.jpg" border="0"></a>
+		</td></tr>
+		</table>
+		<div class="bannerflash">
+		<div style="background-image:url('/images/banner915_1.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+	</div>
+	<div id='nav' align='right'>
+		<ul id='navlist'>
+			<li><a href='/'>Home</a></li><li><a href='/intro.php'>Intro</a></li><li><a href='/person.php'>People</a></li><li><a href='/event/'>Events</a></li><li><a href='/equip.php'>Equipment</a></li><li><a href='/place/'>Places</a></li><li><a href='/map/'>Maps</a></li><li><a href='/book/'>Books</a></li><li><a href='/photo.php'>Photos</a></li><li><a href='/video/'>Videos</a></li><li><a href='/other.php'>Other</a></li><li><a href='/ref.php'>Reference</a></li><li><a href='/faq/'>FAQ</a></li><li><a href='/credits.php'>About</a></li>		</ul>
+	</div>
+
+<div id="content">
+	<div itemscope itemtype="http://schema.org/Article" class="maincol">
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=B163' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=163' />
+" />
+		<meta itemprop="description" content="Battleship USS South Dakota (BB-57)" />
+		<div id="breadcrumb"><ul class="horizontalList">
+				<li class="horizontalList"> <a href="index.php">Home</a></li>
+				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=B">Battleships and Battlecruisers</a></li><li class="horizontalList"> &#187; South Dakota</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='South Dakota file photo [1867]' title='South Dakota file photo [1867]' src='/images/ship_southdakota1.jpg' /><script>
+		function resizeText(className, percent) {
+			var elements = document.getElementsByClassName(className);
+			for (var i = 0; i < elements.length; ++i) {
+				if (percent == null) {
+					elements[i].style.fontSize = '100%';
+				}
+				else {
+					if (elements[i].style.fontSize == '') elements[i].style.fontSize = '100%';
+					elements[i].style.fontSize = parseFloat(elements[i].style.fontSize) + percent + '%';
+				}
+			}
+		}
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS South Dakota</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=796'>South Dakota-class Battleship</a></td></tr><tr><td class='table_noborder'>Hull Number</td><td class='table_noborder'>BB-57</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">New York Shipbuilding Corp., Camden, New Jersey, United States</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">5 Jul 1939</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">7 Jun 1941</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">20 Mar 1942</td></tr><tr><td class="table_noborder">Decommissioned</td><td class="table_noborder">31 Jan 1947</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">35000 tons standard; 43200 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">680 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">108 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">36 feet</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">28 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">2364</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">9x406mm guns, 16x127mm guns, 68x40mm guns, 76x20mm guns</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>South Dakota was commissioned in 1942 with Captain Thomas L. Gatch in command.  After fitting out at Philadelphia, Pennsylvania, United States, she held her shakedown cruise from 3 Jun to 26 Jul, then headed out for the Pacific Ocean on 16 Aug.  She reached the Panama Canal on 21 Aug, then arrived at Nuku?alofa, Tonga, on 4 Sep.  On 6 Sep, she struck a coral pinnacle in the Lahai Passage, and had to sail for Pearl Harbor Navy Yard, Hawaii, United States for repairs, which lasted until 12 Oct.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>South Dakota sailed with Task Force 16, which was centered around carrier Enterprise, from Hawaii to Espiritu Santo, New Hebrides, where they joined with Task Force 17 to form Task Force 61, commanded by Rear Admiral Thomas C. Kinkaid.  On 25 Oct, she was engaged in the Battle of Santa Cruz Islands, where she acted as an anti-aircraft gun platform.  She was attacked by dive bombers and sustained a 500-pound bomb hit on the top of her number one turret.  At the end of the battle, she was credited with downing 26 Japanese aircraft.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 30 Oct, South Dakota collided with destroyer Mahan while avoiding a submarine contact.  Both ships sailed to Nouméa, New Caledonia for repairs by USS Vestal.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 11 Nov, South Dakota sailed for Guadalcanal with Task Force 16.  On 13 Nov, she joined Task Force 64 under Rear Admiral Willis A. Lee.  During the evening of 14 Nov 1942, a Japanese fleet consisted of battleship Kirishima, heavy cruiser Atago, heavy cruiser Takao, light cruisers, and destroyers was detected by submarine Trout, and Task Force 64 was dispatched to respond.  By 2210, Vice Admiral Nobutake Kondo had also detected Task Force 64, and divided his force into three sections in an attempt to out maneuver the Americans.  Battleships South Dakota and Washington opened fire on light cruiser Sendai at 2317, but at 2333 South Dakota ran into electrical problems which put much of her electronics out of commission, depriving the Americans the use of her radar.  Meanwhile, Lee made the realization that his destroyer screen was about to be wiped out completely.  He ordered South Dakota to go around the sinking destroyers to shield them from some fire, meanwhile allowing her to fire a few more rounds of broadside fire on Sendai before retiring.  At 2348, South Dakota completed this maneuver, and turned starboard again to exit the battle, only to find that she was ambushed by another Japanese group, which she had not detected because of the lack of radar.  34 torpedoes were fired from the ambushing ships at 2355, but all of them missed.  The torpedoes were followed by a hail of gunfire from battleships Kirishima, Atago, and Takao.  Battleship Washington moved close to support by firing on Kirishima, but the Japanese ships were determined to destroy South Dakota first and refused to be distracted.  Washington fired 75 16-inch shells at Kirishima, scoring 9; there were 40 hits by the smaller 5-inch shells, too.  Kirishima quickly became a burning wreck by 0012.  South Dakota, by this point, fared only a little better; almost everything on the topside was destroyed after being hit by 42 shells, leaving her without any capability for communications.  Lee, with his flag bridge aboard Washington, only hoped that the lack of communications from South Dakota only meant she was retiring from battle, not sinking.  Luckily for South Dakota, the Japanese fleet retired from the Second Naval Battle of Guadalcanal, largely because Washington was inflicting so much damage on Kirishima, which would eventually be scuttled due to the damage received.  South Dakota retired to Nouméa for temporary repairs by USS Prometheus, and then sailed for New York City, New York, United States for permanent repairs, arriving on 18 Dec 1942.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>South Dakota returned to service on 25 Feb 1943.  In mid-Apr, she was deployed to carrier Ranger's group to the North Atlantic.  Until 1 Aug, she operated with the British Home Fleet based at Scapa Flow, Scotland, United Kingdom.  In Aug, she sailed for the United States.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 21 Aug 1943, South Dakota sailed for the Pacific Ocean again, arriving in Fiji on 7 Nov.  On 11 Nov, she joined Task Group 50.1 for Operation Galvanic, the invasion of the Gilbert Islands.  She escorted carriers as their aircraft struck targets in the Gilbert and Marshall Islands.  On 8 Dec, she bombarded Nauru Island.  On 30 Jan 1944, she bombarded Roi and Namur in the Marshall Islands, and then supported the amphibious landings at the Marshall Islands over the following days.  Between 17 and 18 Feb, she escorted carriers as they struck the Japanese garrison of Truk in the Caroline Islands.  On 24 Feb, she escorted carriers as the aircraft struck the Mariana Islands for the first time in the war; during this attack, South Dakota shot down four Japanese aircraft.  Between 22 Mar and early Apr, she escorted carriers as they struck Palau, Yap, Woleai, and Ulithi in the Caroline Islands.  On 29 and 30 Apr, she escorted carriers during another strike on Truk, and then fired her guns on Japanese installations on the island.  On 1 May, she bombarded Ponape Island, Caroline Islands.  On 13 Jun, she bombarded Tanapag Harbor, Saipan for six hours in support of the invasion.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Shortly after 1000 on 19 Jun 1944, the first of many waves of Japanese aircraft were detected, starting the Battle of the Philippine Sea.  At 1049, South Dakota was struck by a 250-kg bomb on the main deck, blowing a large hole but did not cause structural damage, although 24 men were killed and 27 were wounded.  The battle would subsequently come to be known a the "Great Marianas Turkey Shoot" for the massive losses the American forces would inflict on the Japanese.  South Dakota retired to Ulithi on 27 Jun, and headed to Puget Sound Navy Yard on the west coast of the United States, arriving on 10 Jul.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the overhaul at Puget Sound was complete, South Dakota returned to Ulithi in Sep 1944.  Between Oct and Dec, she operated east of the Philippine Islands, screening for carriers that launched strikes at Manila and other targets on Luzon Island as an indirect support for the invasion of Mindoro, Philippine Islands.  Between 30 Dec 1944 and 26 Jan 1945, she continued to escort carriers and they launched aircraft against Taiwan, Luzon, Hong Kong, Hainan, and Okinawa.  On 17 Feb, South Dakota escorted carriers during a strike on Tokyo, Japan.  On 19 and 20 Feb, she operated off of Iwo Jima.  In Mar and Apr, she bombarded southeastern Okinawa.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 6 May 1945, a tank of high capacity powder aboard South Dakota exploded, killing three men instantly and then another eight later due to injuries.  She retired to Guam in the Mariana Islands on 11 May for temporary repairs.  In Jul, while escorting carrier strikes on Japan, she bombarded the Kamaishi Steel Works at Kamaishi, Honshu, Japan on 14 Jul.  On 29 and 30 Jul, she bombarded Hamamatsu, Honshu.  On 9 Aug, she bombarded Kamaishi once again.  She remained in the area to screen for carriers until Japan surrendered on 15 Aug.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 27 Aug 1945, South Dakota entered Sagami Wan (Bay) at Honshu.  Two days later, she entered Tokyo Bay.  She left Japan on 20 Sep, arriving at San Pedro, California, United States in late Oct 1945.  After the war, she was placed in reserve in early 1947, and was never reactivated again.  She was sold to Lipsett Division, Luria Brothers and Company, Inc. for scrap at the cost of US$446,000.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Sources: Struggle for Guadalcanal, Wikipedia.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Battleship USS South Dakota (BB-57) Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([39.881812000, -75.183797000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Guadalcanal, British Western Pacific Territories</h2><div class='infowindowSubTitle'>14 Nov 1942</div><a href='/image.php?image_id=23505'><img src='/images/imagemagick/tmb_54e443b30cda3.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", -9.186111000, -200.105, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pacific Ocean</h2><div class='infowindowSubTitle'>28 Apr 1944</div><a href='/image.php?image_id=26237'><img src='/images/imagemagick/tmb_57a6bc681209f.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 0.200000000, -213.366667, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Ulithi, Caroline Islands</h2><div class='infowindowSubTitle'>24 Dec 1944</div><a href='/image.php?image_id=10323'><img src='/images/imagemagick/tmb_ship_ticonderoga16.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=10324'><img src='/images/imagemagick/tmb_ship_ticonderoga17.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=10326'><img src='/images/imagemagick/tmb_ship_ticonderoga19.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=10328'><img src='/images/imagemagick/tmb_ship_ticonderoga21.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=20143'><img src='/images/imagemagick/tmb_ship_northcarolina114.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=20144'><img src='/images/imagemagick/tmb_ship_northcarolina115.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>1945</div><a href='/image.php?image_id=14611'><img src='/images/imagemagick/tmb_ship_southdakota19.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=14612'><img src='/images/imagemagick/tmb_ship_southdakota20.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 9.970000000, -220.33, 8],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Ulithi, Caroline Islands</h2><div class='infowindowSubTitle'>08 Dec 1944</div><a href='/image.php?image_id=23521'><img src='/images/imagemagick/tmb_54e44dd6b7638.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 10.000000000, -220.322223, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Ulithi, Caroline Islands</h2><div class='infowindowSubTitle'>08 Feb 1945</div><a href='/image.php?image_id=24280'><img src='/images/imagemagick/tmb_558a4bd47e07b.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 10.050000000, -220.29, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Ulithi, Caroline Islands</h2><div class='infowindowSubTitle'>Dec 1944</div><a href='/image.php?image_id=25078'><img src='/images/imagemagick/tmb_56230be991427.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 10.062500000, -220.289507, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pacific Ocean</h2><div class='infowindowSubTitle'>25 Nov 1944</div><a href='/image.php?image_id=24264'><img src='/images/imagemagick/tmb_558a4181ea71a.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 16.300000000, -236.466667, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>05 Sep 1944</div><a href='/image.php?image_id=20155'><img src='/images/imagemagick/tmb_5282a7845f6df.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.363889000, -157.960278, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Tokyo, Tokyo, Japan</h2><div class='infowindowSubTitle'>02 Sep 1945</div><a href='/image.php?image_id=2668'><img src='/images/imagemagick/tmb_battle_japansurrender52.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 35.354722220, -220.24, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Philadelphia, Pennsylvania, United States</h2><div class='infowindowSubTitle'>04 Jun 1942</div><a href='/image.php?image_id=25062'><img src='/images/imagemagick/tmb_56230bd21fb6d.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 39.881812000, -75.183797, 1]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>USS South Dakota Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/05/1939' alt='See all events on 5 Jul 1939' title='See all events on 5 Jul 1939' class='noStyle'>5 Jul 1939</a>&nbsp;</td><td>The keel of the battleship USS South Dakota (BB-57) was laid down at the New York Shipbuilding Corporation shipyard in Camden, New Jersey, United States.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/03/20/1942' alt='See all events on 20 Mar 1942' title='See all events on 20 Mar 1942' class='noStyle'>20 Mar 1942</a>&nbsp;</td><td>South Dakota was commissioned into service.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/01/31/1947' alt='See all events on 31 Jan 1947' title='See all events on 31 Jan 1947' class='noStyle'>31 Jan 1947</a>&nbsp;</td><td>South Dakota was decommissioned from service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=163'><img src="/images/imagemagick/tmb_ship_southdakota14.jpg" border='0' alt='South Dakota under construction at the New York Shipbuilding Corporation shipyard, Camden, New Jersey, United States, 1 Apr 1940'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=163'><img src="/images/imagemagick/tmb_56230bd21fb6d.jpg" border='0' alt='Battleship USS South Dakota departing Philadelphia, Pennsylvania, United States for shakedown exercises, 4 Jun 1942. Note the OS2U Kingfisher aircraft from Observation Squadron VO-6 on the fantail.'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=163'><img src="/images/imagemagick/tmb_ship_southdakota2.jpg" border='0' alt='South Dakota underway during shakedown in the Atlantic, Jul 1942, photo 1 of 2'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=163'><img src="/images/imagemagick/tmb_ship_southdakota3.jpg" border='0' alt='South Dakota underway during shakedown in the Atlantic, Jul 1942, photo 2 of 2'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=163'>See all 42 photographs of Battleship USS South Dakota (BB-57)</a><br /><p><b>Maps</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=23505"><img src="/images/imagemagick/tmb_54e443b30cda3.jpg" border='0' alt='Map depicting Japanese and US Naval movements during the Second Naval Battle of Guadalcanal the night of Nov 14, 1942.'></a></td></tr></table><br /><br /><br /><br />
+				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
+				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
+		<table border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td colspan='9'>Share this article with your friends:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=B163' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=B163' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B163&title=Battleship USS South Dakota (BB-57)' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B163&title=Battleship USS South Dakota (BB-57)' target='_reddit'>Reddit</a></td>
+		</tr>
+		<tr>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Battleship+USS+South+Dakota+(BB-57)+https://ww2db.com:443/ship_spec.php?ship_id=B163' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Battleship+USS+South+Dakota+(BB-57)+https://ww2db.com:443/ship_spec.php?ship_id=B163' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B163&title=Battleship USS South Dakota (BB-57)' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B163&title=Battleship USS South Dakota (BB-57)' target='_digg'>Digg</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=B163' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=B163' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=B163&title=Battleship USS South Dakota (BB-57)' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=B163&title=Battleship USS South Dakota (BB-57)' target='_delicious'>Delicious</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B163&title=Battleship USS South Dakota (BB-57)' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=B163&title=Battleship USS South Dakota (BB-57)' target='_stumbleupon'>StumbleUpon</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan='9'><br /><br />Stay updated with WW2DB:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a href='/feed.php'><img src='/images/icon_feed12.gif' border='0'></a></td><td>&nbsp;</td><td><a href='/feed.php'>RSS Feeds</a></td>
+		</tr>
+		</table>
+	</td><td valign='top' width='300'>		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB End of Content Medium Rectangle -->
+		<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5955033698"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</td></tr></table></center><br /><br /><br />
+
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Tom Mischke</span> says:<br /><small>6 Nov 2006 09:29:06 AM</small><br /><br />The main armament for BB-57 was 1645 NOT 1650..... The latter (which ended up on Iowa-class) were slated for earlier BB-49, which ultimately wasnt built.</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>1 May 2010 04:34:54 AM</small><br /><br />My Dad served as a Marine aboard the USS South Dakota during World War 2 I am looking for anyone that may have known him.  His name was Gerald B. O'Reilly and came from Brockton, Massachusetts.</div><div id='commentItem3' class='commentItem' style='background-color: #f0f0f0'>3. <span style='font-style: italic;'>Paul Lindner</span> says:<br /><small>12 Jun 2010 04:27:16 PM</small><br /><br />My father was the Chaplain on the South Dakota
+in 1944-1945. He passed away in 1961, he had attained the rank of Captain. He had a scrapbook of many pictures taken of ships personnel, including many Marines. I donated these pictures to the museum in  Sioux Falls.</div><div id='commentItem4' class='commentItem' style='background-color: '>4. <span style='font-style: italic;'>Jimmy Gregory </span> says:<br /><small>29 May 2011 06:29:46 PM</small><br /><br />I am the very proud som of Sterling Gregory. My dad was born on 8/30/1923 in Gadsen County, Florida. He was raised in a home with 2 brothers and 2 sisters mom and dad. They had no tv, no electric, no phone, no car. But some how he went to school and made it through the 12th grade. On 2/14/1941, he signed up for the Navy, his first paying job. But I know he did not know what he was getting into. After boot camp the Navy sent him to a ship but would not tell him her name. To him that was strange, but he went. Coming from a town called Sumatra Fl, with 35 men women and kids to a ship bigger than the town, that was scary. When he reported to the ship, he was greeted with welcome to the Battle Ship X. My dad was the eye of this ship. He was a radar man that communicated with Lt. Sergeant Shriffer. I believe if it wasnt for the radar men, the crew may not have had time to do the great job they had to do and did it well. My dad was aboard the USS South Dakota start to finish. He was let go from the navy on 1/31/1962 because of a heart attack and died 2/13/1992 still all navy. E7 Chief Gregory was baried in Sumatra Florida with a slab of granet with a carving of the USS South Dakota with the anker down. God bless all the crew and the 2nd and 3rd generation.    From one of the biggest navy brats the navy has ever seen,   I want to take the opportunity to thank all of the branches of the service, living or dead, for serving our country and looking out for me. God bless everyone of you. Thank you, Jimmy Gregory.           hopalong36@yahoo.com</div><div id='commentItem5' class='commentItem' style='background-color: #f0f0f0'>5. <span style='font-style: italic;'>cool kid</span> says:<br /><small>12 Mar 2013 11:04:18 PM</small><br /><br />is the ship saank or what</div><div id='commentItem6' class='commentItem' style='background-color: '>6. <span style='font-style: italic;'>Vernon Linam</span> says:<br /><small>10 Jun 2013 12:44:57 PM</small><br /><br />I bought a US Navy Kabar knife last week.
+On the back of the sheath was scratcher the inatials E.B.K- Uss South Dakota.
+Does anyone remember E.B.K ?
+Any help would be appreciated.
+VL
+
+Thanks to the greatest generation, we are a free people.</div><div id='commentItem7' class='commentItem' style='background-color: #f0f0f0'>7. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>1 Aug 2014 01:42:33 PM</small><br /><br /> Gerald O'Reilly from Brockton was my grandfather</div><div id='commentItem8' class='commentItem' style='background-color: '>8. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>2 Nov 2015 03:01:13 PM</small><br /><br />I just read a book called "The Terrible Hours." about the sinking, crew rescue and and raising of the submarine USS Squalus in 1939. The crew of that sub were the very first men to ever be rescued from a sunken US Navy sub. They were raised from a depth of 200 feet using a diving sphere that was designed, developed, and tested by a Navy man named Charles "Swede" Momsen who was Captain of USS South Dakota from December 1944 to August 1945. He discovered through meticulous testing that the powder explosion which is noted above was actually caused by static electricity generated by the gun powder's metal container's silk lining rubbing the inside of the container as the containers were moved. For anyone interested in History  "The Terrible Hours," by Peter Maas is an incredible read.</div><div id='commentItem9' class='commentItem' style='background-color: #f0f0f0'>9. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>2 Nov 2015 03:02:25 PM</small><br /><br />cool kid the South Dakota was sold for scrap in 1947</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#showAllCommand").show();
+			$("#commentItem9").show();
+				$("#commentItem8").show();
+				$("#commentItem7").show();
+			function showAllComments() {
+		$(".commentItem").show();
+		$("#showAllCommand").remove();
+	}
+	</script>
+	<form method="post" action="/comments_action.php">
+	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+	<p><b>Posting Your Comments on this Topic</b></p>
+	<center>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr><td>Your Name</td><td><input type="text" name="entry_by" value="Anonymous" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>Your Email</td><td><input type="text" name="entry_by_email" value="" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>&nbsp;</td><td><small>Your email will not be published</small></td></tr>
+	<tr><td>Comment Type</td><td>
+		<select name="comment_type" style="width: 230px;">
+			<option value="general">General comment/question</option>
+			<option value="site">Additional information about this page</option>
+			<option value="topic">Looking for more information on this topic</option>
+			<option value="relative">Looking for information about my relative</option>
+		</select>
+		</td></tr>
+	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
+	<tr><td valign="top">Security Code</td>
+		<td valign="top">
+			<div style="background-image:url('/images/captcha/captcha17.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<input type="text" name="captcha" style="margin-bottom: 2px;">
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td valign="top"><input type="hidden" name="foreigntype" value="S">
+		<input type="hidden" name="foreigntype_id" value="163">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=B163">
+		<input type="hidden" name="c" value="94"> 		<input type="submit" value="Submit"></td>
+	</tr>
+	</table>
+	</center>
+	<small><p>Note: We hope that visitor conversations at WW2DB will be constructive and thought-provoking.  Please refrain from using strong language.  HTML tags are not allowed.  Your IP address will be tracked even if you remain anonymous.  WW2DB site administrators reserve the right to moderate, censor, and/or remove any comment.  All comment submissions will become the property of WW2DB.</p></small>
+	</div>
+	</form>
+	</div>
+	<div class="xcol">
+		
+<div class="sidetop">Search WW2DB & Partner Sites</div>
+<ul>
+<form id="searchbox_004186240537787039759:ptfrvampo3a" action="https://ww2db.com/searchgoogle.php">
+<input type="hidden" name="cx" value="004186240537787039759:ptfrvampo3a" />
+<input type="hidden" name="channel" value="2781050959">
+<input name="q" type="text" size="12" />
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cof" value="FORID:11" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
+</ul>
+<div class="sidetop">More on USS South Dakota</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=9>Guadalcanal Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=8>Solomon Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=72>Gilbert Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=73>Marshall Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=10>Mariana Islands Campaign and the Great Turkey Shoot</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=79>Typhoon Cobra</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=323>Raid into the South China Sea</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=15>Okinawa Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=54>Preparations for Invasion of Japan</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=13>Japan's Surrender</a><br><br /><div class='sidehidden_m'><div class='sidetop'>Battleship USS South Dakota (BB-57) Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=163'><img src="/images/imagemagick/tmb_ship_southdakota14.jpg" border='0' alt='South Dakota under construction at the New York Shipbuilding Corporation shipyard, Camden, New Jersey, United States, 1 Apr 1940'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=163'>See all 42 photographs of Battleship USS South Dakota (BB-57)</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Links 160x90 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+	<div class="sidehidden_m">
+	<div class="sidetop">Current Site Statistics</div>
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+</div>
+
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"An appeaser is one who feeds a crocodile, hoping it will eat him last."<br><br>Winston Churchill</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Vertical Banner 160x600 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+		</div>
+</div>
+<div id="footer">
+	
+	<div style="float: left; padding: 0 5 0 5px; width: 400px; text-align: left;">
+		<div class="sidetop">About the Site</div>
+		<p>The World War II Database is founded and managed by 
+		C. Peter Chen of Lava Development, LLC.  The goal of this
+		site is two fold.  First, it is aiming to offer interesting
+		and useful information about WW2.  Second, it is to showcase
+		Lava's technical capabilities.</p>
+		<ul>
+		<li> &#187; <a href="/credits.php">More About WW2DB</a></li>
+		<li> &#187; <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');">More About Lava</a></li>
+		<li> &#187; <a href="/feed.php">Syndication</a></li>
+		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
+		<li> &#187; <a href="/">World War II Database Home</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=B163'>Mobile View</a></li>
+		</ul>		
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
+		<div class="sidetop">Most Popular</div>
+		<ul>
+				<li> &#187; <a href="/event/today/">Today in WW2 History</a></li>
+		<li> &#187; <a href="/photo.php?list=sp&sp=c">WW2 in Color</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=12">Battle of Iwo Jima</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=3">Battle of Stalingrad</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=2">Normandy Campaign</a></li>
+		<li> &#187; <a href="/vehicle_spec.php?q=314">Tiger I Tank</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=136">The Holocaust</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=49">Hiroshima and Nagasaki</a></li>
+		<li> &#187; <a href="/aircraft_spec.php?aircraft_model_id=27">Corsair Fighter</a></li>
+		</ul>
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 200px; text-align: left;">
+				<div class="sidetop">Links</div>
+		<ul><li> &#187; <a href='http://www.combinedfleet.com' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/www.combinedfleet.com');">Combined Fleet</a></li><li> &#187; <a href='http://david.ijn.googlepages.com/home' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/david.ijn.googlepages.com/home');">IJN Signals and Doctrine</a></li><li> &#187; <a href='http://propnturret.com/tully' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/propnturret.com/tully');">Tully's Port Forum</a></li><li> &#187; <a href='http://ww2db.com/ww2file/' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/ww2db.com/ww2file/');">WW2 File Blog</a></li></ul>	</div>
+	
+		<div style="border-top: 1px dotted #474747; clear: both;">
+		<center><p>Copyright © 2004-2018 <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');" style="text-decoration: none; font-weight: normal; color: #000000;">Lava Development, LLC.</a>, all rights reserved</p></center>
+		<br /><br />		
+	</div>
+</div>
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Footer Banner -->
+		<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="1441973756"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+		</center>
+<br /><br />
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95725-1', 'ww2db.com');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>

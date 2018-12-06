@@ -1,0 +1,306 @@
+<html>
+
+<head>
+<title>Heavy Cruiser Suzuya | World War II Database</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Heavy Cruiser Suzuya | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Heavy Cruiser Suzuya | World War II Database">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="REVISIT-AFTER" CONTENT="15 days">
+<META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
+<META NAME="AUTHOR" CONTENT="C. Peter Chen">
+<META NAME="CONTACT_ADDR" CONTENT="editor@ww2db.com">
+<META NAME="DISTRIBUTION" CONTENT="Global">
+<META NAME="RESOURCE-TYPE" CONTENT="document">
+<META HTTP-EQUIV="CONTENT-LANGUAGE" CONTENT="english">
+<meta name="MSSmartTagsPreventParsing" content="true">
+
+	
+	<link rel="stylesheet" type="text/css" href="/css/structure.css">
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+<link rel="stylesheet" type="text/css" href="/css/tags.css">
+
+<link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
+
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C40' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=40' />
+
+<meta property="fb:app_id" content="103484127961" />
+<meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
+
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_suzuya1.jpg" />
+	<meta property="og:site_name" content="WW2DB" />
+	<meta property="og:title" content="Heavy Cruiser Suzuya" />
+	<meta property="og:description" content="Heavy Cruiser Suzuya" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C40" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_suzuya1.jpg" />
+
+	<meta name='twitter:card' content='summary'>
+	<meta name='twitter:site' content='@ww2db'>
+	<meta name='twitter:title' content='Heavy Cruiser Suzuya'>
+	<meta name='twitter:description' content='Heavy Cruiser Suzuya'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_suzuya1.jpg'>
+				
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<style>
+table.dataTable thead .sorting_asc {
+	background: url("/images/icon_sort_asc.png") no-repeat center right;
+}
+table.dataTable thead .sorting_desc {
+	background: url("/images/icon_sort_desc.png") no-repeat center right;
+}
+table.dataTable tbody td, table.dataTable thead td {
+	padding: 0px 3px 3px 0px;
+}
+.dataTables_filter {
+	padding-bottom: 5px;
+}
+</style>
+	
+</head>
+<body>
+	<div id="banner">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr><td align="left"><h1 class="title">World War II Database</h1></td>
+		<td align="right">
+						<a href="/hp.php"><img src="/images/icon_hp.png" title="F4U Corsair" /></a>
+			<a href="http://www.facebook.com/worldwar2" rel="nofollow" target="_facebook" onclick="javascript: ga('send','pageview','/outgoing/www.facebook.com/worldwar2');"><img src="/images/icon_facebook2.png" border="0" /></a>&nbsp;
+			<a href="http://twitter.com/ww2db" rel="nofollow" target="_twitter" onclick="javascript: ga('send','pageview','/outgoing/twitter.com/ww2db');"><img src="/images/icon_twitter20.jpg" border="0" /></a>&nbsp;
+						<a href="https://www.reddit.com/r/ww2database" rel="nofollow" target="_reddit" onclick="javascript: ga('send','pageview','/outgoing/www.reddit.com/r/ww2database');"><img src="/images/icon_reddit20.png" border="0" /></a>&nbsp;
+			<a href="https://www.pinterest.com/ww2db/" rel="nofollow" target="_pinterest" onclick="javascript: ga('send','pageview','/outgoing/www.pinterest.com/ww2db/');"><img src="/images/icon_pinterest.png" border="0" /></a>&nbsp;
+			<a href="https://www.patreon.com/ww2db/" rel="nofollow" target="_patreon" onclick="javascript: ga('send','pageview','/outgoing/www.patreon.com/ww2db/');"><img src="/images/icon_patreon_20.png" border="0" /></a>&nbsp;
+			<a href="/feed.php"><img src="/images/icon_feed.jpg" border="0"></a>
+		</td></tr>
+		</table>
+		<div class="bannerflash">
+		<div style="background-image:url('/images/banner915_3.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+	</div>
+	<div id='nav' align='right'>
+		<ul id='navlist'>
+			<li><a href='/'>Home</a></li><li><a href='/intro.php'>Intro</a></li><li><a href='/person.php'>People</a></li><li><a href='/event/'>Events</a></li><li><a href='/equip.php'>Equipment</a></li><li><a href='/place/'>Places</a></li><li><a href='/map/'>Maps</a></li><li><a href='/book/'>Books</a></li><li><a href='/photo.php'>Photos</a></li><li><a href='/video/'>Videos</a></li><li><a href='/other.php'>Other</a></li><li><a href='/ref.php'>Reference</a></li><li><a href='/faq/'>FAQ</a></li><li><a href='/credits.php'>About</a></li>		</ul>
+	</div>
+
+<div id="content">
+	<div itemscope itemtype="http://schema.org/Article" class="maincol">
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C40' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=40' />
+" />
+		<meta itemprop="description" content="Heavy Cruiser Suzuya" />
+		<div id="breadcrumb"><ul class="horizontalList">
+				<li class="horizontalList"> <a href="index.php">Home</a></li>
+				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Suzuya</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Suzuya file photo [5203]' title='Suzuya file photo [5203]' src='/images/ship_suzuya1.jpg' /><script>
+		function resizeText(className, percent) {
+			var elements = document.getElementsByClassName(className);
+			for (var i = 0; i < elements.length; ++i) {
+				if (percent == null) {
+					elements[i].style.fontSize = '100%';
+				}
+				else {
+					if (elements[i].style.fontSize == '') elements[i].style.fontSize = '100%';
+					elements[i].style.fontSize = parseFloat(elements[i].style.fontSize) + percent + '%';
+				}
+			}
+		}
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Suzuya</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=470'>Mogami-class Heavy Cruiser</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Yokosuka_Naval_Arsenal/'>Yokosuka Naval Arsenal</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">11 Dec 1933</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">20 Nov 1934</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">31 Oct 1937</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">25 Oct 1944</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">8500 tons standard; 13670 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">649 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">66 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">19 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">Geared turbines, 4 shafts, 10 Kampon boilers</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">15200 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">35 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">8,000nm at 14 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">850</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">5x2x203mm guns, 4x2x127mm guns, 8x3x25mm + 4x2x25mm + 18x25mm Type 96 AA guns, 12x610mm torpedo tubes</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">100-125mm belt, 35-60mm deck, 25mm turret</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">11 floatplanes</td></tr><tr><td class="table_noborder">Catapults</td><td class="table_noborder">2</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Named after the Suzuya river at Sakhalin Island in northern Japan, like her sister ships of the Mogami-class, heavy cruiser Suzuya was designed to reach the maximum limits allowed by the Washington Naval Treaty.  Although she was completed in Jan 1936, she was immediately placed in reserve for reconstruction.  When she was commissioned in late 1937, she again was not placed into service; instead, she entered an extended period of refitting and modifications.  She finally entered service on 30 Sep 1939 with an initial armament configuration of fifteen 155-mm guns in five turrets, eight 127-mm guns in four turrets, eight 25-mm and four 13-mm anti-aircraft guns, and 12 610-mm torpedo tubes.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 15 Oct 1940, Captain Masatomi Kimura assumed command of the ship.  On 16 Jul 1941, along with her sister ships of Cruiser Division 7, Suzuya departed Kure, Japan for Samah, Hainan Island, China, where she was to be based for her duty with the Indochina occupation forces.  Between 7 Aug and 20 Nov 1941, she served in Japan.  On 23 Nov, Rear Admiral Takeo Kurita came onboard at Kure, and Cruiser Division 7 sailed for Hainan, arriving at Samah on 26 Nov.  On 2 Dec 1941, the division received the signal "<i>Niitakayama nobore 1208</i>", signifying that the attacks on Allied bases around the Pacific Ocean would commence on 8 Dec 1941 (Japan time).  On 8 Dec, as the Pacific War began, Suzuya covered the Singora, Patani and Kota Bharu landings during the invasion of Malaya as a part of Vice Admiral Jisaburo Ozawa's First Southern Expeditionary Fleet.  On 9 Dec 1941, Japanese submarine I-65 discovered British Royal Navy Force Z off Malaya (but later lost contact), so two E13A1 floatplanes, one from Suzuya and one from sister ship Kumano, took off to continue to shadow Force Z, but the floatplanes eventually ran out of fuel.  Only Suzuya's floatplane crew was recovered.  The British ships were eventually destroyed by air power.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 13 Dec 1941, with Kumano, Suzuya covered the Miri, Sawarak landings during the invasion of Borneo.  She returned to Camranh Bay, Vietnam, on 27 Dec 1941.  After escorting several convoys off Indochina, she returned to Malaya to cover landings on Anambas Island and Endau in late Jan 1942.  On 13 Feb 1942, she covered the Sumatra invasion force; en route, on 10 Feb, she was targeted by American submarine Searaven, but the torpedoes missed.  On 24 Feb, she covered the landings at Indramaju, Java.  On 12 Mar, she covered the landings at Sabang and Iri, northern Sumatra.  On 23 Mar, she covered the invasion of Andaman Islands in the Indian Ocean.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 1 Apr 1942, Cruiser Division 7 sailed as a part of the raiding fleet into the Indian Ocean.  As a part of the Northern Group, she attacked a seven-ship convoy on 6 Apr in the Bay of Bengal.  The gropu sank the 4,986-ton American merchantman Exmoor, 7,621-ton British freighter Autoclycus, the 9,066-ton British freighter Malda, and the 2,440-ton British freighter Shinkuang.  She returned to Singapore on 13 Apr and arrived at Kure on 22 Apr for repairs, entering drydocks on 4 May.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 22 May 1942, Suzuya and Cruiser Division 7 departed Hashirajima, Japan for Guam in the Mariana Islands, arriving four days later.  At Guam, she was assigned to be a part of the Close Support Group of the Midway invasion force.  Cruiser Division 7 was tasked with the pre-invasion bombardment of Midway Atoll on 5 Jun, but the order was canceled at 2120 when she was about 410 miles away due to the rough seas causing the destroyer screen to fall behind.  The Battle of Midway eventually ended a failure for the Japanese, and Suzuya arrived at Truk after the battle on 13 Jun and then Kure on 23 Jun.  At Kure, Cruiser Division 7 was transferred from the Second Fleet (cruisers) to the Third Fleet (carriers) on 14 Jul.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 28 Jul 1942, Suzuya and Kumano with destroyers in escort departed Singapore for Burma, which was being invaded by Japanese troops.  En route on 29 Jul, Dutch submarine O-23 under the command of Lieutenant Commander Albertus M. Valkenburg attacked them with four G7 AD type bow torpedoes, but all missed.  The Japanese ships depth charged the submarine, but she escaped.  The Japanese ships arrived at Mergui, Burma on 30 Jul.  She remained in Burma until 7 Aug 1942 when the Americans invaded Guadalcanal in the Solomon Islands.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Between 24 and 25 Aug 1942, Suzuya was indirectly involved in the Battle of the Eastern Solomons as part of Vice Admiral Chuichi Nagumo's Third Fleet.  On 14 Sep 1942, she was attacked by 10 B-17 Flying Fortress bombers, but sustained no damage.  On 5 Nov 1942, Cruiser Division 7 reinforced Vice Admiral Gunichi Mikawa's Eight Fleet at Shortland Island in the Solomon Islands.  Between 0130 and 0200 in the early morning of 14 Nov, six cruisers (including Suzuya) and six destroyers bombarded Guadalcanal's Henderson Field with 989 8-inch shells.  En route back to Shortland Island, the Guadalcanal bombardment force was attacked by American TBM Avenger torpedo aircraft from Guadalcanal, sinking Kinugasa and damaging Chokai, while a SBD Dauntless dive bomber damaged Maya, but Suzuya escaped unscathed.  With Captain Takeji Ono as her new commanding officer starting from 24 Nov 1942, she patrolled and escorted convoys in the Truk (Caroline Islands), Kavieng (New Ireland), and Rabaul (New Britain) area until early 1943.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 12 Jan and then again on 6 Apr 1943, Suzuya returned to Kure for repairs and modifications.  Type 21 air search radars and additional 25-mm anti-aircraft guns were installed during the two visits.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Between Jun and Dec 1943, Suzuya escorted convoys between Truk and Rabaul.  On 18 Jul, while screening troop-laden destroyers, she was attacked by Guadalcanal-based US Marine TBM Avenger torpedo bombers off Kolombangara, but escaped without damage.  On 7 Sep, Captain Ono was transferred to command the battleship Yamato; Captain Yuji Takahashi took over command of Suzuya.  On 3 Nov, she bombarded American forces at Empress Augusta Bay, Bougainville Island alongside of cruisers Mogami and Chikuma.  On 5 Nov, while refueling at Rabaul from oiler Kokuyo Maru, Rabaul came under attack by 97 aircraft from US Navy's Task Force 38; she was one of the few ships not damaged.  On the next day, she escorted the damaged Mogami to Truk for repairs.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 1 Feb, Suzuya assisted with the evacuation of the Japanese stronghold of Truk.  She arrived at Lingga near Singapore on 21 Feb and engaged in battle exercises, then went into refit at Singapore, receiving additional eight 25-mm Type 96 anti-aircraft guns.  In May 1944, she joined Vice Admiral Ozawa's Mobile Fleet at Tawi Tawi, Philippine Islands.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>In Jun 1944, Suzuya sailed with Admiral Kurita's Force C in anticipation of an engagement between Japanese and American fleets.  The Japanese fleet eventually suffered a major setback and retired toward Okinawa.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 25 Jun 1944, Suzuya entered Kure Naval Yard for refit once again, bringing her total 25-mm Type 96 anti-aircraft guns to 50 barrels.  A type 22 surface search radar, a Type 13 air search radar, and a Type 2 infrared identification friend-or-foe system were installed as well.  She sailed for Singapore on 8 Jul and remained in the Singapore-Borneo area until Oct 1944.  Between 8 and 10 Jul, she transported troops from Kure to Okinawa, then proceeded to Singapore to join the Mobile Fleet.  On 1 Sep 1944, Captain Masao Teraoka took over command of the ship.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 20 Oct, Suzuya sailed to Brunei, Borneo to assemble for a major naval offensive in the Philippine Islands, which would become the Leyte campaign.  She was engaged in the Battle of Sibuyan Sea and the Battle off Samar.  In the latter action, she engaged American escort carriers, destroyers, and destroyer escorts.  Early in the battle, she suffered a near-miss from an American TBM Avenger torpedo bomber, which damaged her port propeller and slowed her to 20 knots, prompting Vice Admiral Shiraishi to transfer his flag from Suzuya to Kumano at 0830.  At 1050, she was challenged by 30 carrier-based aircraft; a near-miss to starboard by a bomb detonated her No. 1 torpedo tubes, which in turn detonated more torpedoes at 1100.  The explosion damaged the starboard engine rooms and the No. 7 boiler room, rendering her dead in the water.  At 1105, destroyer Okinami began to evacuate Suzuya.  At 1150, the order to abandon ship was given.  At 1315, she turned over on her starboard side, and sank at 1322.  Okinami was able to rescue a total of 401 men.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Imperial Japanese Navy Page.</i></p></small><p><b>Suzuya Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/10/31/1937' alt='See all events on 31 Oct 1937' title='See all events on 31 Oct 1937' class='noStyle'>31 Oct 1937</a>&nbsp;</td><td>Suzuya was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href="/image.php?image_id=5204"><img src="/images/imagemagick/tmb_ship_suzuya2.jpg" border='0' alt='Heavy cruiser Suzuya as seen in A503 FM30-50 booklet for identification of ships published by the US Navy Division of Naval Inteligence, Oct 1942'></a></td><td><a href="/image.php?image_id=8267"><img src="/images/imagemagick/tmb_ship_mogami3.jpg" border='0' alt='Identification drawing of Japanese Mogami-class heavy cruiser as published in A503 FM30-50 booklet for identification of ships of the US Division of Naval Intelligence, Oct 1942'></a></td></tr></table><br /><br /><br /><br />
+				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
+				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
+		<table border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td colspan='9'>Share this article with your friends:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C40' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C40' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C40&title=Heavy Cruiser Suzuya' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C40&title=Heavy Cruiser Suzuya' target='_reddit'>Reddit</a></td>
+		</tr>
+		<tr>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+Suzuya+https://ww2db.com:443/ship_spec.php?ship_id=C40' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Heavy+Cruiser+Suzuya+https://ww2db.com:443/ship_spec.php?ship_id=C40' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C40&title=Heavy Cruiser Suzuya' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C40&title=Heavy Cruiser Suzuya' target='_digg'>Digg</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C40' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C40' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C40&title=Heavy Cruiser Suzuya' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C40&title=Heavy Cruiser Suzuya' target='_delicious'>Delicious</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C40&title=Heavy Cruiser Suzuya' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C40&title=Heavy Cruiser Suzuya' target='_stumbleupon'>StumbleUpon</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan='9'><br /><br />Stay updated with WW2DB:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a href='/feed.php'><img src='/images/icon_feed12.gif' border='0'></a></td><td>&nbsp;</td><td><a href='/feed.php'>RSS Feeds</a></td>
+		</tr>
+		</table>
+	</td><td valign='top' width='300'>		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB End of Content Medium Rectangle -->
+		<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5955033698"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</td></tr></table></center><br /><br /><br />
+
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>Oscar Fiblas Aramayo</span> says:<br /><small>10 Jul 2009 02:05:32 PM</small><br /><br />Inexat 2nd. image. Mogami class has 15 x 155 mm (6.1 inch) guns in five triple turrets?
+
+Oscar, Antofagasta-Chile.</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#commentItem1").show();
+				$("#commentItem0").show();
+				$("#commentItem-1").show();
+			function showAllComments() {
+		$(".commentItem").show();
+		$("#showAllCommand").remove();
+	}
+	</script>
+	<form method="post" action="/comments_action.php">
+	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+	<p><b>Posting Your Comments on this Topic</b></p>
+	<center>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr><td>Your Name</td><td><input type="text" name="entry_by" value="Anonymous" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>Your Email</td><td><input type="text" name="entry_by_email" value="" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>&nbsp;</td><td><small>Your email will not be published</small></td></tr>
+	<tr><td>Comment Type</td><td>
+		<select name="comment_type" style="width: 230px;">
+			<option value="general">General comment/question</option>
+			<option value="site">Additional information about this page</option>
+			<option value="topic">Looking for more information on this topic</option>
+			<option value="relative">Looking for information about my relative</option>
+		</select>
+		</td></tr>
+	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
+	<tr><td valign="top">Security Code</td>
+		<td valign="top">
+			<div style="background-image:url('/images/captcha/captcha16.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<input type="text" name="captcha" style="margin-bottom: 2px;">
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td valign="top"><input type="hidden" name="foreigntype" value="S">
+		<input type="hidden" name="foreigntype_id" value="40">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C40">
+		<input type="hidden" name="c" value="93"> 		<input type="submit" value="Submit"></td>
+	</tr>
+	</table>
+	</center>
+	<small><p>Note: We hope that visitor conversations at WW2DB will be constructive and thought-provoking.  Please refrain from using strong language.  HTML tags are not allowed.  Your IP address will be tracked even if you remain anonymous.  WW2DB site administrators reserve the right to moderate, censor, and/or remove any comment.  All comment submissions will become the property of WW2DB.</p></small>
+	</div>
+	</form>
+	</div>
+	<div class="xcol">
+		
+<div class="sidetop">Search WW2DB & Partner Sites</div>
+<ul>
+<form id="searchbox_004186240537787039759:ptfrvampo3a" action="https://ww2db.com/searchgoogle.php">
+<input type="hidden" name="cx" value="004186240537787039759:ptfrvampo3a" />
+<input type="hidden" name="channel" value="2781050959">
+<input name="q" type="text" size="12" />
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cof" value="FORID:11" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
+</ul>
+<div class="sidetop">More on Suzuya</div><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=44>Indochina Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=47>Invasion of Malaya and Singapore</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=59>Invasion of Burma</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=23>Dutch East Indies Campaign, Java</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=213>Dutch East Indies Campaign, Sumatra</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=190>Fall of the Andaman and Nicobar Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=7>Raids into the Indian Ocean</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=6>Battle of Midway and the Aleutian Islands</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=9>Guadalcanal Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=8>Solomon Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=10>Mariana Islands Campaign and the Great Turkey Shoot</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/suzuya_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/suzuya_t.htm');">Suzuya Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Heavy Cruiser Suzuya Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=40'><img src="/images/imagemagick/tmb_ship_suzuya2.jpg" border='0' alt='Heavy cruiser Suzuya as seen in A503 FM30-50 booklet for identification of ships published by the US Navy Division of Naval Inteligence, Oct 1942'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=40'>See all 2 photographs of Heavy Cruiser Suzuya</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Links 160x90 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+	<div class="sidehidden_m">
+	<div class="sidetop">Current Site Statistics</div>
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+</div>
+
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"An appeaser is one who feeds a crocodile, hoping it will eat him last."<br><br>Winston Churchill</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Vertical Banner 160x600 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+		</div>
+</div>
+<div id="footer">
+	
+	<div style="float: left; padding: 0 5 0 5px; width: 400px; text-align: left;">
+		<div class="sidetop">About the Site</div>
+		<p>The World War II Database is founded and managed by 
+		C. Peter Chen of Lava Development, LLC.  The goal of this
+		site is two fold.  First, it is aiming to offer interesting
+		and useful information about WW2.  Second, it is to showcase
+		Lava's technical capabilities.</p>
+		<ul>
+		<li> &#187; <a href="/credits.php">More About WW2DB</a></li>
+		<li> &#187; <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');">More About Lava</a></li>
+		<li> &#187; <a href="/feed.php">Syndication</a></li>
+		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
+		<li> &#187; <a href="/">World War II Database Home</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C40'>Mobile View</a></li>
+		</ul>		
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
+		<div class="sidetop">Most Popular</div>
+		<ul>
+				<li> &#187; <a href="/event/today/">Today in WW2 History</a></li>
+		<li> &#187; <a href="/photo.php?list=sp&sp=c">WW2 in Color</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=12">Battle of Iwo Jima</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=3">Battle of Stalingrad</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=2">Normandy Campaign</a></li>
+		<li> &#187; <a href="/vehicle_spec.php?q=314">Tiger I Tank</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=136">The Holocaust</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=49">Hiroshima and Nagasaki</a></li>
+		<li> &#187; <a href="/aircraft_spec.php?aircraft_model_id=27">Corsair Fighter</a></li>
+		</ul>
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 200px; text-align: left;">
+				<div class="sidetop">Links</div>
+		<ul><li> &#187; <a href='http://www.combinedfleet.com' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/www.combinedfleet.com');">Combined Fleet</a></li><li> &#187; <a href='http://david.ijn.googlepages.com/home' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/david.ijn.googlepages.com/home');">IJN Signals and Doctrine</a></li><li> &#187; <a href='http://propnturret.com/tully' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/propnturret.com/tully');">Tully's Port Forum</a></li><li> &#187; <a href='http://ww2db.com/ww2file/' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/ww2db.com/ww2file/');">WW2 File Blog</a></li></ul>	</div>
+	
+		<div style="border-top: 1px dotted #474747; clear: both;">
+		<center><p>Copyright © 2004-2018 <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');" style="text-decoration: none; font-weight: normal; color: #000000;">Lava Development, LLC.</a>, all rights reserved</p></center>
+		<br /><br />		
+	</div>
+</div>
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Footer Banner -->
+		<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="1441973756"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	<br /><center>		<a href="http://amzn.to/2he65an" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2he65an');"><img src="/images/ad_shattered_sword_728.jpg" /></a><br /><br />
+		</center>
+<br /><br />
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95725-1', 'ww2db.com');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>

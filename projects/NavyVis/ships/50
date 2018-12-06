@@ -1,0 +1,403 @@
+<html>
+
+<head>
+<title>Aircraft Carrier USS Saratoga | World War II Database</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Aircraft Carrier USS Saratoga | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Aircraft Carrier USS Saratoga | World War II Database">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="REVISIT-AFTER" CONTENT="15 days">
+<META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
+<META NAME="AUTHOR" CONTENT="C. Peter Chen">
+<META NAME="CONTACT_ADDR" CONTENT="editor@ww2db.com">
+<META NAME="DISTRIBUTION" CONTENT="Global">
+<META NAME="RESOURCE-TYPE" CONTENT="document">
+<META HTTP-EQUIV="CONTENT-LANGUAGE" CONTENT="english">
+<meta name="MSSmartTagsPreventParsing" content="true">
+
+	
+	<link rel="stylesheet" type="text/css" href="/css/structure.css">
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+<link rel="stylesheet" type="text/css" href="/css/tags.css">
+
+<link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
+
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A315' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=315' />
+
+<meta property="fb:app_id" content="103484127961" />
+<meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
+
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_saratoga1.jpg" />
+	<meta property="og:site_name" content="WW2DB" />
+	<meta property="og:title" content="Aircraft Carrier USS Saratoga" />
+	<meta property="og:description" content="Aircraft Carrier USS Saratoga" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=A315" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_saratoga1.jpg" />
+
+	<meta name='twitter:card' content='summary'>
+	<meta name='twitter:site' content='@ww2db'>
+	<meta name='twitter:title' content='Aircraft Carrier USS Saratoga'>
+	<meta name='twitter:description' content='Aircraft Carrier USS Saratoga'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_saratoga1.jpg'>
+				
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<style>
+table.dataTable thead .sorting_asc {
+	background: url("/images/icon_sort_asc.png") no-repeat center right;
+}
+table.dataTable thead .sorting_desc {
+	background: url("/images/icon_sort_desc.png") no-repeat center right;
+}
+table.dataTable tbody td, table.dataTable thead td {
+	padding: 0px 3px 3px 0px;
+}
+.dataTables_filter {
+	padding-bottom: 5px;
+}
+</style>
+	
+</head>
+<body>
+	<div id="banner">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr><td align="left"><h1 class="title">World War II Database</h1></td>
+		<td align="right">
+						<a href="/hp.php"><img src="/images/icon_hp.png" title="F4U Corsair" /></a>
+			<a href="http://www.facebook.com/worldwar2" rel="nofollow" target="_facebook" onclick="javascript: ga('send','pageview','/outgoing/www.facebook.com/worldwar2');"><img src="/images/icon_facebook2.png" border="0" /></a>&nbsp;
+			<a href="http://twitter.com/ww2db" rel="nofollow" target="_twitter" onclick="javascript: ga('send','pageview','/outgoing/twitter.com/ww2db');"><img src="/images/icon_twitter20.jpg" border="0" /></a>&nbsp;
+						<a href="https://www.reddit.com/r/ww2database" rel="nofollow" target="_reddit" onclick="javascript: ga('send','pageview','/outgoing/www.reddit.com/r/ww2database');"><img src="/images/icon_reddit20.png" border="0" /></a>&nbsp;
+			<a href="https://www.pinterest.com/ww2db/" rel="nofollow" target="_pinterest" onclick="javascript: ga('send','pageview','/outgoing/www.pinterest.com/ww2db/');"><img src="/images/icon_pinterest.png" border="0" /></a>&nbsp;
+			<a href="https://www.patreon.com/ww2db/" rel="nofollow" target="_patreon" onclick="javascript: ga('send','pageview','/outgoing/www.patreon.com/ww2db/');"><img src="/images/icon_patreon_20.png" border="0" /></a>&nbsp;
+			<a href="/feed.php"><img src="/images/icon_feed.jpg" border="0"></a>
+		</td></tr>
+		</table>
+		<div class="bannerflash">
+		<div style="background-image:url('/images/banner915_2.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+	</div>
+	<div id='nav' align='right'>
+		<ul id='navlist'>
+			<li><a href='/'>Home</a></li><li><a href='/intro.php'>Intro</a></li><li><a href='/person.php'>People</a></li><li><a href='/event/'>Events</a></li><li><a href='/equip.php'>Equipment</a></li><li><a href='/place/'>Places</a></li><li><a href='/map/'>Maps</a></li><li><a href='/book/'>Books</a></li><li><a href='/photo.php'>Photos</a></li><li><a href='/video/'>Videos</a></li><li><a href='/other.php'>Other</a></li><li><a href='/ref.php'>Reference</a></li><li><a href='/faq/'>FAQ</a></li><li><a href='/credits.php'>About</a></li>		</ul>
+	</div>
+
+<div id="content">
+	<div itemscope itemtype="http://schema.org/Article" class="maincol">
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=A315' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=315' />
+" />
+		<meta itemprop="description" content="Aircraft Carrier USS Saratoga" />
+		<div id="breadcrumb"><ul class="horizontalList">
+				<li class="horizontalList"> <a href="index.php">Home</a></li>
+				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=A">Carriers</a></li><li class="horizontalList"> &#187; Saratoga</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Saratoga file photo [3515]' title='Saratoga file photo [3515]' src='/images/ship_saratoga1.jpg' /><script>
+		function resizeText(className, percent) {
+			var elements = document.getElementsByClassName(className);
+			for (var i = 0; i < elements.length; ++i) {
+				if (percent == null) {
+					elements[i].style.fontSize = '100%';
+				}
+				else {
+					if (elements[i].style.fontSize == '') elements[i].style.fontSize = '100%';
+					elements[i].style.fontSize = parseFloat(elements[i].style.fontSize) + percent + '%';
+				}
+			}
+		}
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>USS Saratoga</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/united%20states'>United States</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder"><a href='ship_spec.php?ship_id=857'>Lexington-class Aircraft Carrier</a></td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder">New York Shipbuilding Corporation</td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">25 Sep 1920</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">7 Apr 1925</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">16 Nov 1927</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">25 Jul 1946</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">38746 tons standard; 53000 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">880 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">106 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">24 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">16 boilers, geared turbines, electric drive, 4 shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">180000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">34 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">10,000nm at 10 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">2122</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">60x40mm</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">5-7in belt, 2in third deck, 4.5in over steering gear</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">91</td></tr><tr><td class="table_noborder">Elevators</td><td class="table_noborder">2</td></tr><tr><td class="table_noborder">Catapult</td><td class="table_noborder">1</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Saratoga was originally laid down as a Lexington-class battlecruiser, and like her sister Lexington, she was converted to become an aircraft carrier in 1922.  Because she was visually identical to Lexington, a large black stripe was painted on her funnel to help sailors differentiate her, and it led to her nickname Stripe Stacked Sara.  Her conversion to carrier was completed a month before Lexington's, therefore she was the first fast carrier in the United States Navy.  Her shakedown took place off Philadelphia with Marc Mitscher on board as her air officer; Mitscher was also the first pilot to land an aircraft on her flight deck.  She served off Panama, in the Caribbean Sea, and in the San Diego area before WW2, contributing greatly to the development of US Navy carrier doctrine.  In Mar 1938, she conducted a mock surprise attack on Pearl Harbor that was eerily similar to how the Japanese would conduct the attack three years down the road.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>When the attack on Pearl Harbor took place, Saratoga was just entering San Diego from Bremerton.  With US Marine Corps aircraft intended for Wake Island, she got underway hurriedly, reaching Hawaii on 15 Dec 1941.  The relief mission for Wake was cancelled on 22 Dec as Wake was already in danger of falling.  She remained in the Hawaiian Islands region.  On 11 Jan 1942, she was struck by a torpedo from Japanese submarine I-16; she limped back to Pearl Harbor for repairs.  Her 8in guns were removed while being repairs as they were useless against enemy aircraft; they were instead installed on shore facilities.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Saratoga arrived at San Diego on 22 May 1942 after repairs at Bremerton, and departed for Midway on 1 Jun.  Because of the delay in loading aircraft at San Diego, she missed the action at Midway.  She departed for the Aleutian Islands, but turned back after the operation was cancelled.  She reached Pearl Harbor on 13 Jun.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Between 22 and 29 Jun 1942, Saratoga ferried Marine and Army aircraft to Midway.  On 7 Jul, she departed for the South Pacific, conducting carrier rehearsals at Fiji at the end of the month, then participated in the Guadalcanal Campaign as the flagship of Rear Admiral Frank Fletcher in Aug 1942.  On 24 Aug, at the Battle of the Eastern Solomons, Saratoga's aircraft bit the bait and attacked the light carrier Ryujo, sinking her with several 1,000-lb bombs and one torpedo.  Although they were able to sink Ryujo, the actual main attack in the form of aircraft from fleet carriers Shokaku and Zuikaku attacked American carrier Enterprise; Saratoga, hiding in a squall, escaped unscathed.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>In Sep 1942, Saratoga was struck by torpedo from Japanese submarine I-26 and was dead in the water.  Cruiser Minneapolis towed her while her crew conducted temporary repairs.  She eventually sailed to Tongatabu and then Pearl Harbor for repairs.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Saratoga returned to service in Nov 1942.  Until mid-1943, she provided air cover for various American operations in the Solomon Islands area.  On 5 and 11 Nov 1943, her aircraft conducted devastating attacks on the Japanese base at Rabaul, disabling many cruisers and lifting threat to US forces in the region from Japanese surface ships.  Later that month, she supported the invasion of Tarawa.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After overhaul in San Francisco in Dec 1943, Saratoga returned to Pearl Harbor on 7 Jan 1944.  She participated in the Marshall Islands Campaign, striking Japanese garrisons at Wotje, Taroa, and Eniwetok.  In Mar, she joined the British Royal Navy Eastern Fleet in the Indian Ocean.  The Eastern Fleet struck Sabang, Sumatra on 19 Apr and Soerabaja, Java on 17 May, with her aircraft contributing significantly to the success of both missions.  She returned to Bremerton, Washington for overhaul in Jun 1944, then trained night fighter squadrons at Pearl harbor from Sep 1944 to Jan 1945.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 29 Jan 1945, Saratoga set sail from Pearl Harbor for Iwo Jima.  After landing rehearsals with Marine aircraft on 12 Feb off Tinian, her aircraft struck the Japanese home islands on 16 and 17 Feb.  Her aircraft attacked Japanese positions on Iwo Jima and Chichi Jima.  On 21 Feb, six Japanese aircraft scored five hits on Saratoga, damaging her flight deck and starting several fires.  A second wave of attack two hours later scored another hit.  By 2015 that evening, the fires were under control, and temporary repairs to the flight deck allowed it to function again.  She returned to Bremerton for repairs in Mar.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>In Jun 1945, Saratoga trained pilots at Pearl Harbor.  She remained there until the end of the war.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the war, Saratoga participated in Operation Magic Carpet that brought American servicemen back to the United States; she brought home 29,204 men, more than any other ship in the operation.  As she became obsolete after the war, she was used as a target at Bikini Atoll for the Operation Crossroads atomic bomb tests.  She survived the first blast on 1 Jul 1946, but the second test conducted on 25 Jul sank her.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Source: Wikipedia.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Aircraft Carrier USS Saratoga Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([47.559818000, -122.630903000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Hobart, Tasmania, Australia</h2><div class='infowindowSubTitle'>Mar 1944</div><a href='/image.php?image_id=18491'><img src='/images/imagemagick/tmb_ship_saratoga37.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", -42.880556000, 147.325, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Indian Ocean</h2><div class='infowindowSubTitle'>18 May 1944</div><a href='/image.php?image_id=24600'><img src='/images/imagemagick/tmb_55c455f39b5a8.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", -18.183333000, 471.808333, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Colombo, Ceylon</h2><div class='infowindowSubTitle'>30 Apr 1944</div><a href='/image.php?image_id=18526'><img src='/images/imagemagick/tmb_ship_saratoga66.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=24599'><img src='/images/imagemagick/tmb_55c45573d06ec.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 6.940476000, 439.848085, 2],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Panama Canal Zone</h2><div class='infowindowSubTitle'>1936</div><a href='/image.php?image_id=18465'><img src='/images/imagemagick/tmb_ship_lexington44.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 8.856496000, 280.480834, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Panama Canal Zone</h2><div class='infowindowSubTitle'>1930</div><a href='/image.php?image_id=18496'><img src='/images/imagemagick/tmb_ship_saratoga42.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 9.017634000, 280.386626, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Colon, Panama Canal Zone</h2><div class='infowindowSubTitle'>1934</div><a href='/image.php?image_id=25898'><img src='/images/imagemagick/tmb_574124b674af7.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 9.369940000, 280.065033, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Bikini Atoll, Marshall Islands</h2><div class='infowindowSubTitle'>25 Jul 1946</div><a href='/image.php?image_id=3287'><img src='/images/imagemagick/tmb_ship_saratoga2.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=18481'><img src='/images/imagemagick/tmb_ship_saratoga27.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 11.600000000, 165.5, 2],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Honolulu, Oahu, Hawaii</h2><div class='infowindowSubTitle'>08 Apr 1936</div><a href='/image.php?image_id=18474'><img src='/images/imagemagick/tmb_ship_lexington52.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>08 Apr 1938</div><a href='/image.php?image_id=18460'><img src='/images/imagemagick/tmb_ship_lexington39.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=24594'><img src='/images/imagemagick/tmb_55c4520d18024.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.259432000, 202.165104, 3],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Honolulu, Oahu, Hawaii</h2><div class='infowindowSubTitle'>02 Feb 1933</div><a href='/image.php?image_id=24404'><img src='/images/imagemagick/tmb_55a7329c600bb.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.282335000, 202.113822, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Honolulu, Oahu, Hawaii</h2><div class='infowindowSubTitle'>15 Dec 1941</div>USS Saratoga arrived at Pearl Harbor, US Territory of Hawaii.<br /><div class='infowindowSubTitle'>16 Dec 1941</div>USN Task Force 14, centered around USS Saratoga, departed Pearl Harbor, US Territory of Hawaii to relieve Wake Island.<br /><div class='infowindowSubTitle'>27 Dec 1941</div>USS Saratoga arrived at Pearl Harbor, US Territory of Hawaii.<br /><div class='infowindowSubTitle'>31 Dec 1941</div>US Navy Task Force 11 with USS Saratoga departed Pearl Harbor, US Territory of Hawaii for patrol.<br /></div>", 21.349270000, 202.05603, 4],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>Jun 1945</div><a href='/image.php?image_id=18493'><img src='/images/imagemagick/tmb_ship_saratoga39.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.358217000, 202.041021, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>06 Jun 1942</div><a href='/image.php?image_id=18494'><img src='/images/imagemagick/tmb_ship_saratoga40.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>Jul 1942</div><a href='/image.php?image_id=18492'><img src='/images/imagemagick/tmb_ship_saratoga38.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.359454000, 202.044104, 2],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pearl Harbor, Oahu, Hawaii</h2><div class='infowindowSubTitle'>02 May 1940</div><a href='/image.php?image_id=20151'><img src='/images/imagemagick/tmb_5282a59161402.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 21.363889000, 202.039722, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Pacific Ocean</h2><div class='infowindowSubTitle'>21 Feb 1945</div><a href='/image.php?image_id=6476'><img src='/images/imagemagick/tmb_ship_saratoga21.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=18479'><img src='/images/imagemagick/tmb_ship_saratoga25.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=24704'><img src='/images/imagemagick/tmb_55cbf7e181162.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 25.333333000, 140.266667, 3],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Midway, US Pacific Islands</h2><div class='infowindowSubTitle'>25 Dec 1941</div>Carrier USS Saratoga launched F2A Buffalo aircraft of Marine Fighter Squadron 221, originally intended to relieve Wake Atoll, to Midway Atoll.  They became the first fighters to be based in Midway, and they immediately began a daily patrol schedule.<br /><div class='infowindowSubTitle'>25 Jun 1942</div>Saratoga delivered 25 P-40 Warhawk fighters and 18 SBD Dauntless dive bombers to Midway Atoll.<br /></div>", 28.201389000, 182.618611, 2],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>San Pedro, California, United States</h2><div class='infowindowSubTitle'>1935</div><a href='/image.php?image_id=18462'><img src='/images/imagemagick/tmb_ship_lexington41.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 33.733333000, 241.799167, 1],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Bremerton, Washington, United States</h2><div class='infowindowSubTitle'>1929</div><a href='/image.php?image_id=18464'><img src='/images/imagemagick/tmb_ship_lexington43.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>17 Nov 1930</div><a href='/image.php?image_id=18483'><img src='/images/imagemagick/tmb_ship_saratoga29.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>07 Sep 1944</div><a href='/image.php?image_id=3519'><img src='/images/imagemagick/tmb_ship_saratoga7.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=18499'><img src='/images/imagemagick/tmb_ship_saratoga45.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 47.559818000, 237.369097, 4]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>USS Saratoga Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/16/1927' alt='See all events on 16 Nov 1927' title='See all events on 16 Nov 1927' class='noStyle'>16 Nov 1927</a>&nbsp;</td><td>Saratoga was commissioned into service.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/01/23/1929' alt='See all events on 23 Jan 1929' title='See all events on 23 Jan 1929' class='noStyle'>23 Jan 1929</a>&nbsp;</td><td>Starting on this date and lasting through 27 Jan 1929, the US Navy aircraft carriers USS Lexington and USS Saratoga participated in their first exercise.  Sailing with the opposing forces of Fleet Problem IX, Saratoga was detached on a southerly sweep against the Panama Canal, where she arrived undetected, and launched 69 aircraft on a mock dawn raid.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/02/1931' alt='See all events on 2 Nov 1931' title='See all events on 2 Nov 1931' class='noStyle'>2 Nov 1931</a>&nbsp;</td><td>US Marine Corps Squadrons VS-15M and VS-14M embarked in the aircraft carriers USS Lexington and USS Saratoga respectively, the first US Marine squadrons to be assigned to carriers, as part of the organisation in Aircraft, Battle Force.  They were to remain carrier-based until late 1934 giving US Marine Corps pilots necessary experience in a realm of naval aviation which, previously, had been largely denied to them.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/06/13/1939' alt='See all events on 13 Jun 1939' title='See all events on 13 Jun 1939' class='noStyle'>13 Jun 1939</a>&nbsp;</td><td>The US Navy carrier USS Saratoga completed a two day trial of underway refueling tests with the fleet tanker Kanawha.  These sea replenishment techniques greatly extended the range of the US carrier force and proved invaluable for later operations in the Pacific War.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/12/08/1941' alt='See all events on 8 Dec 1941' title='See all events on 8 Dec 1941' class='noStyle'>8 Dec 1941</a>&nbsp;</td><td>USS Saratoga departed San Diego, California for Pearl Harbor, US Territory of Hawaii.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/12/15/1941' alt='See all events on 15 Dec 1941' title='See all events on 15 Dec 1941' class='noStyle'>15 Dec 1941</a>&nbsp;</td><td>USS Saratoga arrived at Pearl Harbor, US Territory of Hawaii.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/12/16/1941' alt='See all events on 16 Dec 1941' title='See all events on 16 Dec 1941' class='noStyle'>16 Dec 1941</a>&nbsp;</td><td>USN Task Force 14, centered around USS Saratoga, departed Pearl Harbor, US Territory of Hawaii to relieve Wake Island.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/12/25/1941' alt='See all events on 25 Dec 1941' title='See all events on 25 Dec 1941' class='noStyle'>25 Dec 1941</a>&nbsp;</td><td>Carrier USS Saratoga launched F2A Buffalo aircraft of Marine Fighter Squadron 221, originally intended to relieve Wake Atoll, to Midway Atoll.  They became the first fighters to be based in Midway, and they immediately began a daily patrol schedule.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/12/27/1941' alt='See all events on 27 Dec 1941' title='See all events on 27 Dec 1941' class='noStyle'>27 Dec 1941</a>&nbsp;</td><td>USS Saratoga arrived at Pearl Harbor, US Territory of Hawaii.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/12/31/1941' alt='See all events on 31 Dec 1941' title='See all events on 31 Dec 1941' class='noStyle'>31 Dec 1941</a>&nbsp;</td><td>US Navy Task Force 11 with USS Saratoga departed Pearl Harbor, US Territory of Hawaii for patrol.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/01/12/1942' alt='See all events on 12 Jan 1942' title='See all events on 12 Jan 1942' class='noStyle'>12 Jan 1942</a>&nbsp;</td><td>USS Saratoga was damaged by a torpedo from Japanese submarine I-6 about 500 miles southwest of US Territory of Hawaii; she returned to Pearl Harbor under own power.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/06/01/1942' alt='See all events on 1 Jun 1942' title='See all events on 1 Jun 1942' class='noStyle'>1 Jun 1942</a>&nbsp;</td><td>USS Saratoga departed San Diego, California for Pearl Harbor, Hawaii.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/06/07/1942' alt='See all events on 7 Jun 1942' title='See all events on 7 Jun 1942' class='noStyle'>7 Jun 1942</a>&nbsp;</td><td>USS Saratoga transferred aircraft to Enterprise and Hornet so that they could sail north to reinforce the Aleutian Islands.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/06/13/1942' alt='See all events on 13 Jun 1942' title='See all events on 13 Jun 1942' class='noStyle'>13 Jun 1942</a>&nbsp;</td><td>USS Saratoga arrived at Pearl Harbor.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/06/22/1942' alt='See all events on 22 Jun 1942' title='See all events on 22 Jun 1942' class='noStyle'>22 Jun 1942</a>&nbsp;</td><td>Saratoga departed Pearl Harbor. US Territory of Hawaii to ferry aircraft to Midway Atoll.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/06/25/1942' alt='See all events on 25 Jun 1942' title='See all events on 25 Jun 1942' class='noStyle'>25 Jun 1942</a>&nbsp;</td><td>Saratoga delivered 25 P-40 Warhawk fighters and 18 SBD Dauntless dive bombers to Midway Atoll.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/06/29/1942' alt='See all events on 29 Jun 1942' title='See all events on 29 Jun 1942' class='noStyle'>29 Jun 1942</a>&nbsp;</td><td>USS Saratoga arrived at Pearl Harbor, US Territory of Hawaii after ferrying aircraft to Midway Atoll.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/07/07/1942' alt='See all events on 7 Jul 1942' title='See all events on 7 Jul 1942' class='noStyle'>7 Jul 1942</a>&nbsp;</td><td>Saratoga departed Pearl Harbor for the South Pacific.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/18/1942' alt='See all events on 18 Jul 1942' title='See all events on 18 Jul 1942' class='noStyle'>18 Jul 1942</a>&nbsp;</td><td>Frank Fletcher was promoted to the rank of vice admiral.  He broke his flag aboard USS Saratoga.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/08/31/1942' alt='See all events on 31 Aug 1942' title='See all events on 31 Aug 1942' class='noStyle'>31 Aug 1942</a>&nbsp;</td><td>Japanese submarine I-26 damaged USS Saratoga by torpedo 240 miles east of Guadalcanal, Solomon Islands, leaving her dead in the water.  There were no casualties from this attack.  She would be out of action for next three months for repairs.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/07/26/1943' alt='See all events on 26 Jul 1943' title='See all events on 26 Jul 1943' class='noStyle'>26 Jul 1943</a>&nbsp;</td><td>Rear Admiral Frederick Sherman of Task Force 36 broke his flag aboard USS Saratoga.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/11/01/1943' alt='See all events on 1 Nov 1943' title='See all events on 1 Nov 1943' class='noStyle'>1 Nov 1943</a>&nbsp;</td><td>USS Saratoga launched two sorties against Japanese positions on Bougainville, Solomon Islands in support of the landings.</td></tr><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/11/02/1943' alt='See all events on 2 Nov 1943' title='See all events on 2 Nov 1943' class='noStyle'>2 Nov 1943</a>&nbsp;</td><td>USS Saratoga launched two sorties against Japanese positions on Bougainville, Solomon Islands in support of the landings.</td></tr><tr bgcolor=''><td valign='top' align='right' nowrap><a href='/event/today/02/21/1945' alt='See all events on 21 Feb 1945' title='See all events on 21 Feb 1945' class='noStyle'>21 Feb 1945</a>&nbsp;</td><td>The Japanese Army and Navy launched a combined tokko attack, dispatching 4 and 21 suicide aircraft, respectively.  The fleet carrier USS Saratoga and escort carrier USS Lunga Point were hit and damaged, while escort carrier USS Bismarck Sea was sunk.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=315'><img src="/images/imagemagick/tmb_ship_saratoga17.jpg" border='0' alt='Saratoga's incomplete hull at New York Shipbuilding Company shipyard, Camden, New Jersey, United States, 30 Sep 1921, photo 1 of 2'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=315'><img src="/images/imagemagick/tmb_ship_saratoga18.jpg" border='0' alt='Saratoga's incomplete hull at New York Shipbuilding Company shipyard, Camden, New Jersey, United States, 30 Sep 1921, photo 2 of 2'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=315'><img src="/images/imagemagick/tmb_ship_saratoga19.jpg" border='0' alt='Saratoga's stern plates while under construction, seen from starboard, extending out over the Delaware River, Camden, New Jersey, United States, 30 Sep 1921'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=315'><img src="/images/imagemagick/tmb_ship_saratoga16.jpg" border='0' alt='Saratoga's incomplete hull at New York Shipbuilding Company shipyard, Camden, New Jersey, United States, 28 Feb 1922'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=315'>See all 97 photographs of Aircraft Carrier USS Saratoga</a><br /><br /><br /><br />
+				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
+				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
+		<table border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td colspan='9'>Share this article with your friends:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A315' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=A315' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A315&title=Aircraft Carrier USS Saratoga' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A315&title=Aircraft Carrier USS Saratoga' target='_reddit'>Reddit</a></td>
+		</tr>
+		<tr>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Aircraft+Carrier+USS+Saratoga+https://ww2db.com:443/ship_spec.php?ship_id=A315' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Aircraft+Carrier+USS+Saratoga+https://ww2db.com:443/ship_spec.php?ship_id=A315' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A315&title=Aircraft Carrier USS Saratoga' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A315&title=Aircraft Carrier USS Saratoga' target='_digg'>Digg</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A315' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=A315' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A315&title=Aircraft Carrier USS Saratoga' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=A315&title=Aircraft Carrier USS Saratoga' target='_delicious'>Delicious</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A315&title=Aircraft Carrier USS Saratoga' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=A315&title=Aircraft Carrier USS Saratoga' target='_stumbleupon'>StumbleUpon</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan='9'><br /><br />Stay updated with WW2DB:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a href='/feed.php'><img src='/images/icon_feed12.gif' border='0'></a></td><td>&nbsp;</td><td><a href='/feed.php'>RSS Feeds</a></td>
+		</tr>
+		</table>
+	</td><td valign='top' width='300'>		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB End of Content Medium Rectangle -->
+		<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5955033698"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</td></tr></table></center><br /><br /><br />
+
+<style>.commentItem { display: none; border: 1px solid #b0b0b0; padding: 10px; margin-bottom: 10px; }</style><p><b>Visitor Submitted Comments</b></p><p id='showAllCommand' style='display: none;'><a href='javascript:showAllComments();'>Show older comments</a></p><div id='commentItem1' class='commentItem' style='background-color: #f0f0f0'>1. <span style='font-style: italic;'>MANDY MOORE</span> says:<br /><small>21 Sep 2007 09:11:43 AM</small><br /><br />MY GRANDFATHER WAS LAWARNCE E. MOORE (LARRY) I WOULD LOVE 2 HEAR FROM ANYONE WHO KNEW HIM 2 CONTACT ME WITH ANY INFO. HE AND ANOTHER MAN TREADED WATER, SHARING A LIFE JACKET UNTIL THEY WERE RESCUED. PLEASE LET ME KNOW OF ANY STORIES THAT U MIGHT HAVE OF HIM. HE DIED IN 85 SO I WOULD LOVE 2 LET MY KIDS KNOW MORE STORIES.</div><div id='commentItem2' class='commentItem' style='background-color: '>2. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>28 Jan 2010 10:29:48 PM</small><br /><br />My grandfather was also on the Saratoga and lived, He passed when I was 6, and I am now 27. I'm doing a report on the Saratoga and in the next few weekd will be interviewing my grandmother. Maybe I will get some good informnation and stories.</div><div id='commentItem3' class='commentItem' style='background-color: #f0f0f0'>3. <span style='font-style: italic;'>Ellen</span> says:<br /><small>11 Mar 2010 02:10:46 PM</small><br /><br />Here's some great photos taken aboard the Saratoga: http://todayspictures.slate.com/20100311/</div><div id='commentItem4' class='commentItem' style='background-color: '>4. <span style='font-style: italic;'>Jon Sneddon</span> says:<br /><small>17 Apr 2010 04:32:02 PM</small><br /><br />My uncle William Harlan "Simp" Brady was pilot and died 2/2/1943.  He supposedly was flying off airfield instead of USS Saratoga.</div><div id='commentItem5' class='commentItem' style='background-color: #f0f0f0'>5. <span style='font-style: italic;'>Ray Montee</span> says:<br /><small>16 Jul 2010 10:13:14 AM</small><br /><br />My brother Robert Earl Montee, QrtrMstr First Class, was on the Sara throughout the heavy south Pacific campaignes.....when she was torpedoed and hit by Japanese Aircraft. He joined the Navy at age 18 after graduation from Newberg, Or., High Schoo.
+</div><div id='commentItem6' class='commentItem' style='background-color: '>6. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>31 Mar 2011 12:53:53 PM</small><br /><br />my uncle edford northern was on the us saratoga he was stationed in hawaii if anyone knew him please send me an e-mail .</div><div id='commentItem7' class='commentItem' style='background-color: #f0f0f0'>7. <span style='font-style: italic;'>Stephanie</span> says:<br /><small>20 Jul 2012 05:51:13 AM</small><br /><br />My grandmother told me that my grandfather served on the Sara during WWII.  I don't know dates or what he did, and I would love to know.  If anyone has any information, please email me. My grandfather's name was Raymond Gremillion.</div><div id='commentItem8' class='commentItem' style='background-color: '>8. <span style='font-style: italic;'>Jimmy D. Smith</span> says:<br /><small>23 Jul 2012 03:04:32 PM</small><br /><br />My brother, Henry was killed FEB. 21 1945 on the Saratoga. I was only 4 Yrs. old at the time. Anyone who knew him send me an e-mail.</div><div id='commentItem9' class='commentItem' style='background-color: #f0f0f0'>9. <span style='font-style: italic;'>Linda</span> says:<br /><small>11 Sep 2012 10:11:59 AM</small><br /><br />My Grandfather was a FC2 (Fire Controlman) on "Sara". Always heard rumors he was injured during 21st Feb 1944, Kamikaze attack. But like many of the Greatest Generation, he never spoke of it, would only say he was a sailor in WW2. His name was Frank B.Cole of Pittsburgh PA area. I'm his oldest Grandchild & would love to learn more about his adventures during WW2, no I need to know, his other Grandchildren & now Great & Great-Great Grandkids need to know what this generation sacrificed in order for them to have the privelages they so take for granted. </div><div id='commentItem10' class='commentItem' style='background-color: '>10. <span style='font-style: italic;'>David Woods</span> says:<br /><small>14 Apr 2013 01:53:07 PM</small><br /><br />Please tell me if you knew Frank Inzana who was a sailor on the Saratoga.  Thank you. Write:
+Shadowlandhawk@yahoo.com</div><div id='commentItem11' class='commentItem' style='background-color: #f0f0f0'>11. <span style='font-style: italic;'>Jennifer Thomas</span> says:<br /><small>12 Aug 2013 08:52:54 PM</small><br /><br />My grandpa was on the Saratoga in WWII he told me he was up in the look out tower (maybe called birds nest) His name is James Thomas, he never said much about it just that he was there and there, I lost him last week Aug. 9th and looking at his keepsakes i seen the "victory" menu from there dinner and book that was stamped when he left port. so many neat things. </div><div id='commentItem12' class='commentItem' style='background-color: '>12. <span style='font-style: italic;'>David Brown</span> says:<br /><small>1 Oct 2013 11:04:27 AM</small><br /><br />My uncle Burgess Brown served on the Saratoga in ww2
+I beleive he was a gunnery mate. anyone knowing of him,please respond.
+Thank You,
+David Brown</div><div id='commentItem13' class='commentItem' style='background-color: #f0f0f0'>13. <span style='font-style: italic;'>Gregory Rapier</span> says:<br /><small>23 Oct 2013 06:30:13 PM</small><br /><br />My father served on CV 3 somewhere around1942to 1945 not sure. If there is anyone that knew Joseph L Rapier would you contact me. My father told me that he was injured on Midway Island I think 1945 when an Australia bomber that was shot up came in to land as they were taking off. The plane my father was in crashed he lived ( good for me) the pilot and bottom gunner did not. Me father spent the next ten months in a body cast in Bremerton Washington. Hope someone out there remembers him. </div><div id='commentItem14' class='commentItem' style='background-color: '>14. <span style='font-style: italic;'>William Thompson</span> says:<br /><small>23 Nov 2013 01:32:44 PM</small><br /><br />My uncle, William, (Bill), Beck from Chicago was on the Saratoga during WWII. He passed in 1982.
+ Any old timers that served with him, I sure would enjoy an e-mail. 
+Sincerely,
+Bill Thompson</div><div id='commentItem15' class='commentItem' style='background-color: #f0f0f0'>15. <span style='font-style: italic;'>Chris Cornelius</span> says:<br /><small>9 May 2014 01:46:31 PM</small><br /><br />Hello, my dad and uncle were on the Saratoga in WWII. Until the Sullivan brothers were killed. Then they were separated and went on different ships. Uncle went aboard a torpedo launching ship and dad was aboard USS Barton599 at Guadalcanal. Had 5 battle stars and went down with 47 survivors. Uncle is still alive at 94, dad passed away in '09. Would appreciate anything because either one talked much about their experience in the war. </div><div id='commentItem16' class='commentItem' style='background-color: '>16. <span style='font-style: italic;'>rachel booker</span> says:<br /><small>19 Aug 2014 01:22:26 PM</small><br /><br />My brother James Edward Heck was one of the survivors on the Saratga ship during wwii. I was looking for any information.</div><div id='commentItem17' class='commentItem' style='background-color: #f0f0f0'>17. <span style='font-style: italic;'>Devon Groom</span> says:<br /><small>27 Nov 2014 03:06:00 AM</small><br /><br />My Grandfather Donald Dick Groom from Steuben Wisconsin was on the Sara through out the pacific campaign. I only have on photo of him on the Sara. I would really love to hear stories or see other photos of day to day life at war on the sea. Thank you for taking the time to read this. </div><div id='commentItem18' class='commentItem' style='background-color: '>18. <span style='font-style: italic;'>Morris Thomas Darby</span> says:<br /><small>9 Dec 2014 12:19:41 PM</small><br /><br />My dad served on the Saratoga throughout the pacific arena. His story is that it was so hot down below that he could not sleep. So he took his gear up to the flight deck to sleep. That night is when the Sara was hit by a torpedo and it came though his cabin killing over 30of his buddies. I am sur he knew your grand dad, they were closer in war times than in peace times. My dad now is 92 and we put him in hospice last week and waiting each hour to of his passing. Those guys were tough cookies back then.</div><div id='commentItem19' class='commentItem' style='background-color: #f0f0f0'>19. <span style='font-style: italic;'>Gloria </span> says:<br /><small>11 Dec 2014 05:29:13 PM</small><br /><br />My dad sailed on the Saratoga from San Francisco around the end of 1943 to Pearl Harbor and returned home around early 1946.  His name was Raymond L. Arrington.  Does anyone know of him?  He passed unexpectedly in 1972 and I can't remember him talking much about it.</div><div id='commentItem20' class='commentItem' style='background-color: '>20. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>18 Jan 2015 09:11:34 PM</small><br /><br />My father was wounded on USS Saratga as it left Pearl Harbor ,43 or 44.Anyone remember a J Swait?</div><div id='commentItem21' class='commentItem' style='background-color: #f0f0f0'>21. <span style='font-style: italic;'>Jeanne (St. Denis) Davis</span> says:<br /><small>24 Jan 2015 08:56:37 AM</small><br /><br />My father also served on Sara from early 42 until the end of the war.  He rarely spoke about the war. I believe it was because some of his friends were badly injured or killed.  WWII was a dark time in his life, though he was proud to serve his country and would do it again.  His name was George A. St. Denis Jr.  He died at the age of 79 in 1998.  As all the young men who served...he is a hero for giving so much to keep us all safe. </div><div id='commentItem22' class='commentItem' style='background-color: '>22. <span style='font-style: italic;'>Morris Darby</span> says:<br /><small>27 Jan 2015 01:55:41 PM</small><br /><br />It is with sadness that I report my father, Thomas A. Darby, passed away this past December 12, 2014...three days after my last post. He was 92. There are not many of these great warriors left. 
+I would like to say I appreciate all these men posted. The families have all felt the same about their loved ones. We have a lot in common to share the history of the men who fought or lost their lives in that pivotal war. Blessings, Mo.</div><div id='commentItem23' class='commentItem' style='background-color: #f0f0f0'>23. <span style='font-style: italic;'>Andrew Flanagan</span> says:<br /><small>4 Mar 2015 06:11:41 AM</small><br /><br />My Dad was a F6F Hellcat pilot on the Sara. He died back in 1975 at the age of 54.  He would not speak about the war much, but I have many of his flight info and maps.  His name was Sylvester T. Flanagan Lt.jg, nicknamed " Flatbush" from Brooklyn, NY.</div><div id='commentItem24' class='commentItem' style='background-color: '>24. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>12 Mar 2015 07:25:15 AM</small><br /><br />My dad joined the navy at age 17 and served in the fire room aboard the Saratoga from 1940 -1943 when he left for sub school in Groton, New London CT.  He loves to tell stories about his time in the Navy.  He left the sevice in 1946 and went on to serve as a police officer in his home town.  He is still passing on his stories at age 92.</div><div id='commentItem25' class='commentItem' style='background-color: #f0f0f0'>25. <span style='font-style: italic;'>Lee Goslin</span> says:<br /><small>19 Aug 2015 08:57:40 PM</small><br /><br />My dad, Charles Wayne Goslin, was a Machinists Mate on the Sara, and went to Ceylon on her among other places.  We had souvenirs from there, made of ivory, at home when I was growing up.  I loved him very much and still miss him.  He passed in January, 1986.</div><div id='commentItem26' class='commentItem' style='background-color: '>26. <span style='font-style: italic;'>Dennis McAlinden</span> says:<br /><small>12 Nov 2015 10:18:26 PM</small><br /><br />My dad, James McAlinden served in the fire room on the Sara from 1943-45....he passed away in 2011 at the age of 85</div><div id='commentItem27' class='commentItem' style='background-color: #f0f0f0'>27. <span style='font-style: italic;'>Al </span> says:<br /><small>17 Feb 2016 02:54:58 PM</small><br /><br />My Uncle Frank Ferguell served on the Saratoga CVA-60 during the 60's.  Did many tours to the Mediterranean and always talked proudly about his service. He did 20+ years with the Navy. WW2 through Vietnam. 
+If anyone knew him I would love to hear about him. He was from Kingston, NY. </div><div id='commentItem28' class='commentItem' style='background-color: '>28. <span style='font-style: italic;'>c.s.nerison</span> says:<br /><small>4 Mar 2016 09:05:43 PM</small><br /><br />my three brothers were all on the USS Saratoga at the same time, first brothers to be togethor on an aircraft carrier since the sullivan brothers.
+;)</div><div id='commentItem29' class='commentItem' style='background-color: #f0f0f0'>29. <span style='font-style: italic;'>tim Holston</span> says:<br /><small>11 Mar 2016 09:11:11 PM</small><br /><br />My uncle Jerry Holston, was on the Saratoga. He was a machinist mate and also did other jobs, he told us of a night when he went up on deck and a torpedo hit and it killed a lot of his buddies, who were rooming with him.
+Tim Holston</div><div id='commentItem30' class='commentItem' style='background-color: '>30. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>27 May 2016 05:07:30 PM</small><br /><br />My dad served in Honolulu in the Sea Bees after Pearl Harbor was bombed. As a re-enlistment. Prior to the bombing my brother told me that dad had served on the USS Saratoga. I had no knowledge of this. I  wonder if I could get crew logs from the Navy? Anyone know?</div><div id='commentItem31' class='commentItem' style='background-color: #f0f0f0'>31. <span style='font-style: italic;'>hugh perryman</span> says:<br /><small>29 May 2016 12:49:35 PM</small><br /><br />Did the Sara fight at the battle for Okinawa? My father Hugh Perryman was wounded by Kamakasi fighters firing their machine guns, which set off ammunition on the port fwd elevator while fighting fires on the flight deck, thought he said at Okinawa.</div><div id='commentItem32' class='commentItem' style='background-color: '>32. <span style='font-style: italic;'><img src='/images/icon_check.png' height='11' alt='Commenter identity confirmed' title='Commenter identity confirmed' />&nbsp;David Stubblebine</span> says:<br /><small>29 May 2016 02:03:20 PM</small><br /><br />Hugh Perryman:
+The Saratoga did not make it to the Battle for Okinawa. The attack you describe was probably the attack off Iwo Jima on 21 Feb 1945. In that attack, six Japanese aircraft landed five bombs on Saratoga’s flight deck, starting several fires. She was further damaged two hours later in a second attack. Saratoga sailed for Puget Sound for repairs and spent the rest of the war in Hawaiian waters in a training role, which overlapped the Battle for Okinawa.</div><div id='commentItem33' class='commentItem' style='background-color: #f0f0f0'>33. <span style='font-style: italic;'>Lois J. Bown</span> says:<br /><small>5 Jul 2016 03:11:58 PM</small><br /><br />Hugh Perryman: At this time I am researching and writing all I remember of my uncle, Donald Lewis Johnson's WWII experience on the USS Saratoga from Dec. 1941 to Dec. 1943 when he was transferred to the USS Hancock. The Hancock was at Okinawa in April 1945 taking heavy attacks from the kamikazi. My uncle was fatally injured when he and 60+ others were  blown overboard by explosions and fire.</div><div id='commentItem34' class='commentItem' style='background-color: '>34. <span style='font-style: italic;'>Amber Sramek</span> says:<br /><small>28 Aug 2016 06:43:22 PM</small><br /><br />I have an album that was my husband's grandfathers book from WWI.  He was on the USS  Saratoga.  I have dozens of pictures and some of the men signed the book.  I will list the names here.  I am hoping to share this book with the families of these men.
+H. Coffey Charter Oak California
+Bubah Giffs Leslie Arkansas
+Holmes Prescott Kansas
+Kelly San Antonio Texas
+Daughty Tullas Louisiana
+Blaisdell Sea Brook NH
+Thompson Oakland CA
+BJ Green MA
+Fincher Irondale Alabama
+EH Cotton Leslie Arkansas
+Riggle Ontario California
+Setzer WI
+Anthony Kulfa
+John Joseph Lally CT</div><div id='commentItem35' class='commentItem' style='background-color: #f0f0f0'>35. <span style='font-style: italic;'>Anonymous</span> says:<br /><small>2 Nov 2016 01:26:06 PM</small><br /><br />My grandpa Edward Rose was on the ship when it was hit by a Japanese torpedo. If anyone knows him and would like to tell me stories about him from your time together I would love to hear them. I have war stories of my own from Iraq and Afghanistan. </div><div id='commentItem36' class='commentItem' style='background-color: '>36. <span style='font-style: italic;'>Jeff Baxter</span> says:<br /><small>19 Nov 2016 11:12:59 AM</small><br /><br />My Grand father was on this ship up to the day they sank it, his name was Marvin Lee Mosier.
+Is there any way to buy a copy of this?</div><div id='commentItem37' class='commentItem' style='background-color: #f0f0f0'>37. <span style='font-style: italic;'>Jody Skaggs</span> says:<br /><small>22 Nov 2016 05:07:47 AM</small><br /><br />Anyone remember Jack Givens from Tennessee? I am his grandson. </div><div id='commentItem38' class='commentItem' style='background-color: '>38. <span style='font-style: italic;'>Carl Eric Renzi</span> says:<br /><small>7 Dec 2016 03:01:39 AM</small><br /><br />My father, Michael Francis Renzi, served on the Saratoga during WWII. He told me he was taking a shower along with several other seamen when the ship was hit on its way to Pearl Harbor. He said that everything that was not necessary had to be ditched over board, but they made it to pearl.</div><div id='commentItem39' class='commentItem' style='background-color: #f0f0f0'>39. <span style='font-style: italic;'>John workman</span> says:<br /><small>22 Dec 2016 05:12:19 PM</small><br /><br />Does anyone know my great grandfather Jake Workman from Houston. He died before I was born and I am trying to find information about him. My father told me he stayed in the Navy after the war and retired at the position of Mechanics Master Chief. </div><div id='commentItem40' class='commentItem' style='background-color: '>40. <span style='font-style: italic;'><img src='/images/icon_check.png' height='11' alt='Commenter identity confirmed' title='Commenter identity confirmed' />&nbsp;David Stubblebine</span> says:<br /><small>22 Dec 2016 05:52:25 PM</small><br /><br />Mr. Workman (above):
+Saratoga World War II Muster Rolls do not list a Jake Workman or a Jacob Workman but they do list a John Biglow Workman, service number 355 91 01, who enlisted 15 Jan 1935 in Dallas, Texas and reported aboard Saratoga 11 Jun 1935. The best way to learn about your great grandfather’s service is to request his service record. See: https://www.archives.gov/veterans/military-service-records.</div><div id='commentItem41' class='commentItem' style='background-color: #f0f0f0'>41. <span style='font-style: italic;'>Kathleen</span> says:<br /><small>5 Jan 2017 05:53:01 PM</small><br /><br />I am trying to locate my Uncle "Charles E Kopf" He was a radio man on one of the three carriers that were not a Pearl that morning.  He said something once about being on the way to Alaska.
+
+Can you help with this?
+</div><div id='commentItem42' class='commentItem' style='background-color: '>42. <span style='font-style: italic;'>c. Evangelista</span> says:<br /><small>16 Feb 2017 11:56:38 AM</small><br /><br />We are trying to locate Fast Eddie Bishop, who was a pilot on the USS Saratoga in 1972.</div><div id='commentItem43' class='commentItem' style='background-color: #f0f0f0'>43. <span style='font-style: italic;'>Mary Jo</span> says:<br /><small>31 May 2017 10:55:11 AM</small><br /><br />My Uncle, Eugene Rybacki, was on the USS Saratoga in 1942 & 1943. I recently read letters he sent home to my Grandmother from the ship. My family said he was hurt during combat; something about a fire and he hung on to the side of the ship until rescued. Is there any record of something like happening? Thank you.</div><div id='commentItem44' class='commentItem' style='background-color: '>44. <span style='font-style: italic;'>Chuck</span> says:<br /><small>14 Jan 2018 10:14:46 PM</small><br /><br />My father edford northern was on the USS Saratoga in 1945 when it was struck by kamikaze planes looking to get some information about him and his role on the ship any help would be greatly appreciated</div><div id='commentItem45' class='commentItem' style='background-color: #f0f0f0'>45. <span style='font-style: italic;'>don </span> says:<br /><small>5 Jul 2018 11:02:32 AM</small><br /><br />my grandfather, Morris Farris, served on the Saratoga from 1929-1944(?)<br />do you have any records or other info on his service?<br />thank you</div><small><p>All visitor submitted comments are opinions of those making the submissions and do not reflect views of WW2DB.</p></small>	<script>
+			$("#showAllCommand").show();
+			$("#commentItem45").show();
+				$("#commentItem44").show();
+				$("#commentItem43").show();
+			function showAllComments() {
+		$(".commentItem").show();
+		$("#showAllCommand").remove();
+	}
+	</script>
+	<form method="post" action="/comments_action.php">
+	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+	<p><b>Posting Your Comments on this Topic</b></p>
+	<center>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr><td>Your Name</td><td><input type="text" name="entry_by" value="Anonymous" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>Your Email</td><td><input type="text" name="entry_by_email" value="" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>&nbsp;</td><td><small>Your email will not be published</small></td></tr>
+	<tr><td>Comment Type</td><td>
+		<select name="comment_type" style="width: 230px;">
+			<option value="general">General comment/question</option>
+			<option value="site">Additional information about this page</option>
+			<option value="topic">Looking for more information on this topic</option>
+			<option value="relative">Looking for information about my relative</option>
+		</select>
+		</td></tr>
+	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
+	<tr><td valign="top">Security Code</td>
+		<td valign="top">
+			<div style="background-image:url('/images/captcha/captcha8.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<input type="text" name="captcha" style="margin-bottom: 2px;">
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td valign="top"><input type="hidden" name="foreigntype" value="S">
+		<input type="hidden" name="foreigntype_id" value="315">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=A315">
+		<input type="hidden" name="c" value="85"> 		<input type="submit" value="Submit"></td>
+	</tr>
+	</table>
+	</center>
+	<small><p>Note: We hope that visitor conversations at WW2DB will be constructive and thought-provoking.  Please refrain from using strong language.  HTML tags are not allowed.  Your IP address will be tracked even if you remain anonymous.  WW2DB site administrators reserve the right to moderate, censor, and/or remove any comment.  All comment submissions will become the property of WW2DB.</p></small>
+	</div>
+	</form>
+	</div>
+	<div class="xcol">
+		
+<div class="sidetop">Search WW2DB & Partner Sites</div>
+<ul>
+<form id="searchbox_004186240537787039759:ptfrvampo3a" action="https://ww2db.com/searchgoogle.php">
+<input type="hidden" name="cx" value="004186240537787039759:ptfrvampo3a" />
+<input type="hidden" name="channel" value="2781050959">
+<input name="q" type="text" size="12" />
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cof" value="FORID:11" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
+</ul>
+<div class="sidetop">More on USS Saratoga</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=976>Kleiss, Norman</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=899>Miles, Milton</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=456>Ring, Stanhope</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=82>Turner, Richmond</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=9>Guadalcanal Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=8>Solomon Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=72>Gilbert Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=73>Marshall Islands Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=196>Operation Cockpit and Operation Transom</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=12>Battle of Iwo Jima</a><br><br /><div class='sidehidden_m'><div class='sidetop'>Aircraft Carrier USS Saratoga Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=315'><img src="/images/imagemagick/tmb_ship_saratoga17.jpg" border='0' alt='Saratoga's incomplete hull at New York Shipbuilding Company shipyard, Camden, New Jersey, United States, 30 Sep 1921, photo 1 of 2'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=315'>See all 97 photographs of Aircraft Carrier USS Saratoga</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Links 160x90 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+	<div class="sidehidden_m">
+	<div class="sidetop">Current Site Statistics</div>
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,039 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,502 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>339 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,916 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+</div>
+
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"I have returned. By the grace of Almighty God, our forces stand again on Philippine soil."<br /><br />General Douglas MacArthur at Leyte, 17 Oct 1944</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Vertical Banner 160x600 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+		</div>
+</div>
+<div id="footer">
+	
+	<div style="float: left; padding: 0 5 0 5px; width: 400px; text-align: left;">
+		<div class="sidetop">About the Site</div>
+		<p>The World War II Database is founded and managed by 
+		C. Peter Chen of Lava Development, LLC.  The goal of this
+		site is two fold.  First, it is aiming to offer interesting
+		and useful information about WW2.  Second, it is to showcase
+		Lava's technical capabilities.</p>
+		<ul>
+		<li> &#187; <a href="/credits.php">More About WW2DB</a></li>
+		<li> &#187; <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');">More About Lava</a></li>
+		<li> &#187; <a href="/feed.php">Syndication</a></li>
+		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
+		<li> &#187; <a href="/">World War II Database Home</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=A315'>Mobile View</a></li>
+		</ul>		
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
+		<div class="sidetop">Most Popular</div>
+		<ul>
+				<li> &#187; <a href="/event/today/">Today in WW2 History</a></li>
+		<li> &#187; <a href="/photo.php?list=sp&sp=c">WW2 in Color</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=12">Battle of Iwo Jima</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=3">Battle of Stalingrad</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=2">Normandy Campaign</a></li>
+		<li> &#187; <a href="/vehicle_spec.php?q=314">Tiger I Tank</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=136">The Holocaust</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=49">Hiroshima and Nagasaki</a></li>
+		<li> &#187; <a href="/aircraft_spec.php?aircraft_model_id=27">Corsair Fighter</a></li>
+		</ul>
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 200px; text-align: left;">
+				<div class="sidetop">Links</div>
+		<ul><li> &#187; <a href='http://www.combinedfleet.com' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/www.combinedfleet.com');">Combined Fleet</a></li><li> &#187; <a href='http://david.ijn.googlepages.com/home' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/david.ijn.googlepages.com/home');">IJN Signals and Doctrine</a></li><li> &#187; <a href='http://propnturret.com/tully' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/propnturret.com/tully');">Tully's Port Forum</a></li><li> &#187; <a href='http://ww2db.com/ww2file/' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/ww2db.com/ww2file/');">WW2 File Blog</a></li></ul>	</div>
+	
+		<div style="border-top: 1px dotted #474747; clear: both;">
+		<center><p>Copyright © 2004-2018 <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');" style="text-decoration: none; font-weight: normal; color: #000000;">Lava Development, LLC.</a>, all rights reserved</p></center>
+		<br /><br />		
+	</div>
+</div>
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Footer Banner -->
+		<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="1441973756"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	<br /><center>		<a href="http://amzn.to/2grNvNh" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2grNvNh');"><img src="/images/ad_auto_after_ausch_728.jpg" /></a><br /><br />
+		</center>
+<br /><br />
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95725-1', 'ww2db.com');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>

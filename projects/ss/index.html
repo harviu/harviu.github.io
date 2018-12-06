@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalabel=no">
+<script src="jquery.js"></script>
+<title>Shooting Stimulator</title>
+</head>
+<body>
+<p>输入你的昵称，将在计分板上显示</p>
+  昵称: <input id="box" type="text" name="name"/><br>
+  <input type="button" onclick="myFunction()" value="提交">
+<script>
+window.addEventListener("load", eventWindowLoaded, false);
+function eventWindowLoaded(){
+	var box=document.getElementById("box")
+	c=document.cookie;
+	s=c.indexOf("name=");
+	e=c.indexOf(";", s);
+	if (e==-1) e=c.length;
+	if(s!=-1){
+	box.value=(c.substring(s+5,e));
+	}
+}
+
+function myFunction() {
+	var name=document.getElementById("box").value;
+	var _date=new Date();
+　　_date.setDate(_date.getDate()+30);
+　　_date.toGMTString();
+	var c="name="+name+";expires="+_date
+	document.cookie=c;
+	window.location.href="/shooting_simulator.html";
+}
+</script>
+
+</body>
+</html>

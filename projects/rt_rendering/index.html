@@ -1,0 +1,152 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Lab3_Harvey_Li </title>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+<!--  ************** Fragment Shader ************* --> 
+<script id="shader-fs" type="x-shader/x-fragment">
+  precision mediump float;
+  precision mediump int; 
+
+  uniform vec4 ambient_coef;
+  uniform vec4 diffuse_coef;
+  uniform vec4 specular_coef;
+  uniform vec4 light_color;
+  uniform float mat_shininess; 
+  uniform mat4 uV2WMatrix;  // eye to world 
+
+  uniform int use_texture; 
+  uniform sampler2D myTexture;
+  uniform samplerCube cubeMap; 
+
+  varying vec4 eye_pos;  //vertex position in eye space 
+  varying vec3 v_normal;  // vertex normal
+  varying vec3 light_v; //parallel light vector in eye
+  varying vec3 eye_vector;
+  varying highp vec2 FtexCoord;
+
+  void main(void) {
+    vec3 v = normalize(v_normal);
+    vec3 l = normalize(light_v);
+    vec3 e = normalize(eye_vector);
+
+    vec4 ambient = ambient_coef * light_color; 
+
+    float ndotl = max(dot(v, l), 0.0);  
+
+    vec4 diffuse = diffuse_coef * light_color* ndotl;
+
+    vec3 R= normalize(vec3(reflect(-l, v))); 
+    float rdotv = max(dot(R, e), 0.0);
+
+    vec4 specular;  
+    if (ndotl>0.0) 
+      specular = specular_coef* light_color*pow(rdotv, mat_shininess); 
+    else
+      specular = vec4(0,0,0,1);  
+
+    vec4 matcolor = ambient+diffuse+specular;
+    vec4 texcolor; 
+    if ( use_texture == 1 ) {
+      texcolor = texture2D(myTexture, FtexCoord); 
+      gl_FragColor = mix(texcolor,matcolor,0.47); 
+    }
+    else if (use_texture == 2){
+      vec3 ref= normalize(vec3(reflect(-e, v))); 
+      ref = vec3(uV2WMatrix*vec4(ref,0));   // convert to world space
+      vec4 env_color = textureCube(cubeMap, ref);
+      gl_FragColor = env_color;
+    }
+    else if (use_texture == 3){
+      texcolor = texture2D(myTexture, FtexCoord); 
+      gl_FragColor = texcolor;
+    }
+    else gl_FragColor = matcolor; 
+  }
+  
+</script>
+
+<!--  ************** Vertex Shader ************* --> 
+<script id="shader-vs" type="x-shader/x-vertex">
+  precision mediump float;
+  precision mediump int; 
+
+  attribute vec3 aVertexPosition;
+  attribute vec3 aVertexNormal;
+  attribute vec2 aVertexTexCoords; 
+
+  uniform mat4 uMVMatrix;
+  uniform mat4 uPMatrix; 
+  uniform mat4 uNMatrix;  // convert normals from world to eye
+  uniform vec4 light_vector; 
+  uniform int use_texture; 
+  
+  varying vec4 eye_pos;  //vertex position in eye space 
+  varying vec3 v_normal;  // vertex normal
+  varying vec3 light_v;
+  varying vec3 eye_vector;
+  varying highp vec2 FtexCoord;
+
+  void main(void) {
+
+    // transform normal from local to eye space: normal matrix is the inverse transpose of the modelview matrix 
+    v_normal =vec3(uNMatrix*vec4(aVertexNormal,0.0));
+
+    // transform the vertex position to eye space 
+    eye_pos = uMVMatrix*vec4(aVertexPosition, 1.0);
+
+    // eye vector V = e-p, where e is (0,0,0) 
+    eye_vector = -vec3(eye_pos);
+
+    light_v = vec3(uNMatrix*light_vector);
+
+    FtexCoord = aVertexTexCoords; 
+
+    gl_Position = uPMatrix*uMVMatrix*vec4(aVertexPosition, 1.0);
+
+  }
+</script>
+
+
+
+
+</head>
+
+
+<body onload="webGLStart();">
+
+    <canvas id="myCanvas" width="600"height="600"></canvas>
+    <div style="float:right">
+    
+      <p>Press 1 to switch to "Over View Camera"</p>
+      <p>Press 2 to switch to "FP Camera"</p>
+      <p>In Over View Camera, use scroll to truck in/out, left click and hold to rotate.</p>
+      <p>In FP Camera, use w/s to move forward/backward, mouse movement to rotate.</p>
+    </div>
+
+
+<br>
+  <br>
+    <footer>
+      <center>
+        <p>Based on &copy; Han-Wei Shen@OSU  WebGL Examples 2016</p>
+      </center>
+    </footer>
+  </br>
+  <!-- Le javascript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script type="text/javascript" src="glMatrix-0.9.5.min.js"></script>
+  <script type="text/javascript" src="shaders_setup.js"></script>
+  <script type="text/javascript" src="lab4.js"></script>
+<br/>
+
+</body>
+
+
+</html>
+

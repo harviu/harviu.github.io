@@ -1,0 +1,346 @@
+<html>
+
+<head>
+<title>Light Cruiser Oyodo | World War II Database</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Light Cruiser Oyodo | World War II Database">
+<meta name="keywords" content="ww2db, world war, ww2, military, history, Light Cruiser Oyodo | World War II Database">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="REVISIT-AFTER" CONTENT="15 days">
+<META NAME="COPYRIGHT" CONTENT="Copyright © 2004-2018 Lava Development, LLC., all rights reserved">
+<META NAME="AUTHOR" CONTENT="C. Peter Chen">
+<META NAME="CONTACT_ADDR" CONTENT="editor@ww2db.com">
+<META NAME="DISTRIBUTION" CONTENT="Global">
+<META NAME="RESOURCE-TYPE" CONTENT="document">
+<META HTTP-EQUIV="CONTENT-LANGUAGE" CONTENT="english">
+<meta name="MSSmartTagsPreventParsing" content="true">
+
+	
+	<link rel="stylesheet" type="text/css" href="/css/structure.css">
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+<link rel="stylesheet" type="text/css" href="/css/tags.css">
+
+<link rel="alternate" type="application/rss+xml" title="WW2DB RSS Feed" href="https://ww2db.com/feedgen.php?feed=articles&f=RSS2.0" />
+
+<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C50' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=50' />
+
+<meta property="fb:app_id" content="103484127961" />
+<meta name="p:domain_verify" content="794c2d433a01b5d35554ba972a179eff"/>
+
+	<link rel="image_src" type="image/jpeg" href="http://ww2db.com/images/ship_oyodo1.jpg" />
+	<meta property="og:site_name" content="WW2DB" />
+	<meta property="og:title" content="Light Cruiser Oyodo" />
+	<meta property="og:description" content="Light Cruiser Oyodo" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://ww2db.com/ship_spec.php?ship_id=C50" />
+		<meta property="og:image" content="http://ww2db.com/images/ship_oyodo1.jpg" />
+
+	<meta name='twitter:card' content='summary'>
+	<meta name='twitter:site' content='@ww2db'>
+	<meta name='twitter:title' content='Light Cruiser Oyodo'>
+	<meta name='twitter:description' content='Light Cruiser Oyodo'>
+	<meta name='twitter:image' content='http://ww2db.com/images/ship_oyodo1.jpg'>
+				
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
+<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js"></script>
+<style>
+table.dataTable thead .sorting_asc {
+	background: url("/images/icon_sort_asc.png") no-repeat center right;
+}
+table.dataTable thead .sorting_desc {
+	background: url("/images/icon_sort_desc.png") no-repeat center right;
+}
+table.dataTable tbody td, table.dataTable thead td {
+	padding: 0px 3px 3px 0px;
+}
+.dataTables_filter {
+	padding-bottom: 5px;
+}
+</style>
+	
+</head>
+<body>
+	<div id="banner">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr><td align="left"><h1 class="title">World War II Database</h1></td>
+		<td align="right">
+						<a href="/hp.php"><img src="/images/icon_hp.png" title="F4U Corsair" /></a>
+			<a href="http://www.facebook.com/worldwar2" rel="nofollow" target="_facebook" onclick="javascript: ga('send','pageview','/outgoing/www.facebook.com/worldwar2');"><img src="/images/icon_facebook2.png" border="0" /></a>&nbsp;
+			<a href="http://twitter.com/ww2db" rel="nofollow" target="_twitter" onclick="javascript: ga('send','pageview','/outgoing/twitter.com/ww2db');"><img src="/images/icon_twitter20.jpg" border="0" /></a>&nbsp;
+						<a href="https://www.reddit.com/r/ww2database" rel="nofollow" target="_reddit" onclick="javascript: ga('send','pageview','/outgoing/www.reddit.com/r/ww2database');"><img src="/images/icon_reddit20.png" border="0" /></a>&nbsp;
+			<a href="https://www.pinterest.com/ww2db/" rel="nofollow" target="_pinterest" onclick="javascript: ga('send','pageview','/outgoing/www.pinterest.com/ww2db/');"><img src="/images/icon_pinterest.png" border="0" /></a>&nbsp;
+			<a href="https://www.patreon.com/ww2db/" rel="nofollow" target="_patreon" onclick="javascript: ga('send','pageview','/outgoing/www.patreon.com/ww2db/');"><img src="/images/icon_patreon_20.png" border="0" /></a>&nbsp;
+			<a href="/feed.php"><img src="/images/icon_feed.jpg" border="0"></a>
+		</td></tr>
+		</table>
+		<div class="bannerflash">
+		<div style="background-image:url('/images/banner915_4.jpg'); height: 120px; min-height: 120px; width: 915px; min-width: 915px;">&nbsp;</div>		</div>
+	</div>
+	<div id='nav' align='right'>
+		<ul id='navlist'>
+			<li><a href='/'>Home</a></li><li><a href='/intro.php'>Intro</a></li><li><a href='/person.php'>People</a></li><li><a href='/event/'>Events</a></li><li><a href='/equip.php'>Equipment</a></li><li><a href='/place/'>Places</a></li><li><a href='/map/'>Maps</a></li><li><a href='/book/'>Books</a></li><li><a href='/photo.php'>Photos</a></li><li><a href='/video/'>Videos</a></li><li><a href='/other.php'>Other</a></li><li><a href='/ref.php'>Reference</a></li><li><a href='/faq/'>FAQ</a></li><li><a href='/credits.php'>About</a></li>		</ul>
+	</div>
+
+<div id="content">
+	<div itemscope itemtype="http://schema.org/Article" class="maincol">
+		<meta itemprop="url" content="<link rel='alternate' media='only screen and (max-width: 640px)' href='https://m.ww2db.com/ship_spec.php?ship_id=C50' />
+<link rel='canonical' href='https://ww2db.com/ship_spec.php?ship_id=50' />
+" />
+		<meta itemprop="description" content="Light Cruiser Oyodo" />
+		<div id="breadcrumb"><ul class="horizontalList">
+				<li class="horizontalList"> <a href="index.php">Home</a></li>
+				<li class="horizontalList"> &#187; <a href="equip.php">Equipment</a></li>
+				<li class="horizontalList"> &#187; <a href="ship.php">Ships</a></li><li class="horizontalList"> &#187; <a href="ship.php?list=C">Cruisers</a></li><li class="horizontalList"> &#187; Oyodo</li></ul></div>
+<div style='display: inline; float: right;'><image itemprop='image' class='filephoto' alt='Oyodo file photo [1659]' title='Oyodo file photo [1659]' src='/images/ship_oyodo1.jpg' /><script>
+		function resizeText(className, percent) {
+			var elements = document.getElementsByClassName(className);
+			for (var i = 0; i < elements.length; ++i) {
+				if (percent == null) {
+					elements[i].style.fontSize = '100%';
+				}
+				else {
+					if (elements[i].style.fontSize == '') elements[i].style.fontSize = '100%';
+					elements[i].style.fontSize = parseFloat(elements[i].style.fontSize) + percent + '%';
+				}
+			}
+		}
+		</script><br /><img src="/images/icon_font_small.jpg" onclick="resizeText('maincol', -10)" title="Decrease font size" /><img src="/images/icon_font_medium.jpg" onclick="resizeText('maincol', null)" title="Reset font size" /><img src="/images/icon_font_large.jpg" onclick="resizeText('maincol', 10)" title="Increase font size" /></div><div style='margin: 8px 0px 8px 0px;'><h2 itemprop='name' class='articleHeader'>Oyodo</h2></div><table class="table_noborder"><tr><td class="table_noborder">Country</td><td class="table_noborder"><a href='/country/japan'>Japan</a></td></tr><tr><td class="table_noborder">Ship Class</td><td class="table_noborder">Oyodo-class Light Cruiser</td></tr><tr><td class="table_noborder">Builder</td><td class="table_noborder"><a href='/facility/Kure_Naval_Arsenal/'>Kure Naval Arsenal</a></td></tr><tr><td class="table_noborder">Laid Down</td><td class="table_noborder">14 Feb 1941</td></tr><tr><td class="table_noborder">Launched</td><td class="table_noborder">2 Apr 1942</td></tr><tr><td class="table_noborder">Commissioned</td><td class="table_noborder">28 Feb 1943</td></tr><tr><td class="table_noborder">Sunk</td><td class="table_noborder">28 Jul 1945</td></tr><tr><td class="table_noborder">Displacement</td><td class="table_noborder">8163 tons standard; 11433 tons full</td></tr><tr><td class="table_noborder">Length</td><td class="table_noborder">630 feet</td></tr><tr><td class="table_noborder">Beam</td><td class="table_noborder">51 feet</td></tr><tr><td class="table_noborder">Draft</td><td class="table_noborder">20 feet</td></tr><tr><td class="table_noborder">Machinery</td><td class="table_noborder">Geared turbines, 4 shafts</td></tr><tr><td class="table_noborder">Power Output</td><td class="table_noborder">110000 SHP</td></tr><tr><td class="table_noborder">Speed</td><td class="table_noborder">35 knots</td></tr><tr><td class="table_noborder">Range</td><td class="table_noborder">10,600nm at 18 knots</td></tr><tr><td class="table_noborder">Crew</td><td class="table_noborder">782</td></tr><tr><td class="table_noborder">Armament</td><td class="table_noborder">3x2x155mm guns, 4x2x100mm Type 98 AA guns, 6x3x25mm Type 96 AA guns (as completed) or 12x3x25mm + 16x1x25mm Type 96 AA guns (final configuration)</td></tr><tr><td class="table_noborder">Armor</td><td class="table_noborder">60mm side belt, 30-50mm deck, 25-30mm turrets and barbettes, 40mm conning tower</td></tr><tr><td class="table_noborder">Aircraft</td><td class="table_noborder">2 floatplanes</td></tr></table><p><small>Contributor: <a href='/person_bio.php?person_id=179'><span itemprop='author' itemscope itemtype='http://schema.org/Person'><span itemprop='name'>C. Peter Chen</span></span></a></small></p><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Light cruiser Oyodo was the lead ship and the only ship of her class; her planned sister ship Niyodo was canceled in 1941 due to resources being directed to build carriers.  Her hull design was essentially that of an enlarged Agano-class cruiser, but she had different armament configurations and had less armor.  All of her primary guns were located in the forward half of the ship, so that her aft section could be freed up for operations of the up to six floatplanes that she could carry, which was vital to her design since she was to be the flagship of a scouting submarines.  Because she was not to be primarily a combat ship, unlike other light cruisers in the Japanese Navy, she was not equipped with torpedo tubes.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>Oyodo was completed in Feb 1943.  She held her trials in Tokyo Bay, Japan, and then was assigned to the Third Fleet on 1 Apr.  On 1 May, she was assigned to the Main Body of the Mobile Force.  In May, she was prepared to sail for the Aleutian Islands as a response to the American invasion of Attu, but the operation was canceled before she departed as the American conquest of Attu was complete.  After a number of training cruises, she sailed for Truk of Caroline Islands, arriving on 15 Jul.  Between 19 and 21 Jul, she transported troops to Rabaul, New Britain.  On 29 Aug 1943, Captain Katsukiyo Shinoda took over command of the ship from Captain Baron Tomioka Sadatoshi.  In Oct, she operated near Wake Island, and on 24 Oct rescued the three-man crew of a B5N2 reconnaissance aircraft.  On 6 Dec, while at Truk, Vice Admiral Jisaburo Ozawa boarded her and made her the flagship of the Third Fleet.  On 30 Dec, she departed as a troop transport to Kavieng, New Ireland, arriving two days later and was attacked by aircraft from USS Bunker Hill, killing two men and injuring six.  On 2 Jan 1944, she escorted damaged transport Kiyosumi Maru to Truk, while also hosting 71 wounded sailors on board.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After returning to Japan, Oyodo was taken out of service starting on 6 Mar to be converted as a flagship.  The conversion took place at Yokosuka Naval Yard.  Although designed to carry up to six aircraft, in practice she never operated more than two at once, thus she was equipped with a shorter catapult while part of her hangar space was converted to become crews' quarters (original quarters at forward part of the ship were converted to staff quarters).  She also received additional anti-aircraft weapons and new surface search radar during the conversion, which was completed on 31 Mar.  On 30 Apr, at Kisarazu on Tokyo Bay, she became Admiral Soemu Toyoda's flagship of the Combined Fleet.  On 6 May, Captain Toshio Abe took command as the captain.  On 15 Aug 1944, Abe was relieved by Captain Kakuro Mutaguchi.  On 29 Sep, Toyoda and his staff moved ashore to Keio University in Hiyoshi, Japan, near Yokohama.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 11 Oct 1944, Oyodo set sail.  On the next day, at about 2100, American submarine USS Trepang fired six torpedoes at her; though they all missed, one of them hit destroyer Fuyuzuki, damaging her bow and forward gun turret.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 20 Oct, Oyodo left Yashima anchorage in Japan toward the Philippine Islands for the operation that led to the campaign at Leyte.  As a part of Ozawa's decoy Northern Mobile Force, she escorted battleship-carrier hybrids Hyuga and Ise while her aircraft performed reconnaissance and anti-submarine patrols for the task force.  On 25 Oct, while off Cape Engaño, the task force was attacked by five waves of American carrier aircraft of Task Force 38.  Oyodo was damaged by two near misses and one hit at about 0848 during the first wave.  At 1054, Ozawa transferred his flag to Oyodo as his original flagship Zuikaku was critically wounded (and would sink at 1414).  In the afternoon, she was hit by two rockets launched by F6F Hellcat fighters and suffered from a near miss.  Oyodo and the remainder of the task force returned to Sakawa Bay, Amami Oshima, Ryukyu, Japan as 1200 on 27 Oct.  Later that day, Ozawa transferred his flag to Hyuga.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 29 Oct 1944, Oyodo departed from Amami Oshima for a transport mission to Manila, Luzon, Philippine Islands, arriving on 1 Nov, then moving on to Brunei, and would remain in the South China Sea region for some time.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 26 Dec, while en route to Mindoro, Philippine Islands to attack the American beachhead, Oyodo and her task force were attacked by American B-24 horizontal bombers at 2045.  She was hit by two 500-pound bombs, but one of them did not explode.  At 2303, cruisers Ashigara and Oyodo fired illuminating shells into Mangarin Bay, which allowed them to detect an American convoy.  At 2310, the task force attacked, hitting one transport with torpedo.  At 2315, Kiyoshimo of the task force was sunk by a torpedo by USS PT-223.  At 2326, Kashi and Kaya fired two torpedoes each, but none hit American transports.  Between 2345 and 0004, they bombarded a supply dump at the mouth of the Kasuang River, scoring hits and starting fires.  At 0100 on 27 Dec, Ashigara and Oyodo bombarded American vessels.  Between 0100 and 0235, they rescued survivors from the sunken Kiyoshimo.  The task force returned to Camranh Bay on 28 Dec and anchored at Singapore on 1 Jan for repairs.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>As a member of Carrier Division 4, Oyodo was loaded with 300 tons of rubber, zinc, mercury, tin, and gasoline, while other ships in the task force took on 5,000 drums of oil, other amounts of rubber and tin, and 1,150 oil field personnel.  The "Completion Force" convoy departed from Singapore on 11 Feb 1945.  The convoy was chased and attacked by 23 Allied submarines throughout its entire journey from Singapore through the Taiwan Strait to Kure, Japan, arriving on 20 Feb.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>On 25 Feb, Captain Matsuura Tadashi took command of Oyodo.  On 19 Mar, she was attacked by American carrier aircraft and was damaged by three 500-pound bomb hits.  She was towed to Etajima in Hiroshima Bay and beached, and she was towed to Kure for repairs, which lasted through 4 Apr.  On 15 May, Captain Taguchi Shoichi took command.  On 24 Jul 1945, US Navy Task Force 38 launched what was to be the final series of attacks against the Japanese Navy.  Between 0600 and 1700, Oyodo was hit by four 500-pound bombs and many near misses, causing her to suffer a slight list to starboard.  On 28 Jul, while at Etajima, she was hit by four more bombs.  At 1000 on 28 Jul, she took on a heavy list to starboard, leading to her capsizing in shallow water at 1200.  300 men were killed in the sinking.</p>
+<p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span>After the war, Oyodo's wreck was raised between 18 and 20 Sep 1947.  She was towed to Kure on 20 Dec to be scrapped, which was done between 17 Jan and 1 Aug 1948.</p>
+<small><p><span style='font-size: 0px; line-height: 0px;'> ww2dbase</span><i>Sources: Nihon Kaigun, Wikipedia.</i></p></small>
+				<link rel='stylesheet' href='https://unpkg.com/leaflet@1.3.1/dist/leaflet.css'
+				   integrity='sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=='
+				   crossorigin=''/>
+				<script src='https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+				   integrity='sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=='
+				   crossorigin=''></script>
+					<script src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css' rel='stylesheet' />
+					<link href='https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css' rel='stylesheet' />
+				
+				<style>
+				.mapClass {
+					height: 400px; 
+				}
+				.infowindowSubTitle {
+					font-weight: bold;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				</style>
+				
+				<p id='interactiveMapLabel'><b>Light Cruiser Oyodo Interactive Map</b></p>
+				<div id='mapid' class='mapClass'></div>
+				<script>
+				var mymap = L.map('mapid').setView([34.232000000, 132.554000000], 13);
+			
+					L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+						attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+						subdomains: 'abcd',
+						minZoom: 0,
+						maxZoom: 18,
+						ext: 'png'
+					}).addTo(mymap);
+				
+				var rawDataArray = [  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Kure, Hiroshima, Japan</h2><div class='infowindowSubTitle'>28 Jul 1945</div><a href='/image.php?image_id=24430'><img src='/images/imagemagick/tmb_55a74ee072e34.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><div class='infowindowSubTitle'>Aug 1945</div><a href='/image.php?image_id=6966'><img src='/images/imagemagick/tmb_ship_oyodo3.jpg' style='width: 50px; margin-right: 3px;' /></a><br /><a href='/image.php?image_id=22681'><img src='/images/imagemagick/tmb_ship_oyodo4.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 34.211947000, 132.472603000, 3],
+  ["<div style='min-width: 180px; min-height: 50px;'><h2 class='articleHeader'>Kure, Hiroshima, Japan</h2><div class='infowindowSubTitle'>28 Feb 1943</div><a href='/image.php?image_id=6965'><img src='/images/imagemagick/tmb_ship_oyodo2.jpg' style='width: 50px; margin-right: 3px;' /></a><br /></div>", 34.232000000, 132.554000000, 1]];
+				var pointsArray = [];
+			
+					var markers = L.markerClusterGroup({ maxClusterRadius: 50 });
+					for (var i = 0; i < rawDataArray.length; i++) {
+						var a = rawDataArray[i];
+						var title = a[0];
+						var fill_color = '#FF0033';
+						var marker = L.marker(new L.LatLng(a[1], a[2]), { title: title, color: fill_color });
+						marker.bindPopup(L.popup({maxHeight:200}).setContent(title));
+						markers.addLayer(marker);
+						pointsArray.push(marker);
+					}
+					mymap.addLayer(markers);
+				
+				var group = new L.featureGroup(pointsArray);
+				mymap.fitBounds(group.getBounds());
+				</script>
+			<p><b>Oyodo Operational Timeline</b></p><table border='0' cellspacing='0'><tr bgcolor='eeeeee'><td valign='top' align='right' nowrap><a href='/event/today/02/28/1943' alt='See all events on 28 Feb 1943' title='See all events on 28 Feb 1943' class='noStyle'>28 Feb 1943</a>&nbsp;</td><td>Oyodo was commissioned into service.</td></tr></table><br /><p><b>Photographs</b></p><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=50'><img src="/images/imagemagick/tmb_ship_oyodo2.jpg" border='0' alt='Light cruiser Oyodo at Kure Naval Arsenal, Japan, circa 28 Feb 1943; note the 45m large catapult at stern which was later removed during conversion'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=50'><img src="/images/imagemagick/tmb_ship_oyodo5.jpg" border='0' alt='Light cruiser Oyodo, circa spring 1944'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=50'><img src="/images/imagemagick/tmb_ship_zuikaku6.jpg" border='0' alt='Vice Admiral Jisaburo Ozawa transferring his flag from damaged carrier Zuikaku to light cruiser Oyodo, at 1100 hours on 25 Oct 1944'></a></td><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=50'><img src="/images/imagemagick/tmb_55a74ee072e34.jpg" border='0' alt='Carrier aircraft of US 3rd Fleet planes attacking cruiser Oyodo, Etajima, Japan 28 Jul 1945; photo taken by aircraft from USS Wasp (Essex-class)'></a></td></tr></table><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=50'>See all 6 photographs of Light Cruiser Oyodo</a><br /><br /><br /><br />
+				<center><table border='0' cellpadding='0' cellspacing='0' width='100%'>
+				<tr><td valign='top' width='382'><p>Did you enjoy this article?  Please consider supporting us on <a href='https://www.patreon.com/ww2db' rel='nofollow' target='_patreon' onclick='javascript: ga("send","pageview","/outgoing/www.patreon.com/ww2db/");'>Patreon</a>.  Even $1 per month will go a long way!  Thank you.</p>
+		<table border='0' cellpadding='0' cellspacing='0'>
+		<tr>
+			<td colspan='9'>Share this article with your friends:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C50' target='_facebook' rel='nofollow'><img src='/images/icon_facebook.gif' border='0'></a></td><td>&nbsp;</td><td><a id='facebook' title='Share this on Facebook' href='http://www.facebook.com/sharer.php?u=https://ww2db.com:443/ship_spec.php?ship_id=C50' target='_facebook'>Facebook</a></td>
+			<td><a title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C50&title=Light Cruiser Oyodo' target='_reddit' rel='nofollow'><img src='/images/icon_reddit.gif' border='0'></a></td><td>&nbsp;</td><td><a id='reddit' title='Share this on Reddit' href='http://reddit.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C50&title=Light Cruiser Oyodo' target='_reddit'>Reddit</a></td>
+		</tr>
+		<tr>
+			<td><a title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Oyodo+https://ww2db.com:443/ship_spec.php?ship_id=C50' target='_twitter' rel='nofollow'><img src='/images/icon_twitter.gif' border='0'></a></td><td>&nbsp;</td><td><a id='twitter' title='Tweet this page' href='http://twitter.com/home/?status=Light+Cruiser+Oyodo+https://ww2db.com:443/ship_spec.php?ship_id=C50' target='_twitter'>Twitter</a></td>
+			<td><a title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C50&title=Light Cruiser Oyodo' target='_digg' rel='nofollow'><img src='/images/icon_digg.gif' border='0'></a></td><td>&nbsp;</td><td><a id='digg' title='Share this on Digg' href='http://digg.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C50&title=Light Cruiser Oyodo' target='_digg'>Digg</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C50' target='_googleplus' rel='nofollow'><img src='/images/icon_googleplus2.png' border='0'></a></td><td>&nbsp;</td><td><a id='googleplus' title='Share this on Google+' href='https://plus.google.com/share?url=https://ww2db.com:443/ship_spec.php?ship_id=C50' target='_googleplus'>Google+</a></td>
+			<td><a title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C50&title=Light Cruiser Oyodo' target='_delicious' rel='nofollow'><img src='/images/icon_delicious.gif' border='0'></a></td><td>&nbsp;</td><td><a id='delicious' title='Share this on Delicious' href='http://del.icio.us/post?url=https://ww2db.com:443/ship_spec.php?ship_id=C50&title=Light Cruiser Oyodo' target='_delicious'>Delicious</a></td>
+		</tr>
+		<tr>
+			<td><a title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C50&title=Light Cruiser Oyodo' target='_stumbleupon' rel='nofollow'><img src='/images/icon_stumbleupon.gif' border='0'></a></td><td>&nbsp;</td><td><a id='stumbleupon' title='Share this on StumbleUpon' href='http://www.stumbleupon.com/submit?url=https://ww2db.com:443/ship_spec.php?ship_id=C50&title=Light Cruiser Oyodo' target='_stumbleupon'>StumbleUpon</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan='9'><br /><br />Stay updated with WW2DB:<br /><br /></td>
+		</tr>
+		<tr>
+			<td><a href='/feed.php'><img src='/images/icon_feed12.gif' border='0'></a></td><td>&nbsp;</td><td><a href='/feed.php'>RSS Feeds</a></td>
+		</tr>
+		</table>
+	</td><td valign='top' width='300'>		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB End of Content Medium Rectangle -->
+		<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5955033698"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</td></tr></table></center><br /><br /><br />
+
+	<form method="post" action="/comments_action.php">
+	<div style="background-color: #f0f0f0; border: 1px solid #b0b0b0; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+	<p><b>Posting Your Comments on this Topic</b></p>
+	<center>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr><td>Your Name</td><td><input type="text" name="entry_by" value="Anonymous" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>Your Email</td><td><input type="text" name="entry_by_email" value="" maxlength="100" size="30" style="margin-bottom: 2px;"></td></tr>
+	<tr><td>&nbsp;</td><td><small>Your email will not be published</small></td></tr>
+	<tr><td>Comment Type</td><td>
+		<select name="comment_type" style="width: 230px;">
+			<option value="general">General comment/question</option>
+			<option value="site">Additional information about this page</option>
+			<option value="topic">Looking for more information on this topic</option>
+			<option value="relative">Looking for information about my relative</option>
+		</select>
+		</td></tr>
+	<tr><td valign="top">Your Comments</td><td><textarea name="comment" cols="30" rows="6"></textarea></td></tr>
+	<tr><td valign="top">Security Code</td>
+		<td valign="top">
+			<div style="background-image:url('/images/captcha/captcha2.jpg'); height: 40px; min-height: 40px; width: 100px; min-width: 100px;">&nbsp;</div>			<br />
+			<input type="text" name="captcha" style="margin-bottom: 2px;">
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td valign="top"><input type="hidden" name="foreigntype" value="S">
+		<input type="hidden" name="foreigntype_id" value="50">
+		<input type="hidden" name="url" value="/ship_spec.php?ship_id=C50">
+		<input type="hidden" name="c" value="79"> 		<input type="submit" value="Submit"></td>
+	</tr>
+	</table>
+	</center>
+	<small><p>Note: We hope that visitor conversations at WW2DB will be constructive and thought-provoking.  Please refrain from using strong language.  HTML tags are not allowed.  Your IP address will be tracked even if you remain anonymous.  WW2DB site administrators reserve the right to moderate, censor, and/or remove any comment.  All comment submissions will become the property of WW2DB.</p></small>
+	</div>
+	</form>
+	</div>
+	<div class="xcol">
+		
+<div class="sidetop">Search WW2DB & Partner Sites</div>
+<ul>
+<form id="searchbox_004186240537787039759:ptfrvampo3a" action="https://ww2db.com/searchgoogle.php">
+<input type="hidden" name="cx" value="004186240537787039759:ptfrvampo3a" />
+<input type="hidden" name="channel" value="2781050959">
+<input name="q" type="text" size="12" />
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cof" value="FORID:11" />
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=searchbox_004186240537787039759%3Aptfrvampo3a"></script>
+</ul>
+<div class="sidetop">More on Oyodo</div><i>Personnel:</i><br>&raquo;&nbsp;<a href=person_bio.php?person_id=40>Ozawa, Jisaburo</a><br>&raquo;&nbsp;<a href=person_bio.php?person_id=45>Toyoda, Soemu</a><br><br><i>Event(s) Participated:</i><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=23>Dutch East Indies Campaign, Java</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=5>Philippines Campaign, Phase 1, the Leyte Campaign</a><br>&raquo;&nbsp;<a href=battle_spec.php?battle_id=54>Preparations for Invasion of Japan</a><br><br /><i>Partner Sites Content:</i><br />&raquo;&nbsp;<a href='http://www.combinedfleet.com/oyodo_t.htm' target='_combinedfleet' onclick="javascript: pageTracker._trackPageview('/outgoing/www.combinedfleet.com/oyodo_t.htm');">Oyodo Tabular Record of Movement</a><br /><div class='sidehidden_m'><div class='sidetop'>Light Cruiser Oyodo Photo Gallery</div><center><table cellpadding='2' cellspacing='0' border='0'><tr><td><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=50'><img src="/images/imagemagick/tmb_ship_oyodo2.jpg" border='0' alt='Light cruiser Oyodo at Kure Naval Arsenal, Japan, circa 28 Feb 1943; note the 45m large catapult at stern which was later removed during conversion'></a></td></tr></table></center><a href='/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=50'>See all 6 photographs of Light Cruiser Oyodo</a></div><br /><br />		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Links 160x90 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="5126713011"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+	<div class="sidehidden_m">
+	<div class="sidetop">Current Site Statistics</div>
+	<ul><li> &#187; <a class='noStyle' href='/person.php'>1,040 biographies</a></li><li> &#187; <a class='noStyle' href='/event/'>326 events</a></li><li> &#187; <a class='noStyle' href='/event/timeline/'>35,554 timeline entries</a></li><li> &#187; <a class='noStyle' href='/ship.php'>726 ships</a></li><li> &#187; <a class='noStyle' href='/aircraft.php'>329 aircraft models</a></li><li> &#187; <a class='noStyle' href='/vehicle.php'>184 vehicle models</a></li><li> &#187; <a class='noStyle' href='/weapon.php'>340 weapon models</a></li><li> &#187; <a class='noStyle' href='/doc.php'>102 historical documents</a></li><li> &#187; <a class='noStyle' href='/facility/'>175 facilities</a></li><li> &#187; <a class='noStyle' href='/book/'>457 book reviews</a></li><li> &#187; <a class='noStyle' href='/photo.php'>24,934 photos</a></li><li> &#187; <a class='noStyle' href='/reference/map/'>287 maps</a></li></ul>	<br />
+</div>
+
+<div class='sidehidden_m'><div class='sidetop'>Famous WW2 Quote</div>"All right, they're on our left, they're on our right, they're in front of us, they're behind us... they can't get away this time."<br><br>Lt. Gen. Lewis B. "Chesty" Puller, at Guadalcanal</div><br /><br />				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Xcol Vertical Banner 160x600 -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="6471754899"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		<br /><br />
+		</div>
+</div>
+<div id="footer">
+	
+	<div style="float: left; padding: 0 5 0 5px; width: 400px; text-align: left;">
+		<div class="sidetop">About the Site</div>
+		<p>The World War II Database is founded and managed by 
+		C. Peter Chen of Lava Development, LLC.  The goal of this
+		site is two fold.  First, it is aiming to offer interesting
+		and useful information about WW2.  Second, it is to showcase
+		Lava's technical capabilities.</p>
+		<ul>
+		<li> &#187; <a href="/credits.php">More About WW2DB</a></li>
+		<li> &#187; <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');">More About Lava</a></li>
+		<li> &#187; <a href="/feed.php">Syndication</a></li>
+		<li> &#187; <a href="/termsofuse.php" rel="nofollow">Terms of Use & Disclosures</a></li>
+		<li> &#187; <a href="/">World War II Database Home</a></li>
+		<li> &#187; <a href='http://m.ww2db.com/ship_spec.php?ship_id=C50'>Mobile View</a></li>
+		</ul>		
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 282px; text-align: left;">
+		<div class="sidetop">Most Popular</div>
+		<ul>
+				<li> &#187; <a href="/event/today/">Today in WW2 History</a></li>
+		<li> &#187; <a href="/photo.php?list=sp&sp=c">WW2 in Color</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=12">Battle of Iwo Jima</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=3">Battle of Stalingrad</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=2">Normandy Campaign</a></li>
+		<li> &#187; <a href="/vehicle_spec.php?q=314">Tiger I Tank</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=136">The Holocaust</a></li>
+		<li> &#187; <a href="/battle_spec.php?battle_id=49">Hiroshima and Nagasaki</a></li>
+		<li> &#187; <a href="/aircraft_spec.php?aircraft_model_id=27">Corsair Fighter</a></li>
+		</ul>
+	</div>
+	<div style="float: left; padding: 0 5 0 5px; width: 200px; text-align: left;">
+				<div class="sidetop">Links</div>
+		<ul><li> &#187; <a href='http://www.combinedfleet.com' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/www.combinedfleet.com');">Combined Fleet</a></li><li> &#187; <a href='http://david.ijn.googlepages.com/home' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/david.ijn.googlepages.com/home');">IJN Signals and Doctrine</a></li><li> &#187; <a href='http://propnturret.com/tully' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/propnturret.com/tully');">Tully's Port Forum</a></li><li> &#187; <a href='http://ww2db.com/ww2file/' target='_ad' rel='nofollow' onClick="javascript: ga('send','pageview','/outgoing/ww2db.com/ww2file/');">WW2 File Blog</a></li></ul>	</div>
+	
+		<div style="border-top: 1px dotted #474747; clear: both;">
+		<center><p>Copyright © 2004-2018 <a href="http://www.lavadev.com" target="_lavadev" onClick="javascript: ga('send','pageview','/outgoing/www.lavadev.com');" style="text-decoration: none; font-weight: normal; color: #000000;">Lava Development, LLC.</a>, all rights reserved</p></center>
+		<br /><br />		
+	</div>
+</div>
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- WW2DB Footer Banner -->
+		<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8359788307919731" data-ad-slot="1441973756"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	<br /><center>		<a href="http://amzn.to/2jfeSrN" target="_amazon" rel="nofollow" onclick="javascript: ga('send','pageview','/outgoing/amzn.to/2jfeSrN');"><img src="/images/ad_frontlines_of_television_war_728.jpg" /></a><br /><br />
+		</center>
+<br /><br />
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95725-1', 'ww2db.com');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>

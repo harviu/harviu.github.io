@@ -1,0 +1,839 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>Shooting Stimulator</title>
+<script src="modernizr-custom.js"></script>
+<script src="jquery.js"></script>
+<div style="position: absolute; top: 0px; left: 0px;
+ width:100%;
+ height:auto;">
+<canvas id="canvasOne" style=" 
+width:100%;
+ height:auto;">
+Your browser does not support HTML5 Canvas.
+</canvas>
+</div>
+<script type="text/javascript">
+window.addEventListener("load", eventWindowLoaded, false);
+var Debugger = function (){};
+Debugger.log = function (message) {
+	try {
+		console.log(message);	
+	} catch (exception){
+		return;
+	}
+}
+
+function eventWindowLoaded (){
+	canvasApp();
+}
+
+function canvasSupport(){
+	return Modernizr.canvas;
+}
+
+function canvasApp(){
+	if (!canvasSupport()){
+		return;
+	}
+	
+	var theCanvas =document.getElementById("canvasOne");
+	var context = theCanvas.getContext("2d");
+	
+	theCanvas.width=500;
+	theCanvas.height=500;
+
+	const STATE_INIT=0;
+	const STATE_LOAD=1;
+	const STATE_DEMO=2;
+	const STATE_PLAY=3;
+	const STATE_END=4;
+	const STATE_LEAD=5;
+	var currentGameState=0;
+	var currentGameStateFunction=null;
+	var score;
+	
+	const HIT=1;
+	const DESTROY=2;
+	const MISS=3;
+	var mouseDown=false;
+	var titleStarted=false;
+	var loadScreenStarted=false;
+	var sign=true;
+	var isFirstTime=true;
+	var loadCount=0;
+	var frameCount=0;
+	var countDown;
+	var timeExceeded=false;
+	var countDownFrame=0;
+	
+	var xMin=0;
+	var yMin=0;
+	var xMax=window.innerWidth;
+	var yMax=window.innerHeight;
+	var xP=0;
+	var yP=0;
+	var tpx=0;
+	var tpy=0;
+	
+	var demoTargetPic;
+	var switchM4Front;
+	var switchT34Front;
+	var switchM4Side;
+	var switchT34Side;
+	var T34Side;
+	var T34Front;
+	
+	const T34=1;
+	const M4=2;
+	const SIDE=3;
+	const FRONT=4;
+	var i=0;
+	var pic=[];
+	var level=[];
+	var type=[];
+	var angle=[];
+	var distance=[];
+	var area=[];
+	var lastX=-1;
+	var lastY=-1;
+	var drawX=0;
+	var drawY=0;
+	var dx=0;
+	var dy=0;
+	var score=0;
+	var T_NUM=11;
+	var condition=Math.floor(Math.random()*2);
+	
+	var hintString= new Array(
+//		去玩游戏啦不要看这里
+		"为防止敌人发现我们，瞄准每一辆坦克的时间有限",
+		"非正对你的敌人的投影大小可能会改变",
+		"根据敌人投影和标准投影的比例判断距离",
+		"使用瞄准镜上对应的刻度瞄准相应位置敌人",
+		"坦克的瞄准镜大多具有放大功能，这个游戏中的放大倍数为2",
+		"坦克内部有大量弹药和燃油，被击穿的坦克大多凶多吉少",
+		"虎式坦克的战斗重量为５７ｔ，约等于３０辆汽车",
+		"虎式最初投入战斗的时候，所有盟军坦克都无法击穿其正面装甲",
+		"实战当中，虎式坦克在１０００ｍ上对２ｍ＊２ｍ目标可以达到９３％的命中率",
+		"坦克测距使用密位（毫弧度）计算，１密位约等于１ｍｍ",
+		"坦克测距的时候需要知晓目标的实际大小，好在面对的盟军坦克型号有限",
+		"在波卡基村之战中，虎式坦克王牌米歇尔·魏特曼在一天中击毁盟军坦克23辆",
+		"穿甲弹被设置有延时引信，内部装药在击穿装甲后引爆",
+		"虎式坦克使用的普通穿甲弹被称为风帽被帽穿甲弹（ＡＰＣＢＣ）",
+		"二战坦克装甲表面都经过硬化处理，所以需要在穿甲弹头表面安置较硬的被帽",
+		"穿甲弹被帽一般被设计为钝头以对倾斜装甲获得更好的转正效应",
+		"穿甲弹风帽的作用是修正钝头被帽导致的不好的气动外形",
+		"和枪械一样，二战坦克炮中有膛线，让炮弹旋转以获得稳定性",
+		"虎式坦克上共有５名成员",
+		"这个游戏的作者不是一个德棍"
+	);
+	
+	
+	
+//	看代码刷分是不好的行为哦	
+	function runGame(){
+		currentGameStateFunction();
+	}
+	
+	function switchGameState(newState){
+		currentGameState=newState;
+		switch (currentGameState){
+			case STATE_INIT:
+				currentGameStateFunction=gameStateTitle;
+				break;
+			case STATE_LOAD:
+				currentGameStateFunction=gameStateLoad;
+				break;
+			case STATE_DEMO:
+				currentGameStateFunction=gameStateDemo;
+				break;
+			case STATE_PLAY:
+				currentGameStateFunction=gameStatePlay;
+				break;
+			case STATE_END:
+				currentGameStateFunction=gameStateEnd;
+				break;
+			case STATE_LEAD:
+				currentGameStateFunction=gameStateLead;
+				break;
+		}
+	}
+	
+	var enableMoveTarget=false;
+	
+	document.onmousedown=function(e){
+		mouseDown=true;
+		xP=e.clientX;
+		yP=e.clientY;
+		xP=xP/xMax*500;
+		yP=yP/xMax*500;
+		if(!(yP>=430&&yP<=500&&xP>=0&&xP<=120)) enableMoveTarget=true;
+	}
+	
+	document.ontouchstart=function(e){
+		e.preventDefault();
+		mouseDown=true;
+		xP=e.touches.item(0).clientX;
+		yP=e.touches.item(0).clientY;
+		xP=xP/xMax*500;
+		yP=yP/xMax*500;
+		if(!(yP>=430&&yP<=500&&xP>=0&&xP<=120)) enableMoveTarget=true;
+	}
+	
+	document.onmouseup=function(){
+		mouseDown=false;
+		lastX=-1;
+		enableMoveTarget=false;
+	}
+	
+	document.ontouchend=function(e){
+		e.preventDefault();
+		mouseDown=false;
+		lastX=-1;
+		enableMoveTarget=false;
+	}
+	
+	document.addEventListener("touchmove",tmove,false);
+	function tmove(e){
+		if(true==enableMoveTarget){
+			e.preventDefault();
+			xP=e.touches.item(0).clientX;
+			xP=xP/xMax*500;
+			yP=e.touches.item(0).clientY;
+			yP=yP/xMax*500;
+			if(mouseDown){
+				if(lastX==-1){lastX=xP;lastY=yP;}
+				drawX=drawX+xP-lastX;
+				drawY=drawY+yP-lastY;
+				if(drawX>=508.5)drawX=508.5;
+				if(drawX<=-508.5)drawX=-508.5;
+				if(drawY>=75)drawY=75;
+				if(drawY<=-300)drawY=-300;
+				lastX=xP;lastY=yP;
+			}
+		}
+	}
+	
+	document.onmousemove=function(e){
+		if(true==enableMoveTarget){
+			xP=e.clientX;
+			yP=e.clientY;
+			xP=xP/xMax*500;
+			yP=yP/xMax*500;
+			if(mouseDown){
+				if(lastX==-1){lastX=xP;lastY=yP;}
+				drawX=drawX+xP-lastX;
+				drawY=drawY+yP-lastY;
+				if(drawX>=508.5)drawX=508.5;
+				if(drawX<=-508.5)drawX=-508.5;
+				if(drawY>=75)drawY=75;
+				if(drawY<=-300)drawY=-300;
+				lastX=xP;lastY=yP;
+			}
+		}
+	}
+	
+	function gameStateTitle(){
+		if (!titleStarted){
+			fillBackground();
+			setTextStyle();
+			context.fillText("Shooting Simulator",137.5,175);
+			context.fillText("Touch to Play", 166.25,275);
+			titleStarted=true;
+		}
+		else{
+			if(mouseDown){
+				titleStarted=false;
+				mouseDown=false;
+				usedI=new Array();
+				loadScreenStarted=false;
+				sign=true;
+				score=0;
+				
+				demoTargetPic=new Image();
+				demoTargetPic.src="demoTarget.jpg";
+				switchM4Front=new Image();
+				switchM4Front.src="sherman-front-switch.png";
+				switchT34Front=new Image();
+				switchT34Front.src="t-34-front-switch.png";
+				switchM4Side=new Image();
+				switchM4Side.src="sherman-side-switch.png";
+				switchT34Side=new Image();
+				switchT34Side.src="t-34-side-switch.png"
+				T34Side=new Image();
+				T34Side.src="t-34-76-m1943-3.png";
+				T34Front=new Image();
+				T34Front.src="t-34-76-m1943-3_2.png";
+				
+				for(var j=0;j<T_NUM;j++){
+					pic[j]=new Image();
+					pic[j].src="pic"+j+".jpg";
+					pic[j].onload=itemLoaded;
+				}
+				
+				level=[26,24,20,20,25,20,18,25,22,15,29];
+				type=[T34,M4,M4,T34,M4,M4,M4,T34,M4,T34,T34];
+				angle=[FRONT,SIDE,FRONT,FRONT,SIDE,SIDE,FRONT,SIDE,FRONT,FRONT,FRONT];
+				area=[
+				[692,492,770,565],
+				[636,477,828,533],
+				[688,501,805,532],
+				[713,423,828,473],
+				[666,465,862,518],
+				[692,437,782,525],
+				[670,412,780,538],
+				[632,474,880,500],
+				[692,452,772,511],
+				[752,385,791,398],
+				[682,378,734,444],
+				];
+				distance=[
+				100*157/disCul(138,10),
+				100*259/234,
+				100*142/116,
+				100*157/190,
+				100*259/268,
+				100*259/disCul(234,58),
+				100*142/disCul(175,14),
+				100*280/322,
+				100*142/disCul(110,8),
+				100*95/37,
+				100*157/149,
+				];
+				
+				
+				demoTargetPic.onload=itemLoaded;
+				switchM4Side.onload=itemLoaded;
+				switchT34Front.onload=itemLoaded;
+				switchM4Front.onload=itemLoaded;
+				switchT34Side.onload=itemLoaded;
+				T34Side.onload=itemLoaded;
+				T34Front.onload=itemLoaded;
+				switchGameState(STATE_LOAD);
+			}
+		}
+	}
+	
+	function disCul(a,b){
+		return (Math.sqrt(Math.pow(a,2)+Math.pow(b,2)))
+	}
+	
+	function itemLoaded(){
+		loadCount++;
+	}
+	
+		
+		var loadFrameCount;
+	function gameStateLoad(){
+		const TO_LOAD=18;
+		if(!loadScreenStarted||loadFrameCount==200){
+			loadFrameCount=0;
+			var length=0;
+			var j=0;
+			/*if(isFirstTime){
+				j=Math.floor(Math.random()*5);
+			}
+			else{
+				j=Math.floor(Math.random()*hintString.length);
+			}*/
+			j=Math.floor(Math.random()*hintString.length);
+			fillBackground();
+			setTextStyle();
+			context.fillText("载入中...",205,150);
+			context.font='20px sans';
+			length=hintString[j].length;
+			if(length>20){
+				context.fillText(hintString[j].substr(0,20),50,375);
+				context.fillText(hintString[j].substring(20),(500-(length-20)*20)/2,425);
+			}
+			else{
+				context.fillText(hintString[j],(500-length*20)/2,400);
+			}
+			loadScreenStarted=true;
+		}
+		else{
+			loadFrameCount++;
+			if(loadCount>=TO_LOAD){
+				if(isFirstTime){
+					countDown=10;
+					isFirstTime=false;
+				a=[693,515,748,522]
+				tpx=(a[0]+a[2])/2;
+				tpy=(a[1]+a[3])/2;
+					switchGameState(STATE_DEMO);
+				}
+				else{
+					i=nextI();
+					countDown=level[i];
+					tpx=(area[i][0]+area[i][2])/2+Math.random()*(-area[i][0]+area[i][2])/2-(-area[i][0]+area[i][2])/4;
+					tpy=(area[i][1]+area[i][3])/2+Math.random()*(-area[i][1]+area[i][3])/2-(-area[i][1]+area[i][3])/4;
+					shootPrepare=false;
+					s=0;
+					n=false;
+					alpha=0;
+					switchGameState(STATE_PLAY);
+				}
+			}
+		}
+	}
+
+	var demoState=1;
+	function gameStateDemo(){
+		fillBackground();
+		setTextStyle();
+		
+		//左上角显示DEMO
+		if(sign){
+			context.fillText("●Demo",10,10);
+		}
+		frameCount++;
+		if(frameCount==40){
+			frameCount=0;
+			sign=!sign;
+		}
+		
+		//左下角显示
+		if (demoState==1){
+			setTextStyle();
+			context.fillText("↙按住这里显示目标在100M处的视角",43,400);
+			if(mouseDown){
+				demoState=2;
+				mouseDown=false;
+			}
+		}
+		drawSwitch(M4,SIDE);
+		
+		//右下角显示倒数
+		showCountDown();
+		if (demoState==2){
+			setTextStyle();
+			context.fillText("这里显示这关剩余的时间↘",165,400);
+			if(mouseDown){
+				demoState=3;
+				mouseDown=false;
+			}
+		}
+		
+		//Demo瞄准		
+		if(demoState==3){
+			drawScale(demoTargetPic,0,0);
+			drawPoint(0,0,[693,515,748,522]);
+			setTextStyle();
+			if(condition==1){
+				drawShermanSide(250,250);
+				context.fillText("按住左下角显示目标100M处的目视大小",40,70);
+			}
+			else{
+				drawLine(M4,SIDE);
+				context.fillText("按住左下角显示目标100M处的视角宽度",40,70);
+			}
+			context.fillText("估计他和目标的长度比，这里大约为4.5",37,100)
+			context.fillText("所以目标的距离为100*4.5=450M",62,130);
+			if(mouseDown){
+				demoState=4;
+				mouseDown=false;
+			}
+		}
+		
+		if(demoState==4){
+			dy=dy-1;
+			dx=dx-1;
+			if(dx<=-13)dx=-13;
+			setTextStyle();
+			count();
+			if(dy>=-225){
+				drawScale(demoTargetPic,dx,dy);
+				drawPoint(dx,dy,[693,515,748,522]);
+				context.fillText("按住屏幕并拖动进行瞄准蓝点",90,100);
+			}
+			else{
+				drawScale(demoTargetPic,-13,-225);
+				drawPoint(-13,-225,[693,515,748,522]);
+				context.fillText("将对应的距离对准目标",130,100);
+				context.fillText("在时间耗尽前松开手指射击",105,130);
+			}
+			if(dy==-365){
+				dy=0;
+				dx=0;
+				countDown=10;
+			}
+			if(mouseDown){
+				demoState=5;
+				mouseDown=false;
+			}
+		}
+		
+		if(demoState==5){
+			setTextStyle();
+			drawScale(demoTargetPic,-13,-225);
+			drawPoint(-13,-225,[693,515,748,522]);
+			context.fillText("右上角会显示命中情况",125,100);
+			context.fillText("点击屏幕开始游戏",150,130);
+			showHit(HIT);
+			if(mouseDown){
+				mouseDown=false;
+				i=nextI();
+				countDown=level[i];
+				tpx=(area[i][0]+area[i][2])/2+Math.random()*(-area[i][0]+area[i][2])/2-(-area[i][0]+area[i][2])/4;
+				tpy=(area[i][1]+area[i][3])/2+Math.random()*(-area[i][1]+area[i][3])/2-(-area[i][1]+area[i][3])/4;
+				shootPrepare=false;
+				s=0,n=false;
+				alpha=0;
+				switchGameState(STATE_PLAY);
+			}
+		}
+	}
+	
+	var shootPrepare=false;
+	var s=0,n=false;
+	var alpha=0;
+	function gameStatePlay(){
+		var x,y;
+		context.globalAlpha=1;
+		fillBackground();
+		showCountDown();
+		drawSwitch(type[i],angle[i]);
+		drawScale(pic[i],drawX,drawY);
+		drawPoint(drawX,drawY,area[i]);
+		if(countDown==0)n=true;
+		if(0!=s){
+			showHit(s);
+			x=250;
+			y=250+distance[i]/2;
+			n=true;
+		}
+		if(!n){ 
+			count();
+			if(mouseDown&&!enableMoveTarget){
+				if(condition==1) drawSign(type[i],angle[i]);
+				else drawLine(type[i],angle[i]);
+			}
+			if(mouseDown&&enableMoveTarget)shootPrepare=true;
+			if(shootPrepare&&!mouseDown){
+				shootPrepare=false;
+				s=shoot(drawX,drawY,distance[i],area[i]);
+			}
+		}
+		if(n){
+			context.save();
+			context.translate(0,0);
+			context.fillStyle='red';
+			context.fillRect(x-3,y-3,6,6);
+			context.restore();
+			context.globalAlpha=alpha;
+			fillBackground();
+			alpha+=0.03;
+			if(alpha>1){
+				alpha=0; n=false;
+				s=0;shootPrepare=false;
+				drawX=0;
+				drawY=0;
+				i=nextI();
+				if(i==-1){
+					switchGameState(STATE_END);
+				}
+				else{
+					countDown=level[i];
+					tpx=(area[i][0]+area[i][2])/2+Math.random()*(-area[i][0]+area[i][2])/2-(-area[i][0]+area[i][2])/4;
+					tpy=(area[i][1]+area[i][3])/2+Math.random()*(-area[i][1]+area[i][3])/2-(-area[i][1]+area[i][3])/4;
+				}
+			}
+		}
+	}
+	var endLoaded=false;
+	function gameStateEnd(){
+		if(!endLoaded){
+			fillBackground();
+			setTextStyle();
+			context.fillText("你的得分是"+Math.floor(score)+"分",160,230);
+			var data={score: Math.floor(score)};
+			c=document.cookie;
+        		s=c.indexOf("name=");
+        		e=c.indexOf(";", s);
+         		if (e==-1) e=c.length;
+			var name=c.substring(s+5,e);
+			$.post('/f/writeLB?n='+name,data)
+			endLoaded=true;
+		}
+		else{
+			if(mouseDown){
+				mouseDown=false;
+				endLoaded=false;
+				switchGameState(STATE_LEAD);
+			}
+		}
+	}
+	
+	var boardLoaded=false
+	function gameStateLead(){
+		if(boardLoaded==false){
+			var name= new Array();
+			fillBackground();
+			setTextStyle();
+			context.font='20px sans';
+			context.fillText("Leader Board",150,10);
+			$.get('/f/readLB', function (board){
+				var e1,e2;
+				var j=0;
+				var s=true;
+				for (var i=0;i<board.length;i++){
+					e1=board[i].indexOf('\t');
+					s=true;
+					for (var n=0;n<j;n++){
+						e2=name[n].indexOf('\t');
+						if (name[n].substring(0,e2)==board[i].substring(0,e1)
+						||board[i].substring(0,e1)=="cody guo 2"
+						||board[i].substring(0,e1)=="Cody Guo"
+						||board[i].substring(0,e1)=="郭中昊")	
+						s=false;
+					}
+					if(s){
+						name[j]=board[i];
+						context.fillText(name[j]+"\n",80,30*(j+1)+30);
+						j++;
+						if (j==10) break;
+					}
+				}	
+			})
+			boardLoaded=true;
+		}
+		else{
+			if(mouseDown){
+				mouseDown=false;
+				boardLoaded=false;
+				switchGameState(STATE_INIT);
+			}
+		}
+	}
+	
+	function drawPoint(m,n,a){
+		context.save();
+		context.translate(0,0);
+		context.fillStyle='blue';
+		context.moveTo(-483.5-m+tpx,-275-n+tpy);
+		context.arc(-483.5-m+tpx,-275-n+tpy,3,0,2*Math.PI,true);
+		context.fill();
+		context.restore();
+	}
+	
+	function shoot(x,y,d,a){
+		var hitPoint;
+		hitPoint=[x+1467/2,y+525+d/2];
+		var delta={data:hitPoint[1]-tpy,type:condition};
+		c=document.cookie;
+                s=c.indexOf("name=");
+                e=c.indexOf(";", s);
+                if (e==-1) e=c.length;
+                var name=c.substring(s+5,e);
+		$.post("/f/writeData?n="+name,delta)
+		if((hitPoint[0]>=a[0])&&(hitPoint[0]<=a[2])&&(hitPoint[1]>=a[1])&&(hitPoint[1]<=a[3])){			
+			score+=100-50*(Math.abs(hitPoint[0]-tpx)/(-a[0]+a[2])+Math.abs(hitPoint[1]-tpy)/(-a[1]+a[3]));
+			return HIT;
+		}
+		else
+			return MISS;
+	}
+	
+	function drawSwitch(t,a){
+		if(t==M4&&a==FRONT){context.drawImage(switchM4Front,0,430);}
+		if(t==M4&&a==SIDE){context.drawImage(switchM4Side,0,430);}
+		if(t==T34&&a==FRONT){context.drawImage(switchT34Front,0,430);}
+		if(t==T34&&a==SIDE){context.drawImage(switchT34Side,0,430);}
+	}
+	
+	function showCountDown(){
+		context.fillStyle='#ffffff';
+		context.font='40px sans';
+		context.textBaseline='top';
+		context.fillText(countDown,440,430);
+	}
+	
+	function count(){
+		countDownFrame++;
+		if(countDownFrame>=40){
+			countDownFrame=0;
+			countDown=countDown-1;
+		}
+		if(countDown<=0){
+			timeExceeded=true;
+		}
+	}
+	
+	function drawSign(t,a){
+		if(t==M4&&a==FRONT){drawShermanFront(250,250);}
+		if(t==M4&&a==SIDE){drawShermanSide(250,250);}
+		if(t==T34&&a==FRONT){context.drawImage(T34Front,167.5,179);}
+		if(t==T34&&a==SIDE){context.drawImage(T34Side,68.5,176.5);}	
+	}
+	
+	function drawLine(t,a){
+		context.save();
+		context.fillStyle='white';
+		if(t==M4&&a==FRONT){context.fillRect(179,248.5,142,3);}
+		if(t==M4&&a==SIDE){context.fillRect(97,248.5,306,3);}
+		if(t==T34&&a==FRONT){context.fillRect(171.5,248.5,157,3);}
+		if(t==T34&&a==SIDE){context.fillRect(86,248.5,328,3);}	
+		context.restore();
+	}
+	
+	function showHit(s){
+		var str;
+		if(s==HIT){
+			str="准确命中";
+		}
+		if(s==MISS){
+			str="没有击中";
+		}
+		if(s==DESTROY){
+			str="击毁坦克";
+		}
+		setTextStyle();
+		context.fillText(str,390,10);
+	}
+	
+	function drawScale(img,m,n){
+		context.save();
+		context.beginPath();
+		context.arc(250,250,225,0,2*Math.PI,false);
+		context.closePath();
+		context.clip();
+		context.drawImage(img,-483.5-m,-275-n);
+		context.restore();
+		var x=0,y=0;
+		context.save();
+		context.strokeStyle='black';
+		context.fillStyle='#000000';
+		context.lineWidth=2;
+		context.translate(250,250);
+		context.font='16px sans';
+		context.beginPath();
+		context.moveTo(0,0);
+		context.lineTo(0,225);
+		for(y=0;y<225;y+=25){
+			if(y%50==0)
+				x=25;
+			else
+				x=17;
+			context.moveTo(-x,y);
+			context.lineTo(x,y);
+			var string=2*y+" M";
+			context.fillText(string,55,y-11);
+		}
+		context.stroke();
+		context.restore();
+	}
+	
+	var usedI =new Array();
+	function nextI(){
+		var i;
+		var s=false;
+		if(usedI.length==T_NUM) return -1;
+		while(1){
+			i=Math.floor(Math.random()*T_NUM);
+			for(var j=0;j<usedI.length;j++){
+				if (usedI[j]==i) s=true;
+			}
+			if (s==false)break;
+			s=false;
+		}
+		usedI.push(i);
+		return i;
+	}
+	
+	function drawShermanFront(x,y){
+		context.save();
+		context.strokeStyle='white';
+		context.lineWidth=2;
+		context.beginPath();
+		context.translate(x-71.5,y-100.5);
+		context.moveTo(25,28);
+		context.lineTo(115,28);
+		context.arcTo(123,35,126,65,7*Math.PI/2);
+		context.lineTo(127,69);
+		context.moveTo(25,28);
+		context.arcTo(18,35,16,69,7*Math.PI/2);
+		context.lineTo(16,69);
+		context.moveTo(0,70);
+		context.lineTo(142,70);
+		context.lineTo(142,105);
+		context.lineTo(115,105);
+		context.lineTo(115,149);
+		context.lineTo(29,149);
+		context.lineTo(29,105);
+		context.lineTo(0,105);
+		context.closePath();
+		context.strokeRect(3,110,23,63);
+		context.strokeRect(117,110,23,63);
+		context.stroke();
+		context.restore();
+	}
+	
+	function drawShermanSide(x,y){
+		context.save();
+		context.strokeStyle='white';
+		context.lineWidth=2;
+		context.beginPath();
+		context.translate(x-152,y-75);
+		context.strokeRect(4,37,78,7);
+		context.strokeRect(83,36,10,9);
+		context.moveTo(94,36);
+		context.arcTo(106,24,118,24,6*Math.PI);
+		context.lineTo(118,24);
+		context.moveTo(93,45);
+		context.arcTo(97,50,102,50,2.25*Math.PI);
+		context.lineTo(102,50);
+		context.moveTo(98,56.5);
+		context.lineTo(124,14.25);
+		context.lineTo(187,14.25);
+		context.lineTo(191,20);
+		context.lineTo(204,20);
+		context.lineTo(204,50);
+		context.lineTo(198,56.5);
+		context.lineTo(290,68);
+		context.lineTo(294,91);
+		context.lineTo(35,91);
+		context.lineTo(81,56.5);
+		context.lineTo(198,56.3);
+		context.moveTo(294,91);
+		context.lineTo(306,95);
+		context.moveTo(35,91);
+		context.lineTo(18,91);
+		context.arcTo(6,97,2,102,9.6);
+		context.moveTo(21,101);
+		context.arc(21,117,16,-Math.PI/2,Math.PI/2+0.6,true);
+		context.lineTo(35,149);
+		context.lineTo(247,149);
+		context.moveTo(21,101);
+		context.lineTo(275,101);
+		context.arc(275,117,16,-Math.PI/2,Math.PI/2-0.6,false);
+		context.lineTo(247,149);
+		context.moveTo(81,56,5);
+		context.lineTo(292,76);
+		context.stroke();
+		context.restore();
+	}
+	
+	function fillBackground(){
+		context.fillStyle='#000000';
+		context.fillRect(xMin,yMin,500,500);
+	}
+	
+	function setTextStyle(){
+		context.fillStyle='#ffffff';
+		context.font='25px sans';
+		context.textBaseline='top';
+	}
+	
+	switchGameState(STATE_INIT);
+	const FRAME_RATE=40;
+	var intervalTime=1000/FRAME_RATE;
+	setInterval(runGame, intervalTime);
+}
+
+</script>
+</head>
+<body>
+</body>
+</html>
