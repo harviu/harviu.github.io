@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "harviu/haoyu-li",
+    "data-repo": "harviu/research_homepage",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
