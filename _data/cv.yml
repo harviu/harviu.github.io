@@ -2,31 +2,26 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Haoyu Li
     - name: Date of Birth
-      value: 14th March 1879
+      value: 19th April 1995
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D., Computer Science & Engineering
+      institution: The Ohio State University, Columbus, Ohio, US
+      year: 2017 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dissertation topic: Efficient Visualization for Machine-Learning-Represented Scientific Data
+        - Advisor: Professor Han-Wei Shen
+        - M.S., Computer Science & Engineering, May 2024 (en route to Ph.D.)
+    - title: B.S., Psychology
+      institution: Beijing Normal University, Beijing, China
+      year: 2013 - 2017
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
