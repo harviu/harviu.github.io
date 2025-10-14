@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor @ <a href='https://www.gvsu.edu/computing/li-haoyu-51'>Grand Valley State University</a>. 
+subtitle: Assistant Professor @ <a href='https://www.gvsu.edu/computing/li-haoyu-51'>Grand Valley State University</a>.
 
 profile:
   align: right

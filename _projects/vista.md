@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
+title: VISTA
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+redirect: https://iadsl.github.io/vista/
+importance: 1
 category: work
 ---
 

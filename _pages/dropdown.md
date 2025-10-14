@@ -3,7 +3,7 @@ layout: page
 title: submenus
 nav: flase
 nav_order: 8
-dropdown: true
+dropdown: false
 children:
   - title: bookshelf
     permalink: /books/
