@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor @ <a href='https://www.gvsu.edu/computing/li-haoyu-51'>Grand Valley State University</a>. lihao at gvsu dot edu
+subtitle: Assistant Professor @ <a href='https://www.gvsu.edu/computing/li-haoyu-51'>Grand Valley State University</a>. 
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
     <p>MAK D-2-220</p>
     <p>10880 N Campus Dr</p>
     <p>Allendale, MI 49401</p>
+    <p>lihao[at]gvsu[dot]edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
