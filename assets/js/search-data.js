@@ -469,11 +469,11 @@ ninja.data = [{
           window.open("https://github.com/harviu", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://orcid.org/0000-0002-7138-8263", "_blank");
         },
       },{
         id: 'social-rss',
