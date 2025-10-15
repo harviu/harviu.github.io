@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Courses I taught at GVSU
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- CIS 343 [Structure of Programming Languages](https://www.gvsu.edu/catalog/course/cis-343.htm)
+- CIS 671 [Information Visualization](https://www.gvsu.edu/catalog/course/cis-671.htm)
+- CIS 367 [Computer Graphics](https://www.gvsu.edu/catalog/course/cis-367.htm)
