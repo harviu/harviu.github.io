@@ -4,7 +4,7 @@ title: Unity Game !EMALB
 description: Unity Game made for OSU ACAD Game Design Course
 img: assets/img/unity_game.png
 importance: 5
-category: study
+category: hobby
 related_publications: false
 ---
 [Game Link](https://harviu.github.io/-EMALM/)

@@ -4,7 +4,7 @@ title: Shooting Simulator for Psychology Experiment
 description: Shooting Simulator made with HTML5 for cognitive psychology experiments
 img: assets/img/shooting_simulator.png
 importance: 9
-category: study
+category: hobby
 related_publications: true
 ---
 

@@ -5,6 +5,6 @@ description: Labs for the real-time rendering class using WebGL
 img: assets/img/webgl_course.jpg
 redirect: https://harviu.github.io/WebGL_Coursework/
 importance: 2
-category: study
+category: hobby
 related_publications: false
 ---
