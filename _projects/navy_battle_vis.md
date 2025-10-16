@@ -2,7 +2,7 @@
 layout: page
 title: WWII Navy Battles Visualization
 description: WWII Navy Battles Visualization for the data visualization course.
-img: assets/img/navy_battle_vis.jpg
+img: assets/img/navy_battle_vis.png
 importance: 1
 category: hobby
 ---
