@@ -29,5 +29,3 @@ latest_posts:
 ---
 
 I am an asssitant professor of College of Computing at Grand Valley State University. My research lies at the intersection of visualization and artificial intelligence, which includings using machine learning to increase the efficiency of scientific visualization and using visualization to understand and diagnose machine learning models. I am also insterested in the application of neural networks in computer graphics. I received my Ph.D in computer science from [GRAVITY](https://sites.google.com/view/gravity-research-group/people) lab at The Ohio State University in 2024 and BS in Psychology from [Beijing Normal University](https://english.bnu.edu.cn/).
-
-If you read Chinese, you can also visit my [personal Chinese blog](https://harviu.github.io/chinese_blog/) where I write about my life.
